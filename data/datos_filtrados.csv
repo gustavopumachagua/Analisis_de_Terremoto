@@ -1,0 +1,1284 @@
+ID,Time,Date,Place,Country,Continent,Latitude,Longitude,Depth,Mag,Type
+us6000jlqa,2023-02-06 10:24:49.258000+00:00,2023-02-06,"4 km SSE of Ekinözü, Turkey",Turkey,Europe,38.0235,37.203,10.0,7.5,earthquake
+us6000jllz,2023-02-06 01:17:35.525000+00:00,2023-02-06,"27 km E of Nurda??, Turkey",Turkey,Europe,37.1662,37.0421,17.0,7.8,earthquake
+us7000j36j,2023-01-09 17:47:35.038000+00:00,2023-01-09,"Pulau Pulau Tanimbar, Indonesia",Indonesia,Asia,-7.0652,130.0047,105.0,7.6,earthquake
+us7000ip0l,2022-11-11 10:48:46.710000+00:00,2022-11-11,"205 km ESE of Neiafu, Tonga",Tonga,Oceania,-19.2881,-172.1471,37.0,7.3,earthquake
+us7000i9bw,2022-09-19 18:05:08.217000+00:00,2022-09-19,"35 km SSW of Aguililla, Mexico",Mexico,North America,18.4552,-102.9561,26.0,7.6,earthquake
+us6000iitd,2022-09-10 23:47:00.233000+00:00,2022-09-10,"70 km E of Kainantu, Papua New Guinea",Papua New Guinea,Oceania,-6.2944,146.5038,116.0,7.6,earthquake
+us7000hcmn,2022-05-26 12:02:21.110000+00:00,2022-05-26,"10 km W of Azángaro, Peru",Peru,South America,-14.9076,-70.2924,236.0,7.2,earthquake
+us6000h519,2022-03-16 14:36:30.997000+00:00,2022-03-16,"57 km ENE of Namie, Japan",Japan,Asia,37.7132,141.5793,41.0,7.3,earthquake
+us7000g7lx,2021-12-29 18:25:51.962000+00:00,2021-12-29,"125 km NNE of Lospalos, Timor Leste",Timor Leste,Asia,-7.5482,127.5773,165.0,7.3,earthquake
+us6000gc2a,2021-12-14 03:20:23.809000+00:00,2021-12-14,Flores Sea,Flores Sea,Asia,-7.6033,122.2274,14.0,7.3,earthquake
+us7000fxq2,2021-11-28 10:52:14.579000+00:00,2021-11-28,"43 km NNW of Barranca, Peru",Peru,South America,-4.4667,-76.8126,126.0,7.5,earthquake
+us6000fr0b,2021-10-02 06:29:17.897000+00:00,2021-10-02,Vanuatu region,Vanuatu,Oceania,-21.1265,174.8958,527.0,7.3,earthquake
+us6000f9sq,2021-08-22 21:33:18.983000+00:00,2021-08-22,South Sandwich Islands region,South Sandwich Islands,Antarctica,-60.2845,-24.8743,6.0,7.1,earthquake
+us6000f65h,2021-08-14 12:29:08.454000+00:00,2021-08-14,"Nippes, Haiti",Haiti,North America,18.4335,-73.4822,10.0,7.2,earthquake
+us6000f53e,2021-08-12 18:35:17.231000+00:00,2021-08-12,South Sandwich Islands region,South Sandwich Islands,Antarctica,-58.3753,-25.2637,22.0,8.1,earthquake
+us6000f4ly,2021-08-12 18:32:52.464000+00:00,2021-08-12,South Sandwich Islands region,South Sandwich Islands,Antarctica,-57.5674,-25.0316,47.0,7.5,earthquake
+us6000f48v,2021-08-11 17:46:13.143000+00:00,2021-08-11,"60 km ENE of Pondaguitan, Philippines",Philippines,Asia,6.4748,126.7151,55.0,7.1,earthquake
+ak0219neiszm,2021-07-29 06:15:49.188000+00:00,2021-07-29,"99 km SE of Perryville, Alaska",Alaska,North America,55.3635,-157.8876,35.0,8.2,earthquake
+us7000e54r,2021-05-21 18:04:13.565000+00:00,2021-05-21,"Southern Qinghai, China",China,Asia,34.5983,98.2513,10.0,7.3,earthquake
+us7000dflf,2021-03-04 19:28:33.178000+00:00,2021-03-04,"Kermadec Islands, New Zealand",New Zealand,Oceania,-29.7228,-177.2794,28.0,8.1,earthquake
+us7000dfk3,2021-03-04 17:41:23.370000+00:00,2021-03-04,"Kermadec Islands, New Zealand",New Zealand,Oceania,-29.6768,-177.8398,43.0,7.4,earthquake
+us7000dffl,2021-03-04 13:27:34.647000+00:00,2021-03-04,"182 km NE of Gisborne, New Zealand",New Zealand,Oceania,-37.4787,179.4576,10.0,7.3,earthquake
+us6000dher,2021-02-13 14:07:49.797000+00:00,2021-02-13,"73 km ENE of Namie, Japan",Japan,Asia,37.7265,141.7751,43.0,7.1,earthquake
+us6000dg77,2021-02-10 13:19:55.530000+00:00,2021-02-10,southeast of the Loyalty Islands,Loyalty Islands,Oceania,-23.0511,171.6566,10.0,7.7,earthquake
+us6000c9hg,2020-10-19 20:54:38.950000+00:00,2020-10-19,"99 km SE of Sand Point, Alaska",Alaska,North America,54.602,-159.6258,28.0,7.6,earthquake
+us7000asvb,2020-07-22 06:12:44.810000+00:00,2020-07-22,"99 km SSE of Perryville, Alaska",Alaska,North America,55.0715,-158.596,28.0,7.8,earthquake
+us6000ah9t,2020-06-23 15:29:04.350000+00:00,2020-06-23,"9 km SE of Santa María Xadani, Mexico",Mexico,North America,15.8861,-96.0077,20.0,7.4,earthquake
+us6000ae4n,2020-06-18 12:49:53.844000+00:00,2020-06-18,south of the Kermadec Islands,Kermadec Islands,Oceania,-33.2927,-177.8571,10.0,7.4,earthquake
+us70008fi4,2020-03-25 02:49:21.160000+00:00,2020-03-25,"221 km SSE of Severo-Kuril’sk, Russia",Russia,Asia,48.9638,157.6955,57.0,7.5,earthquake
+us60007idc,2020-01-28 19:10:24.918000+00:00,2020-01-28,"123 km NNW of Lucea, Jamaica",Jamaica,North America,19.4193,-78.756,14.0,7.7,earthquake
+us60006bjl,2019-11-14 16:17:40.578000+00:00,2019-11-14,"141 km NW of Ternate, Indonesia",Indonesia,Asia,1.6213,126.4156,33.0,7.1,earthquake
+us70004jyv,2019-07-14 09:10:51.523000+00:00,2019-07-14,"155 km SSE of Sofifi, Indonesia",Indonesia,Asia,-0.5858,128.034,18.0,7.2,earthquake
+ci38457511,2019-07-06 03:19:53.040000+00:00,2019-07-06,"18km W of Searles Valley, CA",United States,North America,35.7695,-117.5993333,8.0,7.1,earthquake
+us600044zz,2019-06-24 02:53:39.830000+00:00,2019-06-24,Banda Sea,Banda Sea,Asia,-6.4078,129.1692,212.0,7.3,earthquake
+us6000417i,2019-06-15 22:55:04.130000+00:00,2019-06-15,"Kermadec Islands, New Zealand",New Zealand,Oceania,-30.6441,-178.0995,46.0,7.3,earthquake
+us60003sc0,2019-05-26 07:41:15.073000+00:00,2019-05-26,"78 km NE of Navarro, Peru",Peru,South America,-5.8119,-75.2697,122.0,8.0,earthquake
+us70003kyy,2019-05-14 12:58:25.939000+00:00,2019-05-14,"48 km NE of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-4.051,152.5967,10.0,7.6,earthquake
+us70003hqb,2019-05-06 21:19:37.983000+00:00,2019-05-06,"32 km NW of Bulolo, Papua New Guinea",Papua New Guinea,Oceania,-6.9746,146.4494,146.0,7.1,earthquake
+us2000jlfv,2019-02-22 10:17:23.770000+00:00,2019-02-22,"115 km ESE of Palora, Ecuador",Ecuador,South America,-2.1862,-77.0505,145.0,7.5,earthquake
+us2000ivfw,2018-12-20 17:01:55.150000+00:00,2018-12-20,"187 km SE of Ust’-Kamchatsk Staryy, Russia",Russia,Asia,55.0999,164.6993,16.0,7.3,earthquake
+us2000isc8,2018-12-11 02:26:29.420000+00:00,2018-12-11,South Sandwich Islands region,South Sandwich Islands,Antarctica,-58.5446,-26.3856,133.0,7.1,earthquake
+us1000i2gt,2018-12-05 04:18:08.420000+00:00,2018-12-05,"166 km ESE of Tadine, New Caledonia",New Caledonia,Oceania,-21.9496,169.4266,10.0,7.5,earthquake
+ak018fcnsk91,2018-11-30 17:29:29.330000+00:00,2018-11-30,"1 km SE of Point MacKenzie, Alaska",Alaska,North America,61.3464,-149.9552,46.0,7.1,earthquake
+us1000h3p4,2018-09-28 10:02:45.250000+00:00,2018-09-28,"72 km N of Palu, Indonesia",Indonesia,Asia,-0.2559,119.8462,20.0,7.5,earthquake
+us2000h9e2,2018-09-06 15:49:18.710000+00:00,2018-09-06,"45 km S of Levuka, Fiji",Fiji,Oceania,-18.4743,179.3502,670.0,7.9,earthquake
+us1000gjaz,2018-08-29 03:51:56.100000+00:00,2018-08-29,"238 km ESE of Tadine, New Caledonia",New Caledonia,Oceania,-22.0295,170.1262,21.0,7.1,earthquake
+us1000ggj4,2018-08-24 09:04:08.250000+00:00,2018-08-24,"136 km W of Iñapari, Peru",Peru,South America,-11.0355,-70.8284,630.0,7.1,earthquake
+us1000gez7,2018-08-21 21:31:47.600000+00:00,2018-08-21,"40 km ENE of Carúpano, Venezuela",Venezuela,South America,10.7731,-62.9019,146.0,7.3,earthquake
+us1000gcii,2018-08-19 00:19:40.670000+00:00,2018-08-19,"267 km E of Levuka, Fiji",Fiji,Oceania,-18.1125,-178.153,600.0,8.2,earthquake
+us2000d7q6,2018-02-25 17:44:44.140000+00:00,2018-02-25,"32 km SW of Tari, Papua New Guinea",Papua New Guinea,Oceania,-6.0699,142.7536,25.0,7.5,earthquake
+us2000d3km,2018-02-16 23:39:39.280000+00:00,2018-02-16,"4 km S of Pinotepa de Don Luis, Mexico",Mexico,North America,16.3855,-97.9787,22.0,7.2,earthquake
+us2000cmy3,2018-01-23 09:31:40.890000+00:00,2018-01-23,"261 km SE of Chiniak, Alaska",Alaska,North America,56.0039,-149.1658,14.0,7.9,earthquake
+us2000cjfy,2018-01-14 09:18:45.540000+00:00,2018-01-14,"37 km W of Atiquipa, Peru",Peru,South America,-15.7675,-74.7092,39.0,7.1,earthquake
+us1000c2zy,2018-01-10 02:51:33.290000+00:00,2018-01-10,"203 km NNE of Barra Patuca, Honduras",Honduras,North America,17.4825,-83.52,19.0,7.5,earthquake
+us2000bmcg,2017-11-12 18:18:17.180000+00:00,2017-11-12,"29 km S of ?alabja, Iraq",Iraq,Asia,34.9109,45.9592,19.0,7.3,earthquake
+us2000ar20,2017-09-19 18:14:38.090000+00:00,2017-09-19,"1 km S of Matzaco, Mexico",Mexico,North America,18.5499,-98.4887,48.0,7.1,earthquake
+us2000ahv0,2017-09-08 04:49:19.180000+00:00,2017-09-08,"near the coast of Chiapas, Mexico",Mexico,North America,15.0222,-93.8993,47.0,8.2,earthquake
+us20009x42,2017-07-17 23:34:13.740000+00:00,2017-07-17,"Komandorskiye Ostrova, Russia region",Russia,Asia,54.4434,168.857,10.0,7.7,earthquake
+us10007uph,2017-01-22 04:30:22.960000+00:00,2017-01-22,"35 km WNW of Panguna, Papua New Guinea",Papua New Guinea,Oceania,-6.2464,155.1718,135.0,7.9,earthquake
+us10007s9c,2017-01-10 06:13:48.140000+00:00,2017-01-10,"189 km SSE of Tabiauan, Philippines",Philippines,Asia,4.4782,122.6171,627.0,7.3,earthquake
+us10007mn3,2016-12-25 14:22:27.010000+00:00,2016-12-25,"41 km SW of Quellón, Chile",Chile,South America,-43.4064,-73.9413,38.0,7.6,earthquake
+us200081v8,2016-12-17 10:51:10.500000+00:00,2016-12-17,"140 km E of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-4.5049,153.5216,94.0,7.9,earthquake
+us20007z80,2016-12-08 17:38:46.280000+00:00,2016-12-08,"69 km WSW of Kirakira, Solomon Islands",Solomon Islands,Oceania,-10.6812,161.3273,40.0,7.8,earthquake
+us1000778i,2016-11-13 11:02:56.340000+00:00,2016-11-13,"53 km NNE of Amberley, New Zealand",New Zealand,Oceania,-42.7373,173.054,15.0,7.8,earthquake
+us20006uy6,2016-08-29 04:29:57.860000+00:00,2016-08-29,north of Ascension Island,Ascension Island,Africa,-0.0456,-17.8255,10.0,7.1,earthquake
+us10006exl,2016-08-19 07:32:22.710000+00:00,2016-08-19,South Georgia Island region,South Georgia Island,Antarctica,-55.2852,-31.8766,10.0,7.4,earthquake
+us10006d5h,2016-08-12 01:26:36.280000+00:00,2016-08-12,southeast of the Loyalty Islands,Loyalty Islands,Oceania,-22.4765,173.1167,16.0,7.2,earthquake
+us100068jg,2016-07-29 21:18:24.740000+00:00,2016-07-29,"Pagan region, Northern Mariana Islands",Mariana Islands,Oceania,18.5429,145.5073,196.0,7.7,earthquake
+us20005ysu,2016-05-28 09:46:59.780000+00:00,2016-05-28,South Sandwich Islands region,South Sandwich Islands,Antarctica,-56.2409,-26.9353,78.0,7.2,earthquake
+us20005j32,2016-04-16 23:58:36.980000+00:00,2016-04-16,"27 km SSE of Muisne, Ecuador",Ecuador,South America,0.3819,-79.9218,20.0,7.8,earthquake
+us10004u1y,2016-03-02 12:49:48.110000+00:00,2016-03-02,"southwest of Sumatra, Indonesia",Indonesia,Asia,-4.9521,94.3299,24.0,7.8,earthquake
+us20004vvx,2016-01-30 03:25:12.220000+00:00,2016-01-30,"80 km S of Mil’kovo, Russia",Russia,Asia,53.9776,158.5463,177.0,7.2,earthquake
+ak01613v15nv,2016-01-24 10:30:29.557000+00:00,2016-01-24,"47 km ESE of Pedro Bay, Alaska",Alaska,North America,59.6204,-153.3392,125.0,7.1,earthquake
+us100044k6,2015-12-07 07:50:05.950000+00:00,2015-12-07,"104 km W of Murghob, Tajikistan",Tajikistan,Asia,38.2107,72.7797,22.0,7.2,earthquake
+us100043z2,2015-12-04 22:25:00.110000+00:00,2015-12-04,southeast Indian Ridge,Southeast Indian Ridge,Indian Ocean,-47.6165,85.0913,35.0,7.1,earthquake
+us100040x6,2015-11-24 22:50:54.370000+00:00,2015-11-24,"185 km WNW of Iñapari, Peru",Peru,South America,-10.0598,-71.0184,620.0,7.6,earthquake
+us100040ww,2015-11-24 22:45:38.880000+00:00,2015-11-24,"155 km WNW of Iñapari, Peru",Peru,South America,-10.5372,-70.9437,606.0,7.6,earthquake
+us10003re5,2015-10-26 09:09:42.560000+00:00,2015-10-26,"Hindu Kush region, Afghanistan",Afghanistan,Asia,36.5244,70.3676,231.0,7.5,earthquake
+us10003q0q,2015-10-20 21:52:02.560000+00:00,2015-10-20,"31 km NE of Port-Olry, Vanuatu",Vanuatu,Oceania,-14.8595,167.3028,135.0,7.1,earthquake
+us20003k7a,2015-09-16 22:54:32.860000+00:00,2015-09-16,"48 km W of Illapel, Chile",Chile,South America,-31.5729,-71.6744,22.0,8.3,earthquake
+us20002ki3,2015-05-30 11:23:02.110000+00:00,2015-05-30,"Bonin Islands, Japan region",Japan,Asia,27.8386,140.4931,664.0,7.8,earthquake
+us20002ejl,2015-05-12 07:05:19.730000+00:00,2015-05-12,Nepal,Nepal,Asia,27.8087,86.0655,15.0,7.3,earthquake
+us20002das,2015-05-07 07:10:19.590000+00:00,2015-05-07,"143 km SW of Panguna, Papua New Guinea",Papua New Guinea,Oceania,-7.2175,154.5567,10.0,7.1,earthquake
+us20002bnf,2015-05-05 01:44:06.380000+00:00,2015-05-05,"131 km SSW of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-5.4624,151.8751,55.0,7.5,earthquake
+us20002926,2015-04-25 06:11:25.950000+00:00,2015-04-25,"67 km NNE of Bharatpur, Nepal",Nepal,Asia,28.2305,84.7314,8.0,7.8,earthquake
+us10001rvu,2015-03-29 23:48:31.010000+00:00,2015-03-29,"53 km SE of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-4.7294,152.5623,41.0,7.5,earthquake
+usb000tp5q,2015-02-13 18:59:12.230000+00:00,2015-02-13,northern Mid-Atlantic Ridge,Mid Atlantic Ridge,Europe,52.6487,-31.9016,16.0,7.1,earthquake
+usc000sxh8,2014-11-15 02:31:41.720000+00:00,2014-11-15,"155 km NW of Ternate, Indonesia",Indonesia,Asia,1.8929,126.5217,45.0,7.1,earthquake
+usc000stdc,2014-11-01 18:57:22.380000+00:00,2014-11-01,Fiji region,Fiji,Oceania,-19.6903,-177.7587,434.0,7.1,earthquake
+usb000slwn,2014-10-14 03:51:34.460000+00:00,2014-10-14,"74 km S of Intipucá, El Salvador",El Salvador,North America,12.5262,-88.1225,40.0,7.3,earthquake
+usc000rki5,2014-06-23 20:53:09.700000+00:00,2014-06-23,"Rat Islands, Aleutian Islands, Alaska",Alaska,North America,51.8486,178.7352,109.0,7.9,earthquake
+usb000pr89,2014-04-19 13:28:00.810000+00:00,2014-04-19,"70 km SW of Panguna, Papua New Guinea",Papua New Guinea,Oceania,-6.7547,155.0241,43.0,7.5,earthquake
+usb000pq41,2014-04-18 14:27:24.920000+00:00,2014-04-18,"9 km ENE of Coyuquilla Norte, Mexico",Mexico,North America,17.397,-100.9723,24.0,7.2,earthquake
+usc000piqj,2014-04-13 12:36:19.230000+00:00,2014-04-13,"112 km S of Kirakira, Solomon Islands",Solomon Islands,Oceania,-11.4633,162.0511,39.0,7.4,earthquake
+usc000phx5,2014-04-12 20:14:39.300000+00:00,2014-04-12,"93 km SSE of Kirakira, Solomon Islands",Solomon Islands,Oceania,-11.2701,162.1481,22.0,7.6,earthquake
+usc000pft9,2014-04-11 07:07:23.130000+00:00,2014-04-11,"56 km WSW of Panguna, Papua New Guinea",Papua New Guinea,Oceania,-6.5858,155.0485,60.0,7.1,earthquake
+usc000p27i,2014-04-03 02:43:13.110000+00:00,2014-04-03,"53 km SW of Iquique, Chile",Chile,South America,-20.5709,-70.4931,22.0,7.7,earthquake
+usc000nzvd,2014-04-01 23:46:47.260000+00:00,2014-04-01,"93 km NW of Iquique, Chile",Chile,South America,-19.6097,-70.7691,25.0,8.2,earthquake
+usb000l0gq,2013-11-17 09:04:55.530000+00:00,2013-11-17,Scotia Sea,Scotia Sea,Antarctica,-60.2738,-46.4011,10.0,7.7,earthquake
+usc000kn4n,2013-10-25 17:10:19.710000+00:00,2013-10-25,"off the east coast of Honshu, Japan",Japan,Asia,37.1557,144.6611,35.0,7.1,earthquake
+usb000kdb4,2013-10-15 00:12:32.050000+00:00,2013-10-15,"4 km SE of Sagbayan, Philippines",Philippines,Asia,9.8796,124.1167,19.0,7.1,earthquake
+usb000jzma,2013-09-25 16:42:43.170000+00:00,2013-09-25,"16 km WSW of Atiquipa, Peru",Peru,South America,-15.8385,-74.5112,40.0,7.1,earthquake
+usb000jyiv,2013-09-24 11:29:47.970000+00:00,2013-09-24,"113 km NW of Bela, Pakistan",Pakistan,Asia,26.951,65.5009,15.0,7.7,earthquake
+usb000ief9,2013-07-15 14:03:39.880000+00:00,2013-07-15,South Sandwich Islands region,South Sandwich Islands,Antarctica,-60.857,-25.07,11.0,7.3,earthquake
+usb000i89z,2013-07-07 18:35:30.740000+00:00,2013-07-07,"190 km ENE of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-3.917,153.927,385.0,7.3,earthquake
+usb000h4jh,2013-05-24 05:44:48.980000+00:00,2013-05-24,Sea of Okhotsk,Sea of Okhotsk,Asia,54.892,153.221,598.0,8.3,earthquake
+usb000h3k3,2013-05-23 17:19:04.750000+00:00,2013-05-23,"292 km SW of Vaini, Tonga",Tonga,Oceania,-23.009,-177.232,173.0,7.4,earthquake
+usb000gbf8,2013-04-19 03:05:52.650000+00:00,2013-04-19,"252 km ENE of Kuril’sk, Russia",Russia,Asia,46.221,150.788,110.0,7.2,earthquake
+usb000g7x7,2013-04-16 10:44:20.180000+00:00,2013-04-16,"79 km ESE of Kh?sh, Iran",Iran,Asia,28.033,61.996,80.0,7.7,earthquake
+usc000f40j,2013-02-08 15:26:38.470000+00:00,2013-02-08,"32 km SE of Lata, Solomon Islands",Solomon Islands,Oceania,-10.928,166.018,21.0,7.1,earthquake
+usc000f1se,2013-02-06 01:23:19.760000+00:00,2013-02-06,"112 km WSW of Lata, Solomon Islands",Solomon Islands,Oceania,-11.183,164.882,10.0,7.1,earthquake
+usc000f1s0,2013-02-06 01:12:25.830000+00:00,2013-02-06,"75 km W of Lata, Solomon Islands",Solomon Islands,Oceania,-10.799,165.114,24.0,8.0,earthquake
+ak0138esnzr,2013-01-05 08:58:14.957000+00:00,2013-01-05,"110 km SW of Edna Bay, Alaska",Alaska,North America,55.228,-134.8591,8.0,7.5,earthquake
+usp000jwt8,2012-12-10 16:53:08.770000+00:00,2012-12-10,Banda Sea,Banda Sea,Asia,-6.533,129.825,155.0,7.1,earthquake
+usp000jwjn,2012-12-07 08:18:23.130000+00:00,2012-12-07,"234 km SE of ?funato, Japan",Japan,Asia,37.89,143.949,31.0,7.3,earthquake
+usp000jv5f,2012-11-07 16:35:46.930000+00:00,2012-11-07,"33 km S of Champerico, Guatemala",Guatemala,North America,13.988,-91.895,24.0,7.4,earthquake
+usp000juhz,2012-10-28 03:04:08.820000+00:00,2012-10-28,"206 km SW of Prince Rupert, Canada",Canada,North America,52.788,-132.101,14.0,7.8,earthquake
+usp000jta1,2012-09-30 16:31:35.970000+00:00,2012-09-30,"11 km WNW of San Agustín, Colombia",Colombia,South America,1.929,-76.362,170.0,7.3,earthquake
+usp000jrsw,2012-09-05 14:42:07.800000+00:00,2012-09-05,"11 km ENE of Hojancha, Costa Rica",Costa Rica,North America,10.085,-85.315,35.0,7.6,earthquake
+usp000jr83,2012-08-31 12:47:33.380000+00:00,2012-08-31,"89 km E of Sulangan, Philippines",Philippines,Asia,10.811,126.638,28.0,7.6,earthquake
+usp000jqvm,2012-08-27 04:37:19.430000+00:00,2012-08-27,"126 km S of Puerto El Triunfo, El Salvador",El Salvador,North America,12.139,-88.59,28.0,7.3,earthquake
+usp000jq9h,2012-08-14 02:59:38.460000+00:00,2012-08-14,"156 km ENE of Poronaysk, Russia",Russia,Asia,49.8,145.064,583.0,7.7,earthquake
+usp000jhjb,2012-04-11 10:43:10.850000+00:00,2012-04-11,off the west coast of northern Sumatra,Indonesia,Asia,0.802,92.463,25.0,8.2,earthquake
+official20120411083836720_20,2012-04-11 08:38:36.720000+00:00,2012-04-11,off the west coast of northern Sumatra,Indonesia,Asia,2.327,93.063,20.0,8.6,earthquake
+usp000jgsw,2012-03-25 22:37:06+00:00,2012-03-25,"23 km NE of Constitución, Chile",Chile,South America,-35.2,-72.217,40.0,7.1,earthquake
+usp000jghj,2012-03-20 18:02:47.440000+00:00,2012-03-20,"6 km E of Santiago Llano Grande, Mexico",Mexico,North America,16.493,-98.231,20.0,7.4,earthquake
+usp000jeag,2012-02-02 13:34:40.650000+00:00,2012-02-02,"125 km W of Port-Vila, Vanuatu",Vanuatu,Oceania,-17.827,167.133,23.0,7.1,earthquake
+usp000jdar,2012-01-10 18:36:59.080000+00:00,2012-01-10,off the west coast of northern Sumatra,Indonesia,Asia,2.433,93.21,19.0,7.2,earthquake
+usp000jc5z,2011-12-14 05:04:58.630000+00:00,2011-12-14,"25 km SSE of Wau, Papua New Guinea",Papua New Guinea,Oceania,-7.551,146.809,135.0,7.1,earthquake
+usp000j9rr,2011-10-23 10:41:23.250000+00:00,2011-10-23,"27 km NNE of Van, Turkey",Turkey,Europe,38.721,43.508,18.0,7.1,earthquake
+usp000j9nm,2011-10-21 17:57:16.100000+00:00,2011-10-21,Kermadec Islands region,Kermadec Islands,Oceania,-28.993,-176.238,33.0,7.4,earthquake
+usp000j83e,2011-09-15 19:31:04.080000+00:00,2011-09-15,Fiji region,Fiji,Oceania,-21.611,-179.528,644.0,7.3,earthquake
+usp000j6rj,2011-08-20 18:19:23.550000+00:00,2011-08-20,"64 km S of Port-Vila, Vanuatu",Vanuatu,Oceania,-18.311,168.218,28.0,7.1,earthquake
+usp000j6r4,2011-08-20 16:55:02.810000+00:00,2011-08-20,"71 km SSW of Port-Vila, Vanuatu",Vanuatu,Oceania,-18.365,168.143,32.0,7.2,earthquake
+usp000j48h,2011-07-06 19:03:18.260000+00:00,2011-07-06,Kermadec Islands region,Kermadec Islands,Oceania,-29.539,-176.34,17.0,7.6,earthquake
+usp000j3mq,2011-06-24 03:09:39.470000+00:00,2011-06-24,"Fox Islands, Aleutian Islands, Alaska",Alaska,North America,52.05,-171.836,52.0,7.3,earthquake
+usp000hzf6,2011-04-07 14:32:43.290000+00:00,2011-04-07,"29 km ESE of Ishinomaki, Japan",Japan,Asia,38.276,141.588,42.0,7.1,earthquake
+usp000hvpg,2011-03-11 06:25:50.300000+00:00,2011-03-11,"272 km ESE of Kamaishi, Japan",Japan,Asia,38.058,144.59,18.0,7.7,earthquake
+usp000hvpa,2011-03-11 06:15:40.280000+00:00,2011-03-11,"47 km E of ?arai, Japan",Japan,Asia,36.281,141.111,42.0,7.9,earthquake
+official20110311054624120_30,2011-03-11 05:46:24.120000+00:00,2011-03-11,"2011 Great Tohoku Earthquake, Japan",Japan,Asia,38.297,142.373,29.0,9.1,earthquake
+usp000hvhj,2011-03-09 02:45:20.330000+00:00,2011-03-09,"120 km SE of ?funato, Japan",Japan,Asia,38.435,142.842,32.0,7.3,earthquake
+usp000htb4,2011-01-18 20:23:23.480000+00:00,2011-01-18,"46 km WSW of Dalbandin, Pakistan",Pakistan,Asia,28.777,63.951,68.0,7.2,earthquake
+usp000hsfq,2011-01-02 20:20:17.780000+00:00,2011-01-02,"42 km NNW of Carahue, Chile",Chile,South America,-38.355,-73.326,24.0,7.2,earthquake
+usp000hrw0,2010-12-25 13:16:37+00:00,2010-12-25,"141 km W of Isangel, Vanuatu",Vanuatu,Oceania,-19.702,167.947,16.0,7.3,earthquake
+usp000hr97,2010-12-21 17:19:40.660000+00:00,2010-12-21,"Bonin Islands, Japan region",Japan,Asia,26.901,143.698,14.0,7.4,earthquake
+usp000hnj4,2010-10-25 14:42:22.460000+00:00,2010-10-25,"215 km SW of Sungai Penuh, Indonesia",Indonesia,Asia,-3.487,100.082,20.0,7.8,earthquake
+usp000hj05,2010-08-12 11:54:15.580000+00:00,2010-08-12,Ecuador,Ecuador,South America,-1.266,-77.306,206.0,7.1,earthquake
+usp000hhuc,2010-08-10 05:23:44.980000+00:00,2010-08-10,"33 km NW of Port-Vila, Vanuatu",Vanuatu,Oceania,-17.541,168.069,25.0,7.3,earthquake
+usp000hgmq,2010-07-23 23:15:10.190000+00:00,2010-07-23,"72 km S of Panubigan, Philippines",Philippines,Asia,6.776,123.259,640.0,7.5,earthquake
+usp000hgmh,2010-07-23 22:51:11.840000+00:00,2010-07-23,"61 km W of Bantogon, Philippines",Philippines,Asia,6.497,123.48,578.0,7.6,earthquake
+usp000hgmd,2010-07-23 22:08:11.250000+00:00,2010-07-23,"68 km W of Gadung, Philippines",Philippines,Asia,6.718,123.409,607.0,7.3,earthquake
+usp000hfku,2010-07-18 13:34:59.360000+00:00,2010-07-18,"New Britain region, Papua New Guinea",Papua New Guinea,Oceania,-5.931,150.59,35.0,7.3,earthquake
+usp000hdwb,2010-06-12 19:26:50.460000+00:00,2010-06-12,"Nicobar Islands, India region",India,Asia,7.881,91.936,35.0,7.5,earthquake
+usp000hd84,2010-05-27 17:14:46.570000+00:00,2010-05-27,"100 km WNW of Sola, Vanuatu",Vanuatu,Oceania,-13.698,166.643,31.0,7.2,earthquake
+usp000hchk,2010-05-09 05:59:41.620000+00:00,2010-05-09,"45 km SSW of Meulaboh, Indonesia",Indonesia,Asia,3.748,96.018,38.0,7.2,earthquake
+usp000hat0,2010-04-06 22:15:01.580000+00:00,2010-04-06,"75 km E of Sinabang, Indonesia",Indonesia,Asia,2.383,97.048,31.0,7.8,earthquake
+ci14607652,2010-04-04 22:40:42.360000+00:00,2010-04-04,"12km SW of Delta, B.C., MX",Mexico,North America,32.2861667,-115.2953333,9.0,7.2,earthquake
+usp000h7sq,2010-02-27 08:01:23.010000+00:00,2010-02-27,"124 km W of Lebu, Chile",Chile,South America,-37.773,-75.048,35.0,7.4,earthquake
+official20100227063411530_30,2010-02-27 06:34:11.530000+00:00,2010-02-27,"36 km WNW of Quirihue, Chile",Chile,South America,-36.122,-72.898,22.0,8.8,earthquake
+usp000h5np,2010-01-03 22:36:25.640000+00:00,2010-01-03,"94 km SE of Gizo, Solomon Islands",Solomon Islands,Oceania,-8.783,157.354,10.0,7.1,earthquake
+usp000h3wn,2009-11-09 10:44:55.110000+00:00,2009-11-09,"77 km ENE of Ba, Fiji",Fiji,Oceania,-17.239,178.331,595.0,7.3,earthquake
+usp000h2gr,2009-10-07 23:13:48.160000+00:00,2009-10-07,"143 km NW of Sola, Vanuatu",Vanuatu,Oceania,-13.093,166.497,31.0,7.4,earthquake
+usp000h2gd,2009-10-07 22:18:51.240000+00:00,2009-10-07,"196 km NW of Sola, Vanuatu",Vanuatu,Oceania,-12.517,166.382,35.0,7.8,earthquake
+usp000h2g9,2009-10-07 22:03:14.470000+00:00,2009-10-07,"148 km NW of Sola, Vanuatu",Vanuatu,Oceania,-13.006,166.51,45.0,7.7,earthquake
+usp000h237,2009-09-30 10:16:09.250000+00:00,2009-09-30,"30 km WSW of Pariaman, Indonesia",Indonesia,Asia,-0.72,99.867,81.0,7.6,earthquake
+usp000h1ys,2009-09-29 17:48:10.990000+00:00,2009-09-29,"168 km SSW of Matavai, Samoa",Samoa,Oceania,-15.489,-172.095,18.0,8.1,earthquake
+usp000h05x,2009-08-10 19:55:38.730000+00:00,2009-08-10,"266 km N of Bamboo Flat, India",India,Asia,14.099,92.902,24.0,7.5,earthquake
+usp000h04j,2009-08-09 10:55:55.110000+00:00,2009-08-09,"161 km S of ?yama, Japan",Japan,Asia,33.167,137.944,292.0,7.1,earthquake
+usp000gz8j,2009-07-15 09:22:29.030000+00:00,2009-07-15,"97 km WSW of Te Anau, New Zealand",New Zealand,Oceania,-45.762,166.562,12.0,7.8,earthquake
+usp000gxkj,2009-05-28 08:24:46.560000+00:00,2009-05-28,"46 km NW of Guanaja, Honduras",Honduras,North America,16.731,-86.217,19.0,7.3,earthquake
+usp000gv5p,2009-03-19 18:17:40.470000+00:00,2009-03-19,"191 km S of ‘Ohonua, Tonga",Tonga,Oceania,-23.043,-174.66,31.0,7.6,earthquake
+usp000gtnc,2009-02-11 17:34:50.490000+00:00,2009-02-11,"196 km SSE of Sarangani, Philippines",Philippines,Asia,3.886,126.387,20.0,7.2,earthquake
+usp000gsmz,2009-01-15 17:49:39.070000+00:00,2009-01-15,east of the Kuril Islands,Kuril Islands,Asia,46.857,155.154,36.0,7.4,earthquake
+usp000gs3t,2009-01-03 22:33:40.290000+00:00,2009-01-03,"86 km WNW of Manokwari, Indonesia",Indonesia,Asia,-0.691,133.305,23.0,7.4,earthquake
+usp000gs2d,2009-01-03 19:43:50.650000+00:00,2009-01-03,"140 km WNW of Manokwari, Indonesia",Indonesia,Asia,-0.414,132.885,17.0,7.7,earthquake
+usp000gpbs,2008-11-24 09:02:58.760000+00:00,2008-11-24,"284 km WSW of Mil’kovo, Russia",Russia,Asia,54.203,154.322,492.0,7.3,earthquake
+usp000gnur,2008-11-16 17:02:32.700000+00:00,2008-11-16,"135 km NW of Gorontalo, Indonesia",Indonesia,Asia,1.271,122.091,30.0,7.4,earthquake
+usp000gbc0,2008-07-05 02:12:04.480000+00:00,2008-07-05,Sea of Okhotsk,Sea of Okhotsk,Asia,53.882,152.886,632.0,7.7,earthquake
+usp000g650,2008-05-12 06:28:01.570000+00:00,2008-05-12,"58 km W of Tianpeng, China",China,Asia,31.002,103.322,19.0,7.9,earthquake
+usp000g3q9,2008-04-12 00:30:12.600000+00:00,2008-04-12,Macquarie Island region,Macquarie Island,Australia,-55.664,158.453,16.0,7.1,earthquake
+usp000g3eq,2008-04-09 12:46:12.720000+00:00,2008-04-09,"71 km SW of Isangel, Vanuatu",Vanuatu,Oceania,-20.071,168.892,33.0,7.3,earthquake
+usp000g1w2,2008-03-20 22:32:57.930000+00:00,2008-03-20,"226 km SE of Hotan, China",China,Asia,35.49,81.467,10.0,7.2,earthquake
+usp000fzx4,2008-02-25 08:36:33.030000+00:00,2008-02-25,"164 km WSW of Sungai Penuh, Indonesia",Indonesia,Asia,-2.486,99.972,25.0,7.2,earthquake
+usp000fzau,2008-02-20 08:08:30.520000+00:00,2008-02-20,"56 km NW of Sinabang, Indonesia",Indonesia,Asia,2.768,95.964,26.0,7.4,earthquake
+usp000fuse,2007-12-19 09:30:27.930000+00:00,2007-12-19,"207 km WSW of Adak, Alaska",Alaska,North America,51.36,-179.509,34.0,7.2,earthquake
+usp000fu3q,2007-12-09 07:28:20.820000+00:00,2007-12-09,south of the Fiji Islands,Fiji,Oceania,-25.996,-177.514,152.0,7.8,earthquake
+usp000ftj1,2007-11-29 19:00:20.420000+00:00,2007-11-29,"18 km WNW of Basse-Pointe, Martinique",Martinique,North America,14.944,-61.274,156.0,7.4,earthquake
+usp000fshy,2007-11-14 15:40:50.530000+00:00,2007-11-14,"36 km ESE of Tocopilla, Chile",Chile,South America,-22.247,-69.89,40.0,7.7,earthquake
+usp000frnh,2007-10-31 03:30:15.960000+00:00,2007-10-31,"Pagan region, Northern Mariana Islands",Mariana Islands,Oceania,18.9,145.388,207.0,7.2,earthquake
+usp000fpgq,2007-09-30 05:23:34.070000+00:00,2007-09-30,"Auckland Islands, New Zealand region",New Zealand,Oceania,-49.271,164.115,10.0,7.4,earthquake
+usp000fpca,2007-09-28 13:38:57.880000+00:00,2007-09-28,"Volcano Islands, Japan region",Japan,Asia,22.013,142.668,260.0,7.5,earthquake
+usp000fn2b,2007-09-12 23:49:03.720000+00:00,2007-09-12,"87 km SW of Sungai Penuh, Indonesia",Indonesia,Asia,-2.625,100.841,35.0,7.9,earthquake
+official20070912111026830_34,2007-09-12 11:10:26.830000+00:00,2007-09-12,"122 km SW of Bengkulu, Indonesia",Indonesia,Asia,-4.438,101.367,34.0,8.4,earthquake
+usp000fm6b,2007-09-02 01:05:18.150000+00:00,2007-09-02,"97 km S of Lata, Solomon Islands",Solomon Islands,Oceania,-11.61,165.762,35.0,7.2,earthquake
+usp000fjta,2007-08-15 23:40:57.890000+00:00,2007-08-15,"41 km SW of San Vicente de Cañete, Peru",Peru,South America,-13.386,-76.603,39.0,8.0,earthquake
+usp000fj6k,2007-08-08 17:05:04.920000+00:00,2007-08-08,"35 km NNE of Rengasdengklok, Indonesia",Indonesia,Asia,-5.859,107.419,280.0,7.5,earthquake
+usp000fhm9,2007-08-01 17:08:51.400000+00:00,2007-08-01,"56 km E of Luganville, Vanuatu",Vanuatu,Oceania,-15.595,167.68,120.0,7.2,earthquake
+usp000f83m,2007-04-01 20:39:58.710000+00:00,2007-04-01,"45 km SSE of Gizo, Solomon Islands",Solomon Islands,Oceania,-8.466,157.043,24.0,8.1,earthquake
+usp000f7b4,2007-03-25 00:40:01.610000+00:00,2007-03-25,"119 km S of Isangel, Vanuatu",Vanuatu,Oceania,-20.617,169.357,34.0,7.1,earthquake
+usp000f34b,2007-01-21 11:27:45.060000+00:00,2007-01-21,"126 km WNW of Ternate, Indonesia",Indonesia,Asia,1.065,126.282,22.0,7.5,earthquake
+usp000f2ab,2007-01-13 04:23:21.160000+00:00,2007-01-13,east of the Kuril Islands,Kuril Islands,Asia,46.243,154.524,10.0,8.1,earthquake
+usp000f114,2006-12-26 12:26:21.140000+00:00,2006-12-26,"30 km SW of Hengchun, Taiwan",Taiwan,Asia,21.799,120.547,10.0,7.1,earthquake
+usp000exfn,2006-11-15 11:14:13.570000+00:00,2006-11-15,Kuril Islands,Kuril Islands,Asia,46.592,153.266,10.0,8.3,earthquake
+usp000ensm,2006-07-17 08:19:26.680000+00:00,2006-07-17,"226 km SSW of Singaparna, Indonesia",Indonesia,Asia,-9.284,107.419,20.0,7.7,earthquake
+usp000eh87,2006-05-16 10:39:23.340000+00:00,2006-05-16,Kermadec Islands region,Kermadec Islands,Oceania,-31.81,-179.307,152.0,7.4,earthquake
+usp000eg5g,2006-05-03 15:26:40.290000+00:00,2006-05-03,"47 km SSE of Pangai, Tonga",Tonga,Oceania,-20.187,-174.123,55.0,8.0,earthquake
+usp000ef1h,2006-04-20 23:25:02.150000+00:00,2006-04-20,"80 km NE of Tilichiki, Russia",Russia,Asia,60.949,167.089,22.0,7.6,earthquake
+usp000e8ys,2006-01-27 16:58:53.670000+00:00,2006-01-27,"196 km S of Ambon, Indonesia",Indonesia,Asia,-5.473,128.131,397.0,7.6,earthquake
+usp000e7f0,2006-01-02 22:13:40.490000+00:00,2006-01-02,Fiji region,Fiji,Oceania,-19.926,-178.178,582.0,7.2,earthquake
+usp000e7dd,2006-01-02 06:10:49.760000+00:00,2006-01-02,east of the South Sandwich Islands,South Sandwich Islands,Antarctica,-60.957,-21.606,13.0,7.4,earthquake
+usp000e12e,2005-10-08 03:50:40.800000+00:00,2005-10-08,"21 km NNE of Muzaffar?b?d, Pakistan",Pakistan,Asia,34.539,73.588,26.0,7.6,earthquake
+usp000e09h,2005-09-26 01:55:37.670000+00:00,2005-09-26,"39 km NW of Yurimaguas, Peru",Peru,South America,-5.678,-76.398,115.0,7.5,earthquake
+usp000dz2j,2005-09-09 07:26:43.730000+00:00,2005-09-09,"135 km E of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-4.539,153.474,90.0,7.6,earthquake
+usp000dxe2,2005-08-16 02:46:28.400000+00:00,2005-08-16,"66 km ESE of Ishinomaki, Japan",Japan,Asia,38.276,142.039,36.0,7.2,earthquake
+usp000dvtc,2005-07-24 15:42:06.210000+00:00,2005-07-24,"Nicobar Islands, India region",India,Asia,7.92,92.19,16.0,7.2,earthquake
+usp000dt25,2005-06-15 02:50:54.190000+00:00,2005-06-15,"153 km W of Big Lagoon, California",United States,North America,41.292,-125.953,16.0,7.2,earthquake
+usp000dsw1,2005-06-13 22:44:33.900000+00:00,2005-06-13,"102 km ENE of Iquique, Chile",Chile,South America,-19.987,-69.197,115.0,7.8,earthquake
+official20050328160936530_30,2005-03-28 16:09:36.530000+00:00,2005-03-28,"78 km WSW of Singkil, Indonesia",Indonesia,Asia,2.085,97.108,30.0,8.6,earthquake
+usp000dhc1,2005-03-02 10:42:12.230000+00:00,2005-03-02,Banda Sea,Banda Sea,Asia,-6.527,129.933,201.0,7.1,earthquake
+usp000dfj2,2005-02-05 12:23:18.940000+00:00,2005-02-05,"138 km SW of Palimbang, Philippines",Philippines,Asia,5.293,123.337,525.0,7.1,earthquake
+usp000dbg6,2004-12-26 04:21:29.810000+00:00,2004-12-26,"284 km WNW of Sabang, Indonesia",Indonesia,Asia,6.91,92.958,39.0,7.2,earthquake
+official20041226005853450_30,2004-12-26 00:58:53.450000+00:00,2004-12-26,2004 Sumatra - Andaman Islands Earthquake,Indonesia,Asia,3.295,95.982,30.0,9.1,earthquake
+usp000db93,2004-12-23 14:59:04.410000+00:00,2004-12-23,north of Macquarie Island,Macquarie Island,Australia,-49.312,161.345,10.0,8.1,earthquake
+usp000d975,2004-11-26 02:25:03.310000+00:00,2004-11-26,"29 km SSW of Nabire, Indonesia",Indonesia,Asia,-3.609,135.404,10.0,7.1,earthquake
+usp000d8ze,2004-11-22 20:26:23.900000+00:00,2004-11-22,"255 km W of Riverton, New Zealand",New Zealand,Oceania,-46.676,164.721,10.0,7.1,earthquake
+usp000d8gx,2004-11-15 09:06:56.560000+00:00,2004-11-15,"32 km SSW of Pizarro, Colombia",Colombia,South America,4.695,-77.508,15.0,7.2,earthquake
+usp000d85g,2004-11-11 21:26:41.150000+00:00,2004-11-11,"63 km NW of Maubara, Timor Leste",Timor Leste,Asia,-8.152,124.868,10.0,7.5,earthquake
+usp000d3mb,2004-09-05 14:57:18.610000+00:00,2004-09-05,"118 km ESE of Shing?, Japan",Japan,Asia,33.184,137.071,10.0,7.4,earthquake
+usp000d3ka,2004-09-05 10:07:07.820000+00:00,2004-09-05,"94 km SE of Shing?, Japan",Japan,Asia,33.07,136.618,14.0,7.2,earthquake
+usp000d0v4,2004-07-25 14:35:19.060000+00:00,2004-07-25,"100 km SSE of Jambi City, Indonesia",Indonesia,Asia,-2.427,103.981,582.0,7.3,earthquake
+usp000d06s,2004-07-15 04:27:14.730000+00:00,2004-07-15,"208 km ENE of Levuka, Fiji",Fiji,Oceania,-17.656,-178.76,565.0,7.1,earthquake
+usp000ckks,2004-02-07 02:42:35.210000+00:00,2004-02-07,"Near the south coast of Papua, Indonesia",Indonesia,Asia,-4.003,135.023,10.0,7.3,earthquake
+usp000cgz9,2004-01-03 16:23:21.020000+00:00,2004-01-03,"202 km ESE of Tadine, New Caledonia",New Caledonia,Oceania,-22.253,169.683,22.0,7.1,earthquake
+usp000cg90,2003-12-27 16:00:59.450000+00:00,2003-12-27,"201 km ESE of Tadine, New Caledonia",New Caledonia,Oceania,-22.015,169.766,10.0,7.3,earthquake
+usp000cd1n,2003-11-17 06:43:06.800000+00:00,2003-11-17,"Rat Islands, Aleutian Islands, Alaska",Alaska,North America,51.146,178.65,33.0,7.8,earthquake
+usp000c8sz,2003-09-27 11:33:25.080000+00:00,2003-09-27,"29 km S of Aktash, Russia",Russia,Asia,50.038,87.813,16.0,7.3,earthquake
+usp000c8mb,2003-09-25 21:08:00.030000+00:00,2003-09-25,"119 km ESE of Shizunai-furukawach?, Japan",Japan,Asia,41.774,143.593,33.0,7.4,earthquake
+official20030925195006360_27,2003-09-25 19:50:06.360000+00:00,2003-09-25,"134 km SSW of Kushiro, Japan",Japan,Asia,41.815,143.91,27.0,8.16,earthquake
+usp000c5h6,2003-08-21 12:12:49.790000+00:00,2003-08-21,"56 km NW of Te Anau, New Zealand",New Zealand,Oceania,-45.104,167.144,28.0,7.2,earthquake
+usp000c41f,2003-08-04 04:37:20.130000+00:00,2003-08-04,Scotia Sea,Scotia Sea,Antarctica,-60.532,-43.411,10.0,7.6,earthquake
+usp000c2ka,2003-07-15 20:27:50.530000+00:00,2003-07-15,Carlsberg Ridge,Carlsberg Ridge,Asia,-2.598,68.382,10.0,7.6,earthquake
+usp000c0ag,2003-06-20 06:19:38.910000+00:00,2003-06-20,"105 km E of Cruzeiro do Sul, Brazil",Brazil,South America,-7.606,-71.722,558.0,7.1,earthquake
+usp000bsvs,2003-03-17 16:36:17.310000+00:00,2003-03-17,"Rat Islands, Aleutian Islands, Alaska",Alaska,North America,51.272,177.978,33.0,7.1,earthquake
+usp000bnyr,2003-01-22 02:06:34.610000+00:00,2003-01-22,"16 km SSW of Cuyutlán, Mexico",Mexico,North America,18.77,-104.104,24.0,7.6,earthquake
+usp000bnvq,2003-01-20 08:43:06.070000+00:00,2003-01-20,"126 km W of Kirakira, Solomon Islands",Solomon Islands,Oceania,-10.491,160.77,33.0,7.3,earthquake
+usp000bhv1,2002-11-17 04:53:53.540000+00:00,2002-11-17,"262 km E of Dolinsk, Russia",Russia,Asia,47.824,146.209,459.0,7.3,earthquake
+ak002e435qpj,2002-11-03 22:12:41.518000+00:00,2002-11-03,"75 km E of Cantwell, Alaska",Alaska,North America,63.5141,-147.4529,4.0,7.9,earthquake
+usp000bfuz,2002-11-02 01:26:10.700000+00:00,2002-11-02,"50 km NW of Sinabang, Indonesia",Indonesia,Asia,2.824,96.085,30.0,7.4,earthquake
+usp000be54,2002-10-10 10:50:20.570000+00:00,2002-10-10,"102 km SSE of Manokwari, Indonesia",Indonesia,Asia,-1.757,134.297,10.0,7.6,earthquake
+usp000bbpf,2002-09-08 18:44:23.710000+00:00,2002-09-08,"68 km ESE of Aitape, Papua New Guinea",Papua New Guinea,Oceania,-3.302,142.945,13.0,7.6,earthquake
+usp000ba6m,2002-08-19 11:08:24.310000+00:00,2002-08-19,south of the Fiji Islands,Fiji,Oceania,-23.884,178.495,675.0,7.7,earthquake
+usp000ba6g,2002-08-19 11:01:01.190000+00:00,2002-08-19,Fiji region,Fiji,Oceania,-21.696,-179.513,580.0,7.7,earthquake
+usp000b73z,2002-06-28 17:19:30.270000+00:00,2002-06-28,"50 km SW of Dongning, China",China,Asia,43.752,130.666,566.0,7.3,earthquake
+usp000b37m,2002-04-26 16:06:07+00:00,2002-04-26,"20 km SSW of Merizo Village, Guam",Guam,Oceania,13.088,144.619,85.0,7.1,earthquake
+usp000b1e2,2002-03-31 06:52:50.490000+00:00,2002-03-31,"67 km ENE of Hualien City, Taiwan",Taiwan,Asia,24.279,122.179,32.0,7.1,earthquake
+usp000azqw,2002-03-05 21:16:09.130000+00:00,2002-03-05,"Mindanao, Philippines",Philippines,Asia,6.033,124.249,31.0,7.5,earthquake
+usp000azhc,2002-03-03 12:08:19.740000+00:00,2002-03-03,"51 km SW of Jurm, Afghanistan",Afghanistan,Asia,36.502,70.482,225.0,7.4,earthquake
+usp000avpw,2002-01-02 17:22:48.760000+00:00,2002-01-02,"50 km WNW of Port-Vila, Vanuatu",Vanuatu,Oceania,-17.6,167.856,21.0,7.2,earthquake
+usp000aufx,2001-12-12 14:02:35.040000+00:00,2001-12-12,south of Australia,Australia,Oceania,-42.813,124.688,10.0,7.1,earthquake
+usp000asvm,2001-11-14 09:26:10.010000+00:00,2001-11-14,"Southern Qinghai, China",China,Asia,35.946,90.541,10.0,7.8,earthquake
+usp000ar78,2001-10-19 03:28:44.460000+00:00,2001-10-19,"155 km E of Kendari, Indonesia",Indonesia,Asia,-4.102,123.907,33.0,7.5,earthquake
+usp000amsn,2001-08-21 06:52:06.250000+00:00,2001-08-21,"295 km NE of Gisborne, New Zealand",New Zealand,Oceania,-36.813,-179.575,33.0,7.1,earthquake
+usp000aj40,2001-07-07 09:38:43.520000+00:00,2001-07-07,"51 km SW of Punta de Bombón, Peru",Peru,South America,-17.543,-72.077,33.0,7.6,earthquake
+official20010623203314130_33,2001-06-23 20:33:14.130000+00:00,2001-06-23,"6 km SSW of Atico, Peru",Peru,South America,-16.265,-73.641,33.0,8.4,earthquake
+usp000afyg,2001-06-03 02:41:57.160000+00:00,2001-06-03,"Kermadec Islands, New Zealand",New Zealand,Oceania,-29.666,-178.633,178.0,7.2,earthquake
+usp000aa8b,2001-02-24 07:23:48.730000+00:00,2001-02-24,"137 km WNW of Ternate, Indonesia",Indonesia,Asia,1.271,126.249,35.0,7.1,earthquake
+usp000a9kc,2001-02-13 19:28:30.260000+00:00,2001-02-13,"102 km SSE of Bengkulu, Indonesia",Indonesia,Asia,-4.68,102.562,36.0,7.4,earthquake
+usp000a8ds,2001-01-26 03:16:40.500000+00:00,2001-01-26,"17 km NW of Bhach?u, India",India,Asia,23.419,70.232,16.0,7.7,earthquake
+usp000a7m5,2001-01-13 17:33:32.380000+00:00,2001-01-13,"28 km SSW of Puerto El Triunfo, El Salvador",El Salvador,North America,13.049,-88.66,60.0,7.7,earthquake
+usp000a7cv,2001-01-09 16:49:28+00:00,2001-01-09,"16 km NE of Port-Olry, Vanuatu",Vanuatu,Oceania,-14.928,167.17,103.0,7.1,earthquake
+usp000a70h,2001-01-01 06:57:04.170000+00:00,2001-01-01,"21 km SE of Lukatan, Philippines",Philippines,Asia,6.898,126.579,33.0,7.5,earthquake
+usp000a45f,2000-11-17 21:01:56.490000+00:00,2000-11-17,"138 km SSW of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-5.496,151.781,33.0,7.8,earthquake
+usp000a3sp,2000-11-16 07:42:16.930000+00:00,2000-11-16,"135 km SE of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-5.233,153.102,30.0,7.8,earthquake
+usp000a3qq,2000-11-16 04:54:56.740000+00:00,2000-11-16,"24 km N of Rabaul, Papua New Guinea",Papua New Guinea,Oceania,-3.98,152.169,33.0,8.0,earthquake
+usp0009xzy,2000-08-06 07:27:12.900000+00:00,2000-08-06,"Bonin Islands, Japan region",Japan,Asia,28.856,139.556,394.0,7.4,earthquake
+usp0009ut0,2000-06-18 14:44:13.310000+00:00,2000-06-18,South Indian Ocean,Indian Ocean,Indian Ocean,-13.802,97.453,10.0,7.9,earthquake
+usp0009txv,2000-06-04 16:28:26.170000+00:00,2000-06-04,"103 km S of Bengkulu, Indonesia",Indonesia,Asia,-4.721,102.087,33.0,7.9,earthquake
+usp0009suu,2000-05-12 18:43:18.120000+00:00,2000-05-12,"75 km N of San Antonio de los Cobres, Argentina",Argentina,South America,-23.548,-66.452,225.0,7.2,earthquake
+usp0009sbh,2000-05-04 04:21:16.210000+00:00,2000-05-04,"89 km E of Luwuk, Indonesia",Indonesia,Asia,-1.105,123.573,26.0,7.6,earthquake
+usp0009qb4,2000-03-28 11:00:22.510000+00:00,2000-03-28,"Volcano Islands, Japan region",Japan,Asia,22.338,143.73,126.0,7.6,earthquake
+usp0009nxg,2000-02-25 01:43:58.640000+00:00,2000-02-25,"South Pacific Ocean, near the Tonga Islands",Tonga,Oceania,-19.528,173.818,33.0,7.1,earthquake
+usp0009kx3,2000-01-08 16:47:20.580000+00:00,2000-01-08,"117 km SSW of Hihifo, Tonga",Tonga,Oceania,-16.925,-174.248,183.0,7.2,earthquake
+usp0009jr8,1999-12-11 18:03:36.450000+00:00,1999-12-11,"14 km WNW of Bolitoc, Philippines",Philippines,Asia,15.766,119.74,33.0,7.3,earthquake
+usp0009j4n,1999-11-26 13:21:15.570000+00:00,1999-11-26,"92 km ESE of Lakatoro, Vanuatu",Vanuatu,Oceania,-16.423,168.214,33.0,7.5,earthquake
+usp0009hev,1999-11-12 16:57:19.550000+00:00,1999-11-12,"8 km S of Düzce, Turkey",Turkey,Europe,40.758,31.161,10.0,7.2,earthquake
+ci9108652,1999-10-16 09:46:44.460000+00:00,1999-10-16,"Hector Mine, CA Earthquake",United States,North America,34.6033333,-116.265,13.0,7.1,earthquake
+usp0009f7v,1999-09-30 16:31:15.690000+00:00,1999-09-30,"15 km W of San Baltazar Loxicha, Mexico",Mexico,North America,16.059,-96.931,60.0,7.5,earthquake
+usp0009eq0,1999-09-20 17:47:18.490000+00:00,1999-09-20,"21 km S of Puli, Taiwan",Taiwan,Asia,23.772,120.982,33.0,7.7,earthquake
+usp0009d4z,1999-08-17 00:01:39.130000+00:00,1999-08-17,"4 km ESE of Derince, Turkey",Turkey,Europe,40.748,29.864,17.0,7.6,earthquake
+usp000982a,1999-05-16 00:51:20.460000+00:00,1999-05-16,"51 km SSE of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-4.751,152.486,73.0,7.1,earthquake
+usp00097rj,1999-05-10 20:33:02.090000+00:00,1999-05-10,"92 km ENE of Kimbe, Papua New Guinea",Papua New Guinea,Oceania,-5.159,150.88,138.0,7.1,earthquake
+usp00095z9,1999-04-08 13:10:34.080000+00:00,1999-04-08,"57 km ENE of Wangqing, China",China,Asia,43.607,130.35,565.0,7.1,earthquake
+usp00095u8,1999-04-05 11:08:04+00:00,1999-04-05,"63 km W of Kimbe, Papua New Guinea",Papua New Guinea,Oceania,-5.591,149.568,150.0,7.4,earthquake
+usp00093u0,1999-03-04 08:52:01.900000+00:00,1999-03-04,"69 km S of Tabiauan, Philippines",Philippines,Asia,5.397,121.937,33.0,7.1,earthquake
+usp00092cr,1999-02-06 21:47:59.470000+00:00,1999-02-06,"146 km NW of Sola, Vanuatu",Vanuatu,Oceania,-12.853,166.697,90.0,7.3,earthquake
+usp0008yx2,1998-11-29 14:10:31.960000+00:00,1998-11-29,"264 km ESE of Luwuk, Indonesia",Indonesia,Asia,-2.071,124.891,33.0,7.7,earthquake
+usp0008tje,1998-08-20 06:40:55.820000+00:00,1998-08-20,"Bonin Islands, Japan region",Japan,Asia,28.932,139.329,440.0,7.1,earthquake
+usp0008ssb,1998-08-04 18:59:20.100000+00:00,1998-08-04,"3 km E of Bahía de Caráquez, Ecuador",Ecuador,South America,-0.593,-80.393,33.0,7.2,earthquake
+usp0008mdk,1998-05-03 23:30:21.910000+00:00,1998-05-03,"254 km SSE of Ishigaki, Japan",Japan,Asia,22.306,125.308,33.0,7.5,earthquake
+usp0008j7s,1998-03-29 19:48:16.210000+00:00,1998-03-29,"178 km ENE of Levuka, Fiji",Fiji,Oceania,-17.552,-179.092,537.0,7.2,earthquake
+usp0008hzd,1998-03-25 03:12:25.070000+00:00,1998-03-25,Balleny Islands region,Balleny Islands,Antarctica,-62.877,149.527,10.0,8.1,earthquake
+usp0008f7c,1998-01-30 12:16:08.690000+00:00,1998-01-30,"34 km SSE of Antofagasta, Chile",Chile,South America,-23.913,-70.207,42.0,7.1,earthquake
+usp0008dqq,1998-01-04 06:11:58.970000+00:00,1998-01-04,southeast of the Loyalty Islands,Loyalty Islands,Oceania,-22.301,170.911,100.0,7.5,earthquake
+usp0008d0r,1997-12-22 02:05:50.080000+00:00,1997-12-22,"117 km N of Finschhafen, Papua New Guinea",Papua New Guinea,Oceania,-5.495,147.867,179.0,7.2,earthquake
+usp0008btk,1997-12-05 11:26:54.690000+00:00,1997-12-05,"156 km S of Ust’-Kamchatsk Staryy, Russia",Russia,Asia,54.841,162.035,33.0,7.8,earthquake
+usp0008a97,1997-11-08 10:02:52.610000+00:00,1997-11-08,western Xizang,Nepal,Asia,35.069,87.325,33.0,7.5,earthquake
+usp00089q2,1997-10-28 06:15:17.330000+00:00,1997-10-28,"51 km N of Barranca, Peru",Peru,South America,-4.368,-76.681,112.0,7.2,earthquake
+usp000892b,1997-10-15 01:03:33.460000+00:00,1997-10-15,"36 km SW of Monte Patria, Chile",Chile,South America,-30.933,-71.22,58.0,7.1,earthquake
+usp000890q,1997-10-14 09:53:18.150000+00:00,1997-10-14,"192 km WSW of Haveluloto, Tonga",Tonga,Oceania,-22.101,-176.772,167.0,7.8,earthquake
+usp00082uf,1997-05-25 23:22:33.190000+00:00,1997-05-25,south of the Kermadec Islands,Kermadec Islands,Oceania,-32.115,179.791,332.0,7.1,earthquake
+usp000820p,1997-05-10 07:57:29.720000+00:00,1997-05-10,"58 km E of Q?’en, Iran",Iran,Asia,33.825,59.809,10.0,7.3,earthquake
+usp00080wt,1997-04-21 12:02:26.430000+00:00,1997-04-21,"171 km NNW of Sola, Vanuatu",Vanuatu,Oceania,-12.584,166.676,33.0,7.7,earthquake
+usp0007xx2,1997-02-27 21:08:02.360000+00:00,1997-02-27,"29 km ESE of Harnai, Pakistan",Pakistan,Asia,29.976,68.208,33.0,7.1,earthquake
+usp0007w7v,1997-01-23 02:15:22.970000+00:00,1997-01-23,"16 km NW of Villazón, Bolivia",Bolivia,South America,-21.999,-65.719,276.0,7.1,earthquake
+usp0007vrx,1997-01-11 20:28:26.020000+00:00,1997-01-11,"46 km WNW of El Habillal, Mexico",Mexico,North America,18.219,-102.756,33.0,7.2,earthquake
+usp0007swp,1996-11-12 16:59:44.030000+00:00,1996-11-12,"60 km SW of Changuillo, Peru",Peru,South America,-14.993,-75.675,33.0,7.7,earthquake
+usp0007n5m,1996-08-05 22:38:22.090000+00:00,1996-08-05,Fiji region,Fiji,Oceania,-20.69,-178.31,550.0,7.4,earthquake
+usp0007jw8,1996-06-17 11:22:18.540000+00:00,1996-06-17,"169 km NNE of Maumere, Indonesia",Indonesia,Asia,-7.137,122.589,587.0,7.9,earthquake
+usp0007jkw,1996-06-11 18:22:55.730000+00:00,1996-06-11,"8 km NNE of Palapag, Philippines",Philippines,Asia,12.614,125.154,33.0,7.1,earthquake
+usp0007jfz,1996-06-10 15:24:56+00:00,1996-06-10,"46 km SSW of Adak, Alaska",Alaska,North America,51.478,-176.847,26.0,7.3,earthquake
+usp0007jcu,1996-06-10 04:03:35.480000+00:00,1996-06-10,"77 km WSW of Adak, Alaska",Alaska,North America,51.564,-177.632,33.0,7.9,earthquake
+usp0007gqq,1996-04-29 14:40:41.090000+00:00,1996-04-29,"58 km WSW of Panguna, Papua New Guinea",Papua New Guinea,Oceania,-6.518,154.999,44.0,7.2,earthquake
+usp0007g84,1996-04-16 00:30:54.670000+00:00,1996-04-16,south of the Fiji Islands,Fiji,Oceania,-24.061,-177.036,110.0,7.2,earthquake
+usp0007dv6,1996-02-25 03:08:15.870000+00:00,1996-02-25,"24 km SSW of Santa María Chico Ometepec, Mexico",Mexico,North America,15.978,-98.07,21.0,7.1,earthquake
+usp0007dmb,1996-02-21 12:51:01.300000+00:00,1996-02-21,"123 km WSW of Puerto Santa, Peru",Peru,South America,-9.593,-79.587,10.0,7.5,earthquake
+official19960217055930550_33,1996-02-17 05:59:30.550000+00:00,1996-02-17,"101 km ENE of Biak, Indonesia",Indonesia,Asia,-0.891,136.952,33.0,8.09,earthquake
+usp0007chh,1996-02-07 21:36:46.300000+00:00,1996-02-07,"158 km E of Kuril’sk, Russia",Russia,Asia,45.324,149.892,42.0,7.2,earthquake
+usp00079zv,1996-01-01 08:05:10.830000+00:00,1996-01-01,"181 km N of Palu, Indonesia",Indonesia,Asia,0.729,119.931,24.0,7.9,earthquake
+usp00079k5,1995-12-25 04:43:24.460000+00:00,1995-12-25,"297 km NE of Lospalos, Timor Leste",Timor Leste,Asia,-6.903,129.151,141.0,7.1,earthquake
+usp000782n,1995-12-03 18:01:08.990000+00:00,1995-12-03,"128 km ESE of Kuril’sk, Russia",Russia,Asia,44.663,149.3,33.0,7.9,earthquake
+usp0007788,1995-11-22 04:15:11.940000+00:00,1995-11-22,"27 km SSE of Nuwaybi‘a, Egypt",Egypt,Africa,28.826,34.799,10.0,7.2,earthquake
+usp00075gf,1995-10-21 02:38:57.120000+00:00,1995-10-21,"13 km NW of Ocozocoautla de Espinosa, Mexico",Mexico,North America,16.84,-93.469,159.0,7.2,earthquake
+usp00075bd,1995-10-18 10:37:26.380000+00:00,1995-10-18,"83 km SE of Naze, Japan",Japan,Asia,27.929,130.175,28.0,7.1,earthquake
+usp00074vc,1995-10-09 15:35:53.910000+00:00,1995-10-09,"5 km E of El Colomo, Mexico",Mexico,North America,19.055,-104.205,33.0,8.0,earthquake
+usp00073c5,1995-09-14 14:04:31.430000+00:00,1995-09-14,"5 km N of Azoyú, Mexico",Mexico,North America,16.779,-98.597,23.0,7.4,earthquake
+usp00072a1,1995-08-23 07:06:02.760000+00:00,1995-08-23,"Pagan region, Northern Mariana Islands",Mariana Islands,Oceania,18.856,145.218,594.0,7.1,earthquake
+usp00071xh,1995-08-16 23:10:23.980000+00:00,1995-08-16,"139 km WNW of Panguna, Papua New Guinea",Papua New Guinea,Oceania,-5.771,154.347,33.0,7.2,earthquake
+usp00071w4,1995-08-16 10:27:28.630000+00:00,1995-08-16,"155 km WNW of Panguna, Papua New Guinea",Papua New Guinea,Oceania,-5.799,154.178,30.0,7.7,earthquake
+usp000714t,1995-07-30 05:11:23.630000+00:00,1995-07-30,"36 km NNE of Antofagasta, Chile",Chile,South America,-23.34,-70.294,45.0,8.0,earthquake
+usp000702z,1995-07-03 19:50:50.620000+00:00,1995-07-03,"Kermadec Islands, New Zealand",New Zealand,Oceania,-29.211,-177.589,35.0,7.2,earthquake
+usp0006y50,1995-05-27 13:03:52.650000+00:00,1995-05-27,"85 km S of Tungor, Russia",Russia,Asia,52.629,142.827,11.0,7.1,earthquake
+usp0006xg1,1995-05-16 20:12:44.220000+00:00,1995-05-16,"249 km E of Vao, New Caledonia",New Caledonia,Oceania,-23.008,169.9,20.0,7.7,earthquake
+usp0006ww5,1995-05-05 03:53:45.050000+00:00,1995-05-05,"14 km NE of Cabatuan, Philippines",Philippines,Asia,12.626,125.297,16.0,7.1,earthquake
+usp0006vz9,1995-04-21 00:34:46.090000+00:00,1995-04-21,"10 km E of Dapdap, Philippines",Philippines,Asia,12.059,125.58,20.0,7.2,earthquake
+usp0006vb3,1995-04-07 22:06:56.890000+00:00,1995-04-07,"88 km NNE of Hihifo, Tonga",Tonga,Oceania,-15.199,-173.529,21.0,7.4,earthquake
+usp0006sef,1995-02-05 22:51:05.140000+00:00,1995-02-05,"118 km NNE of Gisborne, New Zealand",New Zealand,Oceania,-37.759,178.752,21.0,7.1,earthquake
+usp0006qh3,1994-12-28 12:19:23.030000+00:00,1994-12-28,"off the east coast of Honshu, Japan",Japan,Asia,40.525,143.419,26.0,7.8,earthquake
+usp0006nn2,1994-11-14 19:15:30.660000+00:00,1994-11-14,"10 km E of Sabang, Philippines",Philippines,Asia,13.525,121.067,31.0,7.1,earthquake
+usp0006ku9,1994-10-09 07:55:39.580000+00:00,1994-10-09,"96 km E of Shikotan, Russia",Russia,Asia,43.905,147.916,33.0,7.3,earthquake
+usp0006kdp,1994-10-04 13:22:55.840000+00:00,1994-10-04,"48 km E of Shikotan, Russia",Russia,Asia,43.773,147.321,14.0,8.3,earthquake
+usp0006hsx,1994-09-01 15:15:53.080000+00:00,1994-09-01,"121 km W of Ferndale, California",United States,North America,40.402,-125.68,10.0,7.1,earthquake
+usp0006fyv,1994-07-21 18:36:31.740000+00:00,1994-07-21,"46 km SSW of Vrangel’, Russia",Russia,Asia,42.34,132.865,471.0,7.3,earthquake
+usp0006fjg,1994-07-13 02:35:56.020000+00:00,1994-07-13,"58 km S of Lakatoro, Vanuatu",Vanuatu,Oceania,-16.62,167.518,33.0,7.2,earthquake
+usp0006dzc,1994-06-09 00:33:16.230000+00:00,1994-06-09,"55 km NNW of Reyes, Bolivia",Bolivia,South America,-13.841,-67.553,631.0,8.2,earthquake
+usp0006djk,1994-06-02 18:17:34.020000+00:00,1994-06-02,"249 km SSW of Kencong, Indonesia",Indonesia,Asia,-10.477,112.835,18.0,7.8,earthquake
+usp00069fm,1994-03-09 23:28:06.780000+00:00,1994-03-09,"240 km E of Levuka, Fiji",Fiji,Oceania,-18.039,-178.413,562.0,7.6,earthquake
+usp0006030,1993-09-10 19:12:54.620000+00:00,1993-09-10,"24 km W of Puerto Madero, Mexico",Mexico,North America,14.717,-92.645,34.0,7.2,earthquake
+usp0005y3k,1993-08-08 08:34:24.930000+00:00,1993-08-08,"32 km S of Inarajan Village, Guam",Guam,Oceania,12.982,144.801,59.0,7.8,earthquake
+usp0005w12,1993-07-12 13:17:11.960000+00:00,1993-07-12,"107 km W of Iwanai, Japan",Japan,Asia,42.851,139.197,16.0,7.7,earthquake
+usp0005u7b,1993-06-08 13:03:36.480000+00:00,1993-06-08,"97 km ESE of Ozernovskiy, Russia",Russia,Asia,51.218,157.829,70.0,7.5,earthquake
+usp0005p26,1993-03-06 03:05:49.870000+00:00,1993-03-06,"178 km W of Lata, Solomon Islands",Solomon Islands,Oceania,-10.972,164.181,20.0,7.1,earthquake
+usp0005ktj,1993-01-15 11:06:05.950000+00:00,1993-01-15,"52 km NE of Otofuke, Japan",Japan,Asia,43.3,143.691,102.0,7.6,earthquake
+usp0005jjt,1992-12-20 20:52:47.280000+00:00,1992-12-20,"281 km WSW of Tual, Indonesia",Indonesia,Asia,-6.582,130.393,77.0,7.3,earthquake
+usp0005j5a,1992-12-12 05:29:26.350000+00:00,1992-12-12,"37 km WNW of Maumere, Indonesia",Indonesia,Asia,-8.48,121.896,27.0,7.8,earthquake
+usp0005fha,1992-10-18 15:11:59.110000+00:00,1992-10-18,"11 km NNW of Murindó, Colombia",Colombia,South America,7.075,-76.862,10.0,7.2,earthquake
+usp0005f79,1992-10-11 19:24:26.290000+00:00,1992-10-11,"47 km NW of Isangel, Vanuatu",Vanuatu,Oceania,-19.247,168.948,129.0,7.4,earthquake
+usp0005ddn,1992-09-02 00:16:01.690000+00:00,1992-09-02,"83 km SSW of Corinto, Nicaragua",Nicaragua,North America,11.742,-87.34,44.0,7.7,earthquake
+usp0005cq0,1992-08-19 02:04:37.410000+00:00,1992-08-19,"60 km ENE of Toktogul, Kyrgyzstan",Kyrgyzstan,Asia,42.142,73.575,27.0,7.3,earthquake
+usp0005ap1,1992-07-11 10:44:19.760000+00:00,1992-07-11,south of the Fiji Islands,Fiji,Oceania,-22.483,-178.413,377.0,7.2,earthquake
+ci3031111,1992-06-28 11:57:34.130000+00:00,1992-06-28,"The 1992 Landers Earthquake, California",United States,North America,34.2,-116.437,0.0,7.3,earthquake
+usp00057gv,1992-05-17 10:15:31.310000+00:00,1992-05-17,"23 km ESE of Santiago, Philippines",Philippines,Asia,7.191,126.762,33.0,7.3,earthquake
+usp00057gu,1992-05-17 09:49:19.110000+00:00,1992-05-17,"9 km SE of Santiago, Philippines",Philippines,Asia,7.239,126.645,32.0,7.1,earthquake
+usp00057d0,1992-05-15 07:05:05.340000+00:00,1992-05-15,"61 km NNW of Finschhafen, Papua New Guinea",Papua New Guinea,Oceania,-6.075,147.572,58.0,7.2,earthquake
+nc269151,1992-04-25 18:06:05.180000+00:00,1992-04-25,"19 km SSW of Scotia, California",United States,North America,40.3353333,-124.2286667,9.0,7.2,earthquake
+usp000510y,1991-12-27 04:05:58.240000+00:00,1991-12-27,South Sandwich Islands region,South Sandwich Islands,Antarctica,-56.032,-25.266,10.0,7.2,earthquake
+usp00050sq,1991-12-22 08:43:13.410000+00:00,1991-12-22,"248 km E of Kuril’sk, Russia",Russia,Asia,45.533,151.021,24.0,7.6,earthquake
+usp0004zbt,1991-11-19 22:28:51.090000+00:00,1991-11-19,"33 km NNW of Santa Genoveva de Docordó, Colombia",Colombia,South America,4.554,-77.442,21.0,7.2,earthquake
+usp0004xtq,1991-10-14 15:58:12.790000+00:00,1991-10-14,"155 km WNW of Malango, Solomon Islands",Solomon Islands,Oceania,-9.094,158.442,23.0,7.2,earthquake
+usp0004taw,1991-06-23 21:22:28.940000+00:00,1991-06-23,"27 km NNW of El Hoyo, Argentina",Argentina,South America,-26.802,-63.349,558.0,7.3,earthquake
+usp0004t6g,1991-06-20 05:18:52.510000+00:00,1991-06-20,"79 km NNW of Gorontalo, Indonesia",Indonesia,Asia,1.196,122.787,31.0,7.5,earthquake
+usp0004qpg,1991-04-22 21:56:51.820000+00:00,1991-04-22,"34 km S of Limón, Costa Rica",Costa Rica,North America,9.685,-83.073,10.0,7.6,earthquake
+usp0004pyn,1991-04-05 04:19:49.520000+00:00,1991-04-05,"11 km NE of Rioja, Peru",Peru,South America,-5.982,-77.094,19.0,7.1,earthquake
+usp0004k00,1990-12-30 19:14:18.930000+00:00,1990-12-30,"104 km ENE of Kimbe, Papua New Guinea",Papua New Guinea,Oceania,-5.097,150.967,178.0,7.5,earthquake
+usp0004gkj,1990-11-06 20:14:29.740000+00:00,1990-11-06,"231 km WNW of Attu Station, Alaska",Alaska,North America,53.452,169.871,24.0,7.1,earthquake
+usp0004dad,1990-08-12 21:25:21.950000+00:00,1990-08-12,"19 km NW of Isangel, Vanuatu",Vanuatu,Oceania,-19.435,169.132,140.0,7.1,earthquake
+usp0004cm6,1990-07-27 12:37:59.550000+00:00,1990-07-27,"37 km ENE of Luganville, Vanuatu",Vanuatu,Oceania,-15.355,167.464,125.0,7.2,earthquake
+usp0004bxs,1990-07-16 07:26:34.610000+00:00,1990-07-16,"4 km E of Macapsing, Philippines",Philippines,Asia,15.679,121.172,25.0,7.7,earthquake
+usp0004arq,1990-06-20 21:00:09.980000+00:00,1990-06-20,"23 km N of P?deg?n-e Manj?l, Iran",Iran,Asia,36.957,49.409,18.0,7.4,earthquake
+usp0004ag6,1990-06-14 07:40:56.210000+00:00,1990-06-14,"0 km ESE of Union, Philippines",Philippines,Asia,11.76,121.899,18.0,7.1,earthquake
+usp00049qg,1990-05-24 20:09:23.240000+00:00,1990-05-24,"135 km NNE of Labuan Bajo, Indonesia",Indonesia,Asia,-7.363,120.363,588.0,7.1,earthquake
+usp00049qe,1990-05-24 20:00:08.190000+00:00,1990-05-24,"63 km NNE of Juba, South Sudan",Sudan,Africa,5.358,31.848,16.0,7.1,earthquake
+usp00049hf,1990-05-20 02:22:01.620000+00:00,1990-05-20,"69 km ENE of Juba, South Sudan",Sudan,Africa,5.121,32.145,14.0,7.2,earthquake
+usp000496v,1990-05-12 04:50:08.710000+00:00,1990-05-12,"16 km WSW of Uglegorsk, Russia",Russia,Asia,49.037,141.847,605.0,7.2,earthquake
+usp000482z,1990-04-18 13:39:19.010000+00:00,1990-04-18,"75 km NNW of Gorontalo, Indonesia",Indonesia,Asia,1.186,122.857,25.0,7.8,earthquake
+usp00047gj,1990-04-05 21:12:35.550000+00:00,1990-04-05,"198 km E of Saipan, Northern Mariana Islands",Mariana Islands,Oceania,15.125,147.596,11.0,7.6,earthquake
+usp0004720,1990-03-25 13:22:55.600000+00:00,1990-03-25,"7 km SSE of Puntarenas, Costa Rica",Costa Rica,North America,9.919,-84.808,22.0,7.3,earthquake
+usp000467e,1990-03-05 16:38:12.570000+00:00,1990-03-05,"69 km SSW of Port-Vila, Vanuatu",Vanuatu,Oceania,-18.318,168.063,20.0,7.1,earthquake
+usp000464d,1990-03-03 12:16:27.960000+00:00,1990-03-03,south of the Fiji Islands,Fiji,Oceania,-22.122,175.163,33.0,7.6,earthquake
+usp000433j,1989-12-15 18:43:45.030000+00:00,1989-12-15,"37 km ENE of Barcelona, Philippines",Philippines,Asia,8.337,126.729,24.0,7.6,earthquake
+usp00042ug,1989-12-07 13:38:44.850000+00:00,1989-12-07,"59 km ESE of Kainantu, Papua New Guinea",Papua New Guinea,Oceania,-6.436,146.383,104.0,7.1,earthquake
+usp00041kg,1989-11-01 18:25:34.940000+00:00,1989-11-01,"73 km ENE of Miyako, Japan",Japan,Asia,39.837,142.76,28.0,7.4,earthquake
+official19890523105446320_10,1989-05-23 10:54:46.320000+00:00,1989-05-23,Macquarie Island region,Macquarie Island,Australia,-52.341,160.568,10.0,8.02,earthquake
+usp0003uxu,1989-05-05 18:28:39.450000+00:00,1989-05-05,"69 km W of Tarauacá, Brazil",Brazil,South America,-8.281,-71.381,593.0,7.1,earthquake
+usp0003rqq,1989-02-10 11:15:24.680000+00:00,1989-02-10,"152 km WNW of Tobelo, Indonesia",Indonesia,Asia,2.305,126.76,44.0,7.1,earthquake
+usp0003nks,1988-11-06 13:03:19.340000+00:00,1988-11-06,"145 km NW of Jinghong, China",China,Asia,22.789,99.611,17.0,7.7,earthquake
+usp0003mmh,1988-10-08 04:46:24.530000+00:00,1988-10-08,"166 km E of Neiafu, Tonga",Tonga,Oceania,-18.771,-172.415,35.0,7.1,earthquake
+usp0003jtm,1988-08-10 04:38:26.170000+00:00,1988-08-10,"121 km W of Kirakira, Solomon Islands",Solomon Islands,Oceania,-10.366,160.819,34.0,7.6,earthquake
+usp0003jpw,1988-08-06 00:36:24.650000+00:00,1988-08-06,"85 km SE of Phek, India",India,Asia,25.149,95.127,90.0,7.3,earthquake
+usp0003ezg,1988-04-12 23:19:55.570000+00:00,1988-04-12,"30 km SW of Islay (Matarani), Peru",Peru,South America,-17.192,-72.305,33.0,7.1,earthquake
+usp0003dnb,1988-03-06 22:35:38.140000+00:00,1988-03-06,Gulf of Alaska,Alaska,North America,56.953,-143.032,10.0,7.8,earthquake
+usp0003da3,1988-02-24 03:52:03.290000+00:00,1988-02-24,"37 km ESE of Bato, Philippines",Philippines,Asia,13.477,124.616,24.0,7.3,earthquake
+usp0003crv,1988-02-05 14:01:02.750000+00:00,1988-02-05,"72 km N of Taltal, Chile",Chile,South America,-24.753,-70.433,36.0,7.2,earthquake
+usp0003aq8,1987-11-30 19:23:19.590000+00:00,1987-11-30,"200 km WSW of Yakutat, Alaska",Alaska,North America,58.679,-142.786,10.0,7.9,earthquake
+usp00039av,1987-10-16 20:48:01.640000+00:00,1987-10-16,"54 km W of Kandrian, Papua New Guinea",Papua New Guinea,Oceania,-6.266,149.06,47.0,7.4,earthquake
+usp000390n,1987-10-06 04:19:06.080000+00:00,1987-10-06,"201 km ENE of Neiafu, Tonga",Tonga,Oceania,-17.94,-172.225,16.0,7.3,earthquake
+usp000381s,1987-09-03 06:40:13.910000+00:00,1987-09-03,Macquarie Island region,Macquarie Island,Australia,-58.893,158.513,33.0,7.4,earthquake
+usp00037c3,1987-08-08 15:48:56.750000+00:00,1987-08-08,"68 km SSE of Arica, Chile",Chile,South America,-19.022,-69.991,69.0,7.2,earthquake
+usp00035ur,1987-06-17 01:32:53.720000+00:00,1987-06-17,"217 km W of Tual, Indonesia",Indonesia,Asia,-5.577,130.791,67.0,7.1,earthquake
+usp000330w,1987-03-06 04:10:41.960000+00:00,1987-03-06,"29 km SSE of Pimampiro, Ecuador",Ecuador,South America,0.151,-77.821,10.0,7.2,earthquake
+usp0003304,1987-03-05 09:17:05.280000+00:00,1987-03-05,"84 km SSE of Antofagasta, Chile",Chile,South America,-24.388,-70.161,62.0,7.6,earthquake
+usp000329h,1987-02-08 18:33:58.390000+00:00,1987-02-08,"54 km NNW of Finschhafen, Papua New Guinea",Papua New Guinea,Oceania,-6.088,147.689,54.0,7.4,earthquake
+usp0003009,1986-11-14 21:20:10.550000+00:00,1986-11-14,"8 km SSW of Hualien City, Taiwan",Taiwan,Asia,23.901,121.574,33.0,7.4,earthquake
+usp0002zgu,1986-10-30 01:28:54.590000+00:00,1986-10-30,"157 km WSW of Haveluloto, Tonga",Tonga,Oceania,-21.702,-176.616,188.0,7.2,earthquake
+usp0002z3j,1986-10-20 06:46:09.980000+00:00,1986-10-20,Kermadec Islands region,Kermadec Islands,Oceania,-28.117,-176.367,29.0,7.7,earthquake
+usp0002xpm,1986-08-30 21:28:35.450000+00:00,1986-08-30,"7 km NNE of Ca?oca, Romania",Romania,Europe,45.547,26.316,132.0,7.2,earthquake
+usp0002x57,1986-08-14 19:39:13.670000+00:00,1986-08-14,"146 km NW of Ternate, Indonesia",Indonesia,Asia,1.795,126.519,33.0,7.5,earthquake
+usp0002vbr,1986-06-24 03:11:30.930000+00:00,1986-06-24,"44 km SSW of Angoram, Papua New Guinea",Papua New Guinea,Oceania,-4.448,143.943,102.0,7.2,earthquake
+usp0002v3n,1986-06-16 10:48:25.780000+00:00,1986-06-16,south of the Fiji Islands,Fiji,Oceania,-22.037,-178.925,547.0,7.1,earthquake
+usp0002uf4,1986-05-26 19:06:15.990000+00:00,1986-05-26,"230 km S of Suva, Fiji",Fiji,Oceania,-20.19,178.86,538.0,7.1,earthquake
+usp0002tmu,1986-05-07 22:47:10.870000+00:00,1986-05-07,"85 km SSW of Atka, Alaska",Alaska,North America,51.52,-174.776,33.0,8.0,earthquake
+usp0002q31,1986-01-15 20:17:42.710000+00:00,1986-01-15,"210 km SSE of Isangel, Vanuatu",Vanuatu,Oceania,-21.277,170.102,150.0,7.1,earthquake
+usp0002p4n,1985-12-21 01:13:22.410000+00:00,1985-12-21,"112 km W of Sola, Vanuatu",Vanuatu,Oceania,-13.966,166.516,43.0,7.1,earthquake
+usp0002mvw,1985-11-17 09:40:21.290000+00:00,1985-11-17,"127 km SE of Manokwari, Indonesia",Indonesia,Asia,-1.639,134.911,10.0,7.1,earthquake
+usp0002jyp,1985-09-21 01:37:13.470000+00:00,1985-09-21,"7 km N of Pantla, Mexico",Mexico,North America,17.802,-101.647,30.0,7.6,earthquake
+usp0002jwe,1985-09-19 13:17:47.350000+00:00,1985-09-19,"26 km NW of El Habillal, Mexico",Mexico,North America,18.19,-102.533,27.0,8.0,earthquake
+usp0002h5z,1985-07-29 07:54:44.070000+00:00,1985-07-29,"75 km S of Jurm, Afghanistan",Afghanistan,Asia,36.19,70.896,98.0,7.4,earthquake
+usp0002gc3,1985-07-03 04:36:51.730000+00:00,1985-07-03,"62 km E of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-4.439,152.828,33.0,7.3,earthquake
+usp0002en1,1985-05-10 15:35:50.590000+00:00,1985-05-10,"100 km E of Kimbe, Papua New Guinea",Papua New Guinea,Oceania,-5.599,151.045,26.0,7.2,earthquake
+usp0002dm4,1985-04-09 01:56:59.480000+00:00,1985-04-09,"59 km S of San Antonio, Chile",Chile,South America,-34.131,-71.618,37.0,7.2,earthquake
+usp0002cd3,1985-03-04 00:32:21.870000+00:00,1985-03-04,"19 km S of Valparaíso, Chile",Chile,South America,-33.207,-71.663,33.0,7.4,earthquake
+usp0002ccz,1985-03-03 22:47:07.280000+00:00,1985-03-03,"25 km WSW of Valparaíso, Chile",Chile,South America,-33.135,-71.871,33.0,8.0,earthquake
+usp000297p,1984-11-20 08:15:16.230000+00:00,1984-11-20,"45 km SW of Sarangani, Philippines",Philippines,Asia,5.167,125.124,202.0,7.5,earthquake
+usp000294z,1984-11-17 06:49:30.020000+00:00,1984-11-17,"190 km SSW of Sibolga, Indonesia",Indonesia,Asia,0.197,98.027,33.0,7.1,earthquake
+usp000292p,1984-11-15 02:46:19.880000+00:00,1984-11-15,southeast of the Loyalty Islands,Loyalty Islands,Oceania,-22.022,170.95,104.0,7.1,earthquake
+usp00028pr,1984-11-01 04:48:50.270000+00:00,1984-11-01,central Mid-Atlantic Ridge,Mid Atlantic Ridge,Europe,8.185,-38.794,10.0,7.1,earthquake
+usp000286c,1984-10-15 10:21:07.500000+00:00,1984-10-15,"19 km ENE of Hihifo, Tonga",Tonga,Oceania,-15.86,-173.643,128.0,7.2,earthquake
+usp000268f,1984-08-06 12:01:52.400000+00:00,1984-08-06,"91 km SW of Gorontalo, Indonesia",Indonesia,Asia,-0.086,122.517,242.0,7.4,earthquake
+usp00024qw,1984-05-30 07:49:43.660000+00:00,1984-05-30,"94 km SW of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-4.843,151.577,174.0,7.1,earthquake
+usp00022y2,1984-03-24 09:44:02.600000+00:00,1984-03-24,"123 km ENE of Shikotan, Russia",Russia,Asia,44.117,148.192,44.0,7.2,earthquake
+usp00022fa,1984-03-06 02:17:21.260000+00:00,1984-03-06,"Izu Islands, Japan region",Japan,Asia,29.384,138.935,457.0,7.4,earthquake
+usp00022es,1984-03-05 03:33:50.990000+00:00,1984-03-05,"4 km NNW of Tabid, Philippines",Philippines,Asia,8.147,123.762,649.0,7.3,earthquake
+usp00021u7,1984-02-07 21:33:21.490000+00:00,1984-02-07,"85 km SE of Honiara, Solomon Islands",Solomon Islands,Oceania,-10.012,160.469,18.0,7.6,earthquake
+usp00020z7,1984-01-01 09:03:38.850000+00:00,1984-01-01,"77 km ESE of Owase, Japan",Japan,Asia,33.683,136.894,368.0,7.2,earthquake
+usp00020xw,1983-12-30 23:52:39.930000+00:00,1983-12-30,"55 km S of Jurm, Afghanistan",Afghanistan,Asia,36.372,70.738,214.0,7.4,earthquake
+usp000205u,1983-11-30 17:46:00.670000+00:00,1983-11-30,Chagos Archipelago region,Chagos Archipelago,Asia,-6.852,72.11,10.0,7.3,earthquake
+usp000200r,1983-11-24 05:30:34.230000+00:00,1983-11-24,"172 km NE of Lospalos, Timor Leste",Timor Leste,Asia,-7.481,128.168,178.0,7.3,earthquake
+usp0001z5e,1983-10-22 04:21:35.010000+00:00,1983-10-22,"South Atlantic Ocean, near the South Orkney Islands",Antarctica,Antarctica,-60.665,-25.451,24.0,7.2,earthquake
+usp0001ytj,1983-10-04 18:52:13.300000+00:00,1983-10-04,"54 km WSW of Diego de Almagro, Chile",Chile,South America,-26.535,-70.563,14.0,7.4,earthquake
+usp0001xqy,1983-08-17 10:55:54.130000+00:00,1983-08-17,"57 km SSE of Klyuchi, Russia",Russia,Asia,55.867,161.287,62.0,7.1,earthquake
+usp0001vmy,1983-05-26 02:59:59.600000+00:00,1983-05-26,"83 km WNW of Noshiro, Japan",Japan,Asia,40.462,139.102,23.0,7.4,earthquake
+usp0001u4p,1983-04-03 02:50:01.180000+00:00,1983-04-03,"12 km N of Golfito, Costa Rica",Costa Rica,North America,8.717,-83.123,37.0,7.1,earthquake
+usp0001tr1,1983-03-18 09:05:50+00:00,1983-03-18,"157 km ESE of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-4.883,153.581,88.0,7.6,earthquake
+usp0001rj6,1982-12-19 17:43:54.850000+00:00,1982-12-19,south of Tonga,Tonga,Oceania,-24.133,-175.864,33.0,7.2,earthquake
+usp0001nkk,1982-07-23 14:23:53.570000+00:00,1982-07-23,"93 km ENE of Hasaki, Japan",Japan,Asia,36.194,141.702,36.0,7.1,earthquake
+usp0001n8w,1982-07-04 01:20:06.800000+00:00,1982-07-04,"west of the Bonin Islands, Japan",Japan,Asia,27.929,136.967,536.0,7.1,earthquake
+iscgem597450,1982-06-19 06:21:58.540000+00:00,1982-06-19,"18 km SSW of La Libertad, El Salvador",El Salvador,North America,13.332,-89.387,73.0,7.29,earthquake
+usp0001hze,1982-01-11 06:10:06.490000+00:00,1982-01-11,"4 km SW of Gigmoto, Philippines",Philippines,Asia,13.752,124.358,45.0,7.1,earthquake
+usp0001hp7,1981-12-26 17:05:32.520000+00:00,1981-12-26,"Kermadec Islands, New Zealand",New Zealand,Oceania,-29.934,-177.741,33.0,7.1,earthquake
+usp0001hgc,1981-12-19 14:10:50.720000+00:00,1981-12-19,"61 km W of Eresós, Greece",Greece,Europe,39.243,25.227,10.0,7.2,earthquake
+usp0001gnv,1981-10-25 03:22:15.570000+00:00,1981-10-25,"7 km NNE of Petacalco, Mexico",Mexico,North America,18.048,-102.084,33.0,7.3,earthquake
+usp0001gg1,1981-10-16 03:25:42.220000+00:00,1981-10-16,"135 km W of Valparaíso, Chile",Chile,South America,-33.134,-73.074,33.0,7.2,earthquake
+usp0001fkx,1981-09-01 09:29:31.540000+00:00,1981-09-01,"133 km NE of Hihifo, Tonga",Tonga,Oceania,-14.96,-173.085,25.0,7.7,earthquake
+usp0001ezf,1981-07-28 17:22:24.620000+00:00,1981-07-28,"75 km ESE of Kerman, Iran",Iran,Asia,30.013,57.794,33.0,7.1,earthquake
+usp0001dv1,1981-05-25 05:25:14.460000+00:00,1981-05-25,off the west coast of the South Island of New Zealand,New Zealand,Oceania,-48.786,164.357,33.0,7.6,earthquake
+usp0001aq1,1980-11-08 10:27:34+00:00,1980-11-08,"11 km WSW of Big Lagoon, California",United States,North America,41.117,-124.253,19.0,7.2,earthquake
+usp0001aez,1980-10-25 11:00:05.100000+00:00,1980-10-25,"207 km E of Tadine, New Caledonia",New Caledonia,Oceania,-21.89,169.853,33.0,7.2,earthquake
+usp0001a5w,1980-10-10 12:25:23.500000+00:00,1980-10-10,"3 km NNE of Chlef, Algeria",Algeria,Africa,36.195,1.354,10.0,7.3,earthquake
+usp00018y0,1980-07-17 19:42:23.200000+00:00,1980-07-17,"199 km S of Lata, Solomon Islands",Solomon Islands,Oceania,-12.525,165.916,33.0,7.9,earthquake
+usp00018r3,1980-07-08 23:19:19.800000+00:00,1980-07-08,"196 km SSE of Lata, Solomon Islands",Solomon Islands,Oceania,-12.41,166.381,33.0,7.5,earthquake
+usp00014ey,1979-12-12 07:59:03.300000+00:00,1979-12-12,"Pacific coast of Ecuador, in the province of Esmeraldas",Ecuador,South America,1.598,-79.358,24.0,7.7,earthquake
+usp000147t,1979-11-27 17:10:32.900000+00:00,1979-11-27,"56 km ENE of Q?’en, Iran",Iran,Asia,33.962,59.726,10.0,7.1,earthquake
+usp00013nn,1979-10-23 09:51:06.700000+00:00,1979-10-23,"71 km WSW of Kirakira, Solomon Islands",Solomon Islands,Oceania,-10.615,161.284,22.0,7.1,earthquake
+usp00013ck,1979-10-12 10:25:22.300000+00:00,1979-10-12,"180 km W of Riverton, New Zealand",New Zealand,Oceania,-46.675,165.707,33.0,7.4,earthquake
+usp00012wp,1979-09-12 05:17:51.400000+00:00,1979-09-12,"55 km S of Biak, Indonesia",Indonesia,Asia,-1.679,136.04,5.0,7.9,earthquake
+usp00012mz,1979-08-26 14:31:22.100000+00:00,1979-08-26,"62 km N of San Vicente, Philippines",Philippines,Asia,19.066,122.096,15.0,7.1,earthquake
+usp0000zbw,1979-03-14 11:07:16.300000+00:00,1979-03-14,"12 km SSE of Vallecitos de Zaragoza, Mexico",Mexico,North America,17.813,-101.276,49.0,7.6,earthquake
+usp0000z2a,1979-02-28 21:27:06.100000+00:00,1979-02-28,"113 km SE of McCarthy, Alaska",Alaska,North America,60.642,-141.593,15.0,7.1,earthquake
+usp0000xp7,1978-11-29 19:52:47.600000+00:00,1978-11-29,"2 km ESE of San Agustín Loxicha, Mexico",Mexico,North America,16.01,-96.591,18.0,7.7,earthquake
+usp0000x9z,1978-11-05 22:02:07.100000+00:00,1978-11-05,"78 km SSE of Kirakira, Solomon Islands",Solomon Islands,Oceania,-11.132,162.136,33.0,7.1,earthquake
+usp0000wjx,1978-09-16 15:35:56.600000+00:00,1978-09-16,"52 km ESE of Tabas, Iran",Iran,Asia,33.386,57.434,33.0,7.4,earthquake
+usp0000vpz,1978-07-23 14:42:36.900000+00:00,1978-07-23,"85 km ENE of Hengchun, Taiwan",Taiwan,Asia,22.282,121.512,17.0,7.4,earthquake
+usp0000v0f,1978-06-12 08:14:26.400000+00:00,1978-06-12,"68 km ESE of Ishinomaki, Japan",Japan,Asia,38.19,142.028,44.0,7.7,earthquake
+usp0000tn6,1978-03-24 21:05:48.200000+00:00,1978-03-24,"23 km ENE of Tyup, Kyrgyzstan",Kyrgyzstan,Asia,42.839,78.606,33.0,7.1,earthquake
+usp0000tmy,1978-03-24 19:47:50.700000+00:00,1978-03-24,"134 km SE of Kuril’sk, Russia",Russia,Asia,44.244,148.862,33.0,7.6,earthquake
+usp0000tjh,1978-03-23 03:15:20.300000+00:00,1978-03-23,"55 km SE of Kuril’sk, Russia",Russia,Asia,44.932,148.439,33.0,7.5,earthquake
+usp0000swb,1978-02-09 21:35:12.700000+00:00,1978-02-09,"Kermadec Islands, New Zealand",New Zealand,Oceania,-30.683,-177.358,33.0,7.2,earthquake
+usp0000rp1,1977-11-23 09:26:24.700000+00:00,1977-11-23,"San Juan, Argentina",Argentina,South America,-31.028,-67.767,13.0,7.4,earthquake
+usp0000qzg,1977-10-10 11:53:53.600000+00:00,1977-10-10,south of Tonga,Tonga,Oceania,-25.856,-175.406,33.0,7.2,earthquake
+usp0000qbd,1977-08-26 19:50:01.400000+00:00,1977-08-26,east of the South Sandwich Islands,South Sandwich Islands,Antarctica,-59.426,-20.508,33.0,7.1,earthquake
+iscgem694739,1977-08-19 06:08:55.510000+00:00,1977-08-19,"265 km SW of Waingapu, Indonesia",Indonesia,Asia,-11.164,118.378,25.0,8.31,earthquake
+usp0000px4,1977-07-29 11:15:45.300000+00:00,1977-07-29,"143 km W of Gizo, Solomon Islands",Solomon Islands,Oceania,-8.031,155.538,33.0,7.2,earthquake
+usp0000nh4,1977-04-21 04:24:09.600000+00:00,1977-04-21,"103 km SE of Honiara, Solomon Islands",Solomon Islands,Oceania,-9.965,160.731,33.0,7.5,earthquake
+usp0000ngh,1977-04-20 23:49:13.100000+00:00,1977-04-20,"105 km ESE of Honiara, Solomon Islands",Solomon Islands,Oceania,-9.844,160.822,33.0,7.5,earthquake
+usp0000ngg,1977-04-20 23:42:50.500000+00:00,1977-04-20,"66 km SE of Honiara, Solomon Islands",Solomon Islands,Oceania,-9.89,160.348,19.0,7.5,earthquake
+usp0000n82,1977-04-02 07:15:22.700000+00:00,1977-04-02,"199 km ESE of Hihifo, Tonga",Tonga,Oceania,-16.696,-172.095,33.0,7.6,earthquake
+usp0000mtc,1977-03-04 19:21:54.100000+00:00,1977-03-04,"2 km N of Spulber, Romania",Romania,Europe,45.772,26.761,94.0,7.5,earthquake
+usp0000kf0,1976-11-24 12:22:18.800000+00:00,1976-11-24,"47 km S of Do?ubayaz?t, Turkey",Turkey,Europe,39.121,44.029,36.0,7.3,earthquake
+usp0000k3d,1976-10-29 02:51:07.600000+00:00,1976-10-29,"226 km SSW of Abepura, Indonesia",Indonesia,Asia,-4.517,139.918,33.0,7.1,earthquake
+usp0000hvb,1976-08-16 16:11:07.300000+00:00,1976-08-16,"19 km WNW of Palimbang, Philippines",Philippines,Asia,6.262,124.023,33.0,7.9,earthquake
+usp0000hk6,1976-07-28 10:45:35.200000+00:00,1976-07-28,"6 km SW of Linxi, China",China,Asia,39.664,118.401,26.0,7.4,earthquake
+usp0000hjg,1976-07-27 19:42:54.600000+00:00,1976-07-27,"17 km NE of Penguanzhuang, China",China,Asia,39.57,117.978,23.0,7.5,earthquake
+usp0000h1p,1976-06-25 19:18:56.900000+00:00,1976-06-25,"214 km NW of Kiunga, Papua New Guinea",Papua New Guinea,Oceania,-4.603,140.091,33.0,7.1,earthquake
+usp0000ex3,1976-02-04 09:01:43.400000+00:00,1976-02-04,"7 km N of Los Amates, Guatemala",Guatemala,North America,15.324,-89.101,5.0,7.5,earthquake
+usp0000ee7,1976-01-14 16:47:33.500000+00:00,1976-01-14,Kermadec Islands region,Kermadec Islands,Oceania,-28.427,-177.657,33.0,8.0,earthquake
+usp0000e2t,1975-12-26 15:56:38.700000+00:00,1975-12-26,"146 km ESE of Hihifo, Tonga",Tonga,Oceania,-16.264,-172.467,33.0,7.8,earthquake
+hv19755025,1975-11-29 14:47:40.100000+00:00,1975-11-29,"17 km SSW of Leilani Estates, Hawaii",Hawaii,Oceania,19.333,-155.0015,8.0,7.7,earthquake
+usp0000dc1,1975-10-31 08:28:02.600000+00:00,1975-10-31,"66 km ENE of Alugan, Philippines",Philippines,Asia,12.54,125.993,50.0,7.2,earthquake
+usp0000d42,1975-10-11 14:35:15+00:00,1975-10-11,south of Tonga,Tonga,Oceania,-24.894,-175.119,9.0,7.8,earthquake
+usp0000c2s,1975-07-20 19:54:27.700000+00:00,1975-07-20,"94 km SSW of Panguna, Papua New Guinea",Papua New Guinea,Oceania,-7.104,155.152,44.0,7.7,earthquake
+usp0000c24,1975-07-20 14:37:39.900000+00:00,1975-07-20,"56 km WSW of Panguna, Papua New Guinea",Papua New Guinea,Oceania,-6.59,155.054,49.0,7.9,earthquake
+usp0000b6e,1975-05-26 09:11:51.500000+00:00,1975-05-26,Azores-Cape St. Vincent Ridge,Azores Cape St. Vincent,Europe,35.997,-17.649,33.0,7.9,earthquake
+usp0000az9,1975-05-10 14:27:38.700000+00:00,1975-05-10,"44 km SSE of Cañete, Chile",Chile,South America,-38.183,-73.232,6.0,7.7,earthquake
+usp00009ry,1975-02-02 08:43:39.100000+00:00,1975-02-02,"36 km NE of Attu Station, Alaska",Alaska,North America,53.113,173.497,10.0,7.6,earthquake
+usp00008qy,1974-11-09 12:59:49.800000+00:00,1974-11-09,"87 km SW of Callao, Peru",Peru,South America,-12.5,-77.786,6.0,7.2,earthquake
+usp00008hm,1974-10-23 06:14:54+00:00,1974-10-23,"282 km SW of Panguna, Papua New Guinea",Papua New Guinea,Oceania,-8.42,154.034,48.0,7.2,earthquake
+usp00008aq,1974-10-08 09:50:58.100000+00:00,1974-10-08,"25 km NW of Saint John’s, Antigua and Barbuda",Antigua and Barbuda,North America,17.3,-62.0,47.0,7.5,earthquake
+usp0000888,1974-10-03 14:21:29.100000+00:00,1974-10-03,"77 km WSW of Callao, Peru",Peru,South America,-12.265,-77.795,13.0,7.6,earthquake
+usp00007nz,1974-08-18 10:44:12.800000+00:00,1974-08-18,"37 km NW of Carahue, Chile",Chile,South America,-38.453,-73.431,36.0,7.1,earthquake
+usp00007j0,1974-08-11 01:13:55.500000+00:00,1974-08-11,"134 km E of Kyzyl-Eshme, Kyrgyzstan",Kyrgyzstan,Asia,39.457,73.83,9.0,7.3,earthquake
+usp000072y,1974-07-13 01:18:22.800000+00:00,1974-07-13,"33 km SSW of Boca de Cupé, Panama",Panama,North America,7.747,-77.688,12.0,7.3,earthquake
+usp00006zm,1974-07-02 23:26:26.600000+00:00,1974-07-02,Kermadec Islands region,Kermadec Islands,Oceania,-29.082,-175.954,33.0,7.2,earthquake
+usp000053r,1974-02-01 03:12:33.100000+00:00,1974-02-01,"118 km S of Panguna, Papua New Guinea",Papua New Guinea,Oceania,-7.383,155.575,40.0,7.1,earthquake
+usp00004vu,1974-01-10 08:51:13.300000+00:00,1974-01-10,"70 km NNW of Port-Olry, Vanuatu",Vanuatu,Oceania,-14.434,166.863,34.0,7.2,earthquake
+usp00004py,1973-12-29 00:19:31.100000+00:00,1973-12-29,"20 km WSW of Port-Olry, Vanuatu",Vanuatu,Oceania,-15.117,166.896,47.0,7.2,earthquake
+usp00004p9,1973-12-28 13:41:45.800000+00:00,1973-12-28,"81 km NW of Port-Olry, Vanuatu",Vanuatu,Oceania,-14.464,166.601,26.0,7.5,earthquake
+usp00002bv,1973-06-24 02:43:25.500000+00:00,1973-06-24,"58 km SSW of Shikotan, Russia",Russia,Asia,43.318,146.442,50.0,7.1,earthquake
+usp0000270,1973-06-17 03:55:02.900000+00:00,1973-06-17,"19 km ESE of Nemuro, Japan",Japan,Asia,43.233,145.785,48.0,7.7,earthquake
+usp00000rx,1973-02-28 06:37:49.500000+00:00,1973-02-28,"38 km ESE of Severo-Kuril’sk, Russia",Russia,Asia,50.486,156.584,27.0,7.2,earthquake
+usp00000dz,1973-02-06 10:37:10.100000+00:00,1973-02-06,"203 km NW of Kangding, China",China,Asia,31.398,100.581,33.0,7.4,earthquake
+usp00000bf,1973-01-30 21:01:12.500000+00:00,1973-01-30,"35 km SW of Aguililla, Mexico",Mexico,North America,18.481,-102.996,43.0,7.5,earthquake
+iscgem765618,1972-12-04 10:16:12.680000+00:00,1972-12-04,"200 km SSE of Tateyama, Japan",Japan,Asia,33.362,140.827,55.0,7.4,earthquake
+iscgem765501,1972-12-02 00:19:52.560000+00:00,1972-12-02,"51 km E of Pondaguitan, Philippines",Philippines,Asia,6.405,126.64,60.0,8.0,earthquake
+iscgem770672,1972-08-17 23:44:09.360000+00:00,1972-08-17,"202 km SSE of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-6.05,152.932,20.0,7.5,earthquake
+iscgem772060,1972-07-30 21:45:17.520000+00:00,1972-07-30,Southeastern Alaska,Alaska,North America,56.724,-135.853,25.0,7.6,earthquake
+iscgem772416,1972-06-11 16:41:04.650000+00:00,1972-06-11,"228 km SW of Sarangani, Philippines",Philippines,Asia,3.752,124.221,330.0,7.72,earthquake
+iscgem773729,1972-05-22 20:45:57.760000+00:00,1972-05-22,"151 km NW of Neiafu, Tonga",Tonga,Oceania,-17.76,-175.066,222.0,7.06,earthquake
+iscgem774887,1972-04-28 23:32:11.450000+00:00,1972-04-28,"192 km NW of Panguna, Papua New Guinea",Papua New Guinea,Oceania,-5.154,154.191,409.0,7.2,earthquake
+iscgem774772,1972-04-25 19:30:07.920000+00:00,1972-04-25,"17 km WSW of Harrison, Philippines",Philippines,Asia,13.402,120.275,25.0,7.45,earthquake
+iscgem775781,1972-03-30 05:34:53+00:00,1972-03-30,south of the Fiji Islands,Fiji,Oceania,-25.758,179.665,495.0,7.25,earthquake
+iscgem776553,1972-02-29 09:23:01.950000+00:00,1972-02-29,"195 km SSE of Tateyama, Japan",Japan,Asia,33.453,140.929,59.0,7.16,earthquake
+iscgem776200,1972-02-14 23:29:53.170000+00:00,1972-02-14,"102 km SE of Lata, Solomon Islands",Solomon Islands,Oceania,-11.481,166.339,101.0,7.4,earthquake
+iscgem777209,1972-01-25 03:41:24.780000+00:00,1972-01-25,"103 km SSE of Hualien City, Taiwan",Taiwan,Asia,23.107,121.974,25.0,7.11,earthquake
+iscgem777208,1972-01-25 02:06:24.630000+00:00,1972-01-25,"163 km SSE of Hualien City, Taiwan",Taiwan,Asia,22.632,122.269,25.0,7.3,earthquake
+iscgem777164,1972-01-23 21:17:54.540000+00:00,1972-01-23,"142 km WNW of Sola, Vanuatu",Vanuatu,Oceania,-13.248,166.407,35.0,7.05,earthquake
+iscgem777750,1971-12-15 08:29:57.020000+00:00,1971-12-15,"off the east coast of the Kamchatka Peninsula, Russia",Russia,Asia,55.959,163.269,27.0,7.62,earthquake
+iscgem778805,1971-11-24 19:35:33.550000+00:00,1971-11-24,"48 km SE of Petropavlovsk-Kamchatsky, Russia",Russia,Asia,52.803,159.199,125.0,7.3,earthquake
+iscgem778697,1971-11-21 05:57:12.850000+00:00,1971-11-21,"150 km SSE of Lata, Solomon Islands",Solomon Islands,Oceania,-11.857,166.557,113.0,7.1,earthquake
+iscgem779972,1971-09-05 18:35:30.080000+00:00,1971-09-05,"49 km W of Gornozavodsk, Russia",Russia,Asia,46.505,141.199,18.0,7.3,earthquake
+iscgem780929,1971-08-05 01:58:53.140000+00:00,1971-08-05,central Mid-Atlantic Ridge,Mid Atlantic Ridge,Europe,-0.773,-22.082,20.0,7.06,earthquake
+iscgem780829,1971-08-02 07:24:58.820000+00:00,1971-08-02,"134 km SE of Shizunai-furukawach?, Japan",Japan,Asia,41.415,143.416,54.0,7.12,earthquake
+iscgem782797,1971-07-27 02:02:49.900000+00:00,1971-07-27,"103 km ESE of Sucúa, Ecuador",Ecuador,South America,-2.839,-77.322,120.0,7.42,earthquake
+iscgem782684,1971-07-26 01:23:22.790000+00:00,1971-07-26,"113 km ESE of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-4.817,153.172,40.0,8.1,earthquake
+iscgem782440,1971-07-19 00:14:46.840000+00:00,1971-07-19,"189 km WNW of Panguna, Papua New Guinea",Papua New Guinea,Oceania,-5.754,153.868,35.0,7.05,earthquake
+iscgem782181,1971-07-14 06:11:30.570000+00:00,1971-07-14,"201 km WNW of Panguna, Papua New Guinea",Papua New Guinea,Oceania,-5.524,153.85,40.0,8.0,earthquake
+iscgem782010,1971-07-09 03:03:20.680000+00:00,1971-07-09,"21 km SE of La Ligua, Chile",Chile,South America,-32.601,-71.076,60.0,7.8,earthquake
+iscgemsup785445,1971-04-08 07:45:59.480000+00:00,1971-04-08,"58 km S of Bengkulu, Indonesia",Indonesia,Asia,-4.33,102.285,75.0,7.02,earthquake
+iscgem786889,1971-02-04 15:33:29.680000+00:00,1971-02-04,"101 km SW of Padangsidempuan, Indonesia",Indonesia,Asia,0.653,98.711,30.0,7.04,earthquake
+iscgem788036,1971-01-10 07:17:05.780000+00:00,1971-01-10,"120 km WSW of Abepura, Indonesia",Indonesia,Asia,-3.184,139.722,30.0,7.7,earthquake
+iscgem787884,1971-01-03 17:35:41.890000+00:00,1971-01-03,"South Atlantic Ocean, near South Georgia and the South Sandwich Islands",South Sandwich Islands,Antarctica,-55.918,-2.668,15.0,7.08,earthquake
+iscgem789028,1970-12-10 04:34:41.860000+00:00,1970-12-10,"15 km SE of Cañaveral, Peru",Peru,South America,-4.026,-80.542,25.0,7.2,earthquake
+iscgem793336,1970-08-30 17:46:10.140000+00:00,1970-08-30,Sea of Okhotsk,Sea of Okhotsk,Asia,52.301,151.613,647.0,7.31,earthquake
+iscgem794176,1970-07-31 17:08:05.560000+00:00,1970-07-31,"95 km N of San Antonio del Estrecho, Peru",Peru,South America,-1.597,-72.532,644.0,8.0,earthquake
+iscgem794827,1970-06-24 13:09:13.290000+00:00,1970-06-24,"296 km S of Prince Rupert, Canada",Canada,North America,51.692,-131.055,18.0,7.37,earthquake
+iscgem794513,1970-06-11 16:46:34.830000+00:00,1970-06-11,Macquarie Island region,Macquarie Island,Australia,-59.232,158.902,15.0,7.3,earthquake
+iscgem796163,1970-05-31 20:23:29.780000+00:00,1970-05-31,"20 km WSW of Chimbote, Peru",Peru,South America,-9.183,-78.737,45.0,7.9,earthquake
+iscgem796043,1970-05-27 12:05:07.570000+00:00,1970-05-27,"Bonin Islands, Japan region",Japan,Asia,27.236,140.23,390.0,7.12,earthquake
+iscgem797311,1970-04-29 14:01:35.980000+00:00,1970-04-29,"33 km SW of Puerto Madero, Mexico",Mexico,North America,14.52,-92.653,35.0,7.3,earthquake
+iscgem796378,1970-04-07 05:34:06.640000+00:00,1970-04-07,"9 km ENE of Suklayin, Philippines",Philippines,Asia,15.791,121.63,25.0,7.44,earthquake
+iscgem798506,1970-03-28 21:02:26.710000+00:00,1970-03-28,"19 km NE of Gediz, Turkey",Turkey,Europe,39.098,29.57,25.0,7.23,earthquake
+iscgem799531,1970-02-28 10:52:33.580000+00:00,1970-02-28,"58 km WNW of Atka, Alaska",Alaska,North America,52.487,-174.915,164.0,7.11,earthquake
+iscgem799944,1970-01-10 12:07:07.250000+00:00,1970-01-10,"38 km SE of Lukatan, Philippines",Philippines,Asia,6.785,126.682,40.0,7.2,earthquake
+iscgem799712,1970-01-04 17:00:41.090000+00:00,1970-01-04,"18 km S of Yuxi, China",China,Asia,24.185,102.543,11.0,7.1,earthquake
+iscgem801426,1969-12-25 21:32:31.760000+00:00,1969-12-25,"164 km ESE of Beauséjour, Guadeloupe",Guadeloupe,North America,15.648,-59.694,20.0,7.2,earthquake
+iscgem802552,1969-11-22 23:09:40.400000+00:00,1969-11-22,"171 km NNE of Ust’-Kamchatsk Staryy, Russia",Russia,Asia,57.65,163.554,35.0,7.44,earthquake
+iscgem802491,1969-11-21 02:05:38.120000+00:00,1969-11-21,"216 km WSW of Sinabang, Indonesia",Indonesia,Asia,2.005,94.489,25.0,7.59,earthquake
+iscgem805782,1969-08-14 14:19:04.620000+00:00,1969-08-14,"92 km SE of Shikotan, Russia",Russia,Asia,43.313,147.647,27.0,7.12,earthquake
+iscgem805430,1969-08-11 21:27:36.700000+00:00,1969-08-11,"97 km ESE of Shikotan, Russia",Russia,Asia,43.416,147.814,28.0,8.2,earthquake
+iscgem808108,1969-06-17 23:58:09.940000+00:00,1969-06-17,Macquarie Island region,Macquarie Island,Australia,-52.744,160.309,15.0,7.04,earthquake
+iscgem810045,1969-04-21 07:19:28.920000+00:00,1969-04-21,"41 km E of Takanabe, Japan",Japan,Asia,32.15,131.938,38.0,7.02,earthquake
+iscgem812637,1969-02-28 02:40:32.350000+00:00,1969-02-28,"184 km SW of Sagres, Portugal",Portugal,Europe,36.033,-10.613,10.0,7.8,earthquake
+iscgem812497,1969-02-23 00:36:58.920000+00:00,1969-02-23,"38 km N of Majene, Indonesia",Indonesia,Asia,-3.201,118.904,15.0,7.03,earthquake
+iscgem812115,1969-02-11 22:16:13.050000+00:00,1969-02-11,"187 km N of Baukau, Timor Leste",Timor Leste,Asia,-6.784,126.581,430.0,7.22,earthquake
+iscgem812084,1969-02-10 22:58:06.460000+00:00,1969-02-10,south of the Fiji Islands,Fiji,Oceania,-22.797,178.82,660.0,7.22,earthquake
+iscgem813688,1969-01-30 10:29:41.930000+00:00,1969-01-30,"224 km ESE of Sarangani, Philippines",Philippines,Asia,4.569,127.306,60.0,7.6,earthquake
+iscgem813304,1969-01-19 18:50:53.820000+00:00,1969-01-19,"36 km NE of Port-Olry, Vanuatu",Vanuatu,Oceania,-14.849,167.345,112.0,7.1,earthquake
+iscgem812898,1969-01-05 13:26:43.360000+00:00,1969-01-05,"79 km WNW of Buala, Solomon Islands",Solomon Islands,Oceania,-7.97,158.888,60.0,7.04,earthquake
+iscgem815709,1968-10-07 19:20:20.890000+00:00,1968-10-07,"Bonin Islands, Japan region",Japan,Asia,26.358,140.635,500.0,7.31,earthquake
+iscgem817404,1968-09-26 18:02:54.230000+00:00,1968-09-26,"Kermadec Islands, New Zealand",New Zealand,Oceania,-30.62,-177.914,50.0,7.1,earthquake
+iscgem818488,1968-08-31 10:47:43.240000+00:00,1968-08-31,"42 km ESE of Gon?b?d, Iran",Iran,Asia,34.158,59.083,10.0,7.1,earthquake
+iscgem818136,1968-08-18 18:38:32.400000+00:00,1968-08-18,"58 km SSE of Malango, Solomon Islands",Solomon Islands,Oceania,-10.188,159.914,543.0,7.27,earthquake
+iscgem818025,1968-08-14 22:14:23.290000+00:00,1968-08-14,"118 km N of Palu, Indonesia",Indonesia,Asia,0.157,119.802,20.0,7.21,earthquake
+iscgem817844,1968-08-10 02:07:06.390000+00:00,1968-08-10,"140 km E of Laikit, Laikit II (Dimembe), Indonesia",Indonesia,Asia,1.514,126.234,23.0,7.61,earthquake
+iscgem817583,1968-08-02 14:06:43.710000+00:00,1968-08-02,"10 km SW of La Humedad, Mexico",Mexico,North America,16.519,-97.739,25.0,7.3,earthquake
+iscgem817557,1968-08-01 20:19:22.820000+00:00,1968-08-01,"32 km SE of Minuri, Philippines",Philippines,Asia,16.316,122.067,25.0,7.6,earthquake
+iscgem819340,1968-07-25 07:23:07.540000+00:00,1968-07-25,"Kermadec Islands, New Zealand",New Zealand,Oceania,-30.725,-178.217,45.0,7.3,earthquake
+iscgem823104,1968-05-28 13:27:19.180000+00:00,1968-05-28,"145 km W of Abepura, Indonesia",Indonesia,Asia,-2.85,139.353,45.0,7.5,earthquake
+iscgem822588,1968-05-23 17:24:18.950000+00:00,1968-05-23,"36 km ENE of Westport, New Zealand",New Zealand,Oceania,-41.659,172.02,20.0,7.06,earthquake
+iscgem822412,1968-05-20 21:09:46.320000+00:00,1968-05-20,"189 km ESE of Kuril’sk, Russia",Russia,Asia,44.822,150.219,28.0,7.04,earthquake
+iscgem822083,1968-05-16 10:39:02.530000+00:00,1968-05-16,"101 km SSE of Shizunai-furukawach?, Japan",Japan,Asia,41.508,142.888,25.0,7.9,earthquake
+iscgem821946,1968-05-16 00:49:02.070000+00:00,1968-05-16,"168 km ENE of Hachinohe, Japan",Japan,Asia,40.86,143.435,29.0,8.2,earthquake
+iscgem823387,1968-04-01 00:42:07.090000+00:00,1968-04-01,"58 km ESE of Nobeoka, Japan",Japan,Asia,32.449,132.269,34.0,7.5,earthquake
+iscgem826088,1968-02-12 05:44:45.540000+00:00,1968-02-12,"170 km SE of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-5.42,153.368,30.0,7.3,earthquake
+iscgem827772,1968-01-29 10:19:07.620000+00:00,1968-01-29,"25 km S of Shikotan, Russia",Russia,Asia,43.566,146.741,36.0,7.37,earthquake
+iscgem828730,1967-12-25 01:23:32.810000+00:00,1967-12-25,"189 km ESE of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-5.208,153.742,35.0,7.15,earthquake
+iscgem828604,1967-12-21 02:25:26.220000+00:00,1967-12-21,"36 km NE of Tocopilla, Chile",Chile,South America,-21.865,-69.939,45.0,7.3,earthquake
+iscgem830329,1967-10-15 08:00:52.600000+00:00,1967-10-15,"9 km E of Granada, Nicaragua",Nicaragua,North America,11.925,-85.872,160.0,7.08,earthquake
+iscgem830163,1967-10-09 17:21:49.270000+00:00,1967-10-09,Fiji region,Fiji,Oceania,-21.182,-179.186,636.0,7.23,earthquake
+iscgem833573,1967-07-22 16:57:00.700000+00:00,1967-07-22,"6 km SE of Hendek, Turkey",Turkey,Europe,40.751,30.8,30.0,7.29,earthquake
+iscgem838830,1967-02-15 16:11:12.200000+00:00,1967-02-15,"124 km SSW of Tarauacá, Brazil",Brazil,South America,-9.163,-71.274,600.0,7.01,earthquake
+iscgem839412,1967-01-05 00:14:41.810000+00:00,1967-01-05,"80 km SSW of Bulgan, Mongolia",Mongolia,Asia,48.168,103.036,13.0,7.05,earthquake
+iscgem841184,1966-12-31 22:15:19.180000+00:00,1966-12-31,"192 km SSE of Lata, Solomon Islands",Solomon Islands,Oceania,-12.326,166.491,35.0,7.13,earthquake
+iscgem841173,1966-12-31 18:23:09.430000+00:00,1966-12-31,"172 km SSE of Lata, Solomon Islands",Solomon Islands,Oceania,-12.091,166.552,55.0,7.8,earthquake
+iscgem841046,1966-12-28 08:18:07.520000+00:00,1966-12-28,"11 km SW of Taltal, Chile",Chile,South America,-25.494,-70.55,25.0,7.67,earthquake
+iscgem842581,1966-10-17 21:42:00.480000+00:00,1966-10-17,"43 km W of Paramonga, Peru",Peru,South America,-10.665,-78.228,40.0,8.1,earthquake
+iscgemsup843229,1966-09-08 21:15:56.910000+00:00,1966-09-08,"90 km NE of Tobelo, Indonesia",Indonesia,Asia,2.388,128.49,115.0,7.71,earthquake
+iscgem846454,1966-06-15 00:59:50.060000+00:00,1966-06-15,"101 km W of Kirakira, Solomon Islands",Solomon Islands,Oceania,-10.318,161.006,45.0,7.1,earthquake
+iscgem847789,1966-05-25 13:20:54.400000+00:00,1966-05-25,Macquarie Island region,Macquarie Island,Australia,-52.761,160.106,10.0,7.02,earthquake
+iscgem849160,1966-03-12 16:31:20.980000+00:00,1966-03-12,"57 km SW of Yonakuni, Japan",Japan,Asia,24.122,122.583,30.0,7.5,earthquake
+iscgem854871,1965-08-23 19:46:04.300000+00:00,1965-08-23,"5 km SSW of Santa María Zapotitlán, Mexico",Mexico,North America,16.081,-95.867,25.0,7.4,earthquake
+iscgem854556,1965-08-13 12:40:33.440000+00:00,1965-08-13,"45 km W of Norsup, Vanuatu",Vanuatu,Oceania,-16.022,166.97,25.0,7.4,earthquake
+iscgem854473,1965-08-11 22:31:51.450000+00:00,1965-08-11,"38 km SSW of Luganville, Vanuatu",Vanuatu,Oceania,-15.861,167.092,30.0,7.6,earthquake
+iscgem854451,1965-08-11 03:40:58.570000+00:00,1965-08-11,"21 km WNW of Luganville, Vanuatu",Vanuatu,Oceania,-15.449,166.98,25.0,7.2,earthquake
+iscgem854292,1965-08-02 13:19:57.020000+00:00,1965-08-02,Macquarie Island region,Macquarie Island,Australia,-56.046,157.922,10.0,7.3,earthquake
+iscgem855112,1965-07-02 20:58:40.260000+00:00,1965-07-02,"the Aleutian Islands, in the state of Alaska",Alaska,North America,52.99,-167.739,45.0,7.8,earthquake
+iscgem855990,1965-06-11 03:33:46.370000+00:00,1965-06-11,"113 km SE of Kuril’sk, Russia",Russia,Asia,44.525,148.924,40.0,7.01,earthquake
+iscgem857011,1965-05-20 00:40:26.460000+00:00,1965-05-20,"52 km ENE of Port-Olry, Vanuatu",Vanuatu,Oceania,-14.805,167.495,120.0,7.7,earthquake
+iscgem858982,1965-03-30 02:27:06.650000+00:00,1965-03-30,"Rat Islands, Aleutian Islands, Alaska",Alaska,North America,50.282,177.959,20.0,7.6,earthquake
+iscgem858940,1965-03-28 16:33:16.160000+00:00,1965-03-28,"7 km S of La Ligua, Chile",Chile,South America,-32.522,-71.233,70.0,7.4,earthquake
+iscgem858598,1965-03-14 15:53:07.930000+00:00,1965-03-14,"51 km S of Jurm, Afghanistan",Afghanistan,Asia,36.405,70.724,207.0,7.44,earthquake
+iscgem859264,1965-02-04 08:40:44.070000+00:00,1965-02-04,"264 km WSW of Adak, Alaska",Alaska,North America,51.443,179.605,30.0,7.34,earthquake
+official19650204050122_30,1965-02-04 05:01:22+00:00,1965-02-04,"Rat Islands, Aleutian Islands, Alaska",Alaska,North America,51.251,178.715,30.0,8.7,earthquake
+iscgem861299,1965-01-24 00:11:17.260000+00:00,1965-01-24,"275 km WNW of Ambon, Indonesia",Indonesia,Asia,-2.608,125.952,20.0,8.2,earthquake
+iscgemsup864419,1964-09-15 15:29:38.180000+00:00,1964-09-15,"Nicobar Islands, India region",India,Asia,8.855,93.101,70.0,7.1,earthquake
+iscgem864342,1964-09-12 22:07:03.130000+00:00,1964-09-12,off the west coast of the South Island of New Zealand,New Zealand,Oceania,-48.969,164.285,20.0,7.02,earthquake
+iscgem865885,1964-07-09 16:39:51.600000+00:00,1964-07-09,"54 km E of Luganville, Vanuatu",Vanuatu,Oceania,-15.534,167.666,130.0,7.16,earthquake
+iscgem865780,1964-07-06 07:22:13.190000+00:00,1964-07-06,"10 km SW of Villa Nicolás Bravo, Mexico",Mexico,North America,18.136,-100.605,93.0,7.28,earthquake
+iscgemsup867135,1964-06-23 01:26:38.310000+00:00,1964-06-23,"48 km ESE of Nemuro, Japan",Japan,Asia,43.222,146.159,71.0,7.12,earthquake
+iscgem866844,1964-06-16 04:01:43.570000+00:00,1964-06-16,"24 km NW of Murakami, Japan",Japan,Asia,38.399,139.29,15.0,7.6,earthquake
+iscgem868048,1964-05-26 10:59:16.950000+00:00,1964-05-26,South Sandwich Islands region,South Sandwich Islands,Antarctica,-56.323,-27.655,125.0,7.8,earthquake
+official19640328033616_30,1964-03-28 03:36:16+00:00,1964-03-28,"1964 Prince William Sound Earthquake, Alaska",Alaska,North America,60.908,-147.339,25.0,9.2,earthquake
+iscgem17294673,1963-12-18 00:30:05.470000+00:00,1963-12-18,south of the Fiji Islands,Fiji,Oceania,-24.749,-176.844,55.0,7.6,earthquake
+iscgem17294667,1963-12-15 19:34:47.640000+00:00,1963-12-15,"164 km N of Pamanukan, Indonesia",Indonesia,Asia,-4.813,108.045,661.0,7.04,earthquake
+iscgem17294529,1963-11-09 21:15:32.280000+00:00,1963-11-09,"132 km SW of Tarauacá, Brazil",Brazil,South America,-9.127,-71.483,590.0,7.63,earthquake
+iscgem17294492,1963-11-04 01:17:13.900000+00:00,1963-11-04,Banda Sea,Banda Sea,Asia,-6.957,129.605,110.0,8.1,earthquake
+iscgem873349,1963-10-20 00:53:12.210000+00:00,1963-10-20,"217 km ESE of Kuril’sk, Russia",Russia,Asia,44.726,150.547,28.0,7.8,earthquake
+official19631013051759_30,1963-10-13 05:17:59+00:00,1963-10-13,"132 km ESE of Kuril’sk, Russia",Russia,Asia,44.872,149.483,35.0,8.5,earthquake
+iscgem17294275,1963-09-17 19:20:14.140000+00:00,1963-09-17,"55 km WNW of Lata, Solomon Islands",Solomon Islands,Oceania,-10.466,165.36,45.0,7.21,earthquake
+iscgem873068,1963-09-15 00:46:55.110000+00:00,1963-09-15,"28 km NW of Lata, Solomon Islands",Solomon Islands,Oceania,-10.522,165.642,35.0,7.4,earthquake
+iscgem872971,1963-08-25 12:18:14.310000+00:00,1963-08-25,"217 km ENE of Levuka, Fiji",Fiji,Oceania,-17.628,-178.684,570.0,7.03,earthquake
+iscgem17294122,1963-08-15 17:25:09.630000+00:00,1963-08-15,"50 km N of Sandia, Peru",Peru,South America,-13.866,-69.414,550.0,7.67,earthquake
+iscgem872159,1963-04-16 01:55:13.430000+00:00,1963-04-16,"204 km SSE of Sofifi, Indonesia",Indonesia,Asia,-1.05,128.043,30.0,7.07,earthquake
+iscgem872157,1963-04-16 01:29:23.500000+00:00,1963-04-16,"197 km SSE of Sofifi, Indonesia",Indonesia,Asia,-0.975,128.07,30.0,7.13,earthquake
+iscgem17293490,1963-03-26 09:48:17.160000+00:00,1963-03-26,"Kermadec Islands, New Zealand",New Zealand,Oceania,-29.992,-177.675,10.0,7.3,earthquake
+iscgem871982,1963-03-16 08:44:50.910000+00:00,1963-03-16,east of the Kuril Islands,Kuril Islands,Asia,46.636,154.783,15.0,7.65,earthquake
+iscgem871885,1963-02-26 20:14:10.840000+00:00,1963-02-26,"49 km WSW of Wau, Papua New Guinea",Papua New Guinea,Oceania,-7.523,146.308,186.0,7.5,earthquake
+iscgem871818,1963-02-13 08:50:04.250000+00:00,1963-02-13,"51 km SE of Yilan, Taiwan",Taiwan,Asia,24.411,122.094,30.0,7.2,earthquake
+iscgem875774,1962-12-08 21:27:21.370000+00:00,1962-12-08,"21 km SSE of Taco Pozo, Argentina",Argentina,South America,-25.802,-63.21,588.0,7.15,earthquake
+iscgem17292186,1962-07-26 08:14:46.990000+00:00,1962-07-26,"59 km SSE of Burica, Panama",Panama,North America,7.512,-82.729,25.0,7.18,earthquake
+iscgem874777,1962-05-21 21:15:37.770000+00:00,1962-05-21,"262 km WNW of Haveluloto, Tonga",Tonga,Oceania,-20.088,-177.459,390.0,7.47,earthquake
+iscgem874743,1962-05-15 05:23:49.090000+00:00,1962-05-15,"186 km NE of Lospalos, Timor Leste",Timor Leste,Asia,-7.351,128.218,30.0,7.1,earthquake
+iscgem874610,1962-04-23 05:58:13.720000+00:00,1962-04-23,"62 km SE of Obihiro, Japan",Japan,Asia,42.506,143.734,60.0,7.1,earthquake
+iscgem874529,1962-04-12 00:52:44.400000+00:00,1962-04-12,"137 km ESE of Ishinomaki, Japan",Japan,Asia,38.022,142.789,28.0,7.3,earthquake
+iscgem17291428,1962-02-14 06:36:05.350000+00:00,1962-02-14,"15 km WSW of Angol, Chile",Chile,South America,-37.845,-72.885,30.0,7.1,earthquake
+iscgem877339,1961-09-08 11:26:32+00:00,1961-09-08,South Sandwich Islands region,South Sandwich Islands,Antarctica,-56.332,-27.345,100.0,7.1,earthquake
+iscgem17290909,1961-09-01 00:09:39.060000+00:00,1961-09-01,South Sandwich Islands region,South Sandwich Islands,Antarctica,-59.274,-26.801,129.0,7.3,earthquake
+iscgem877295,1961-08-31 01:48:39.290000+00:00,1961-08-31,"149 km WNW of Iñapari, Peru",Peru,South America,-10.688,-70.925,597.0,7.2,earthquake
+iscgem877215,1961-08-19 05:09:51.010000+00:00,1961-08-19,"132 km W of Iñapari, Peru",Peru,South America,-10.75,-70.775,612.0,7.6,earthquake
+iscgem877175,1961-08-11 15:51:36.710000+00:00,1961-08-11,"48 km SW of Nemuro, Japan",Japan,Asia,43.056,145.101,43.0,7.02,earthquake
+iscgem877044,1961-07-23 21:51:09.750000+00:00,1961-07-23,"63 km S of Port-Vila, Vanuatu",Vanuatu,Oceania,-18.307,168.29,25.0,7.33,earthquake
+iscgem877000,1961-07-18 14:03:41.370000+00:00,1961-07-18,"126 km ESE of Koshima, Japan",Japan,Asia,29.692,131.683,30.0,7.03,earthquake
+iscgem17290245,1961-04-13 16:34:44.590000+00:00,1961-04-13,"151 km ENE of Kashgar, China",China,Asia,39.762,77.712,35.0,7.04,earthquake
+iscgem876175,1961-02-26 18:10:52.290000+00:00,1961-02-26,"18 km NNE of Nichinan, Japan",Japan,Asia,31.739,131.475,35.0,7.54,earthquake
+iscgem875970,1961-01-16 12:12:30.610000+00:00,1961-01-16,"104 km ENE of Hasaki, Japan",Japan,Asia,36.226,141.815,30.0,7.03,earthquake
+iscgem875966,1961-01-16 07:20:13.560000+00:00,1961-01-16,"93 km ENE of Hasaki, Japan",Japan,Asia,36.121,141.758,30.0,7.2,earthquake
+iscgem880905,1960-12-02 09:10:48.720000+00:00,1960-12-02,"77 km NNE of Taltal, Chile",Chile,South America,-24.732,-70.297,35.0,7.3,earthquake
+iscgem880846,1960-11-24 06:52:47.400000+00:00,1960-11-24,south of the Fiji Islands,Fiji,Oceania,-24.678,-176.248,30.0,7.2,earthquake
+iscgem880820,1960-11-20 22:01:57.160000+00:00,1960-11-20,"103 km WSW of Mórrope, Peru",Peru,South America,-6.775,-80.918,15.0,7.6,earthquake
+iscgem880670,1960-11-01 08:45:59.350000+00:00,1960-11-01,"Off the coast of Araucania, Chile",Chile,South America,-38.467,-75.031,20.0,7.4,earthquake
+iscgem879416,1960-06-06 05:55:48.950000+00:00,1960-06-06,"35 km S of Puerto Chacabuco, Chile",Chile,South America,-45.785,-72.889,15.0,7.7,earthquake
+official19600522191120_30,1960-05-22 19:11:20+00:00,1960-05-22,1960 Great Chilean Earthquake (Valdivia Earthquake),Chile,South America,-38.143,-73.407,25.0,9.5,earthquake
+official19600522185602_30,1960-05-22 18:56:02+00:00,1960-05-22,"38 km WNW of Traiguén, Chile",Chile,South America,-38.061,-73.039,25.0,7.8,earthquake
+iscgem879127,1960-05-22 10:30:44.350000+00:00,1960-05-22,"26 km W of Angol, Chile",Chile,South America,-37.775,-73.017,25.0,7.14,earthquake
+iscgem879106,1960-05-21 10:02:57.560000+00:00,1960-05-21,"4 km ESE of Cañete, Chile",Chile,South America,-37.824,-73.353,25.0,8.1,earthquake
+iscgem878607,1960-03-23 00:23:28.290000+00:00,1960-03-23,"118 km E of Miyako, Japan",Japan,Asia,39.635,143.316,15.0,7.01,earthquake
+iscgem878564,1960-03-20 17:07:31.660000+00:00,1960-03-20,"113 km ENE of Miyako, Japan",Japan,Asia,39.869,143.228,15.0,7.95,earthquake
+iscgem878016,1960-01-15 09:30:21.630000+00:00,1960-01-15,"21 km SSE of Nazca, Peru",Peru,South America,-15.008,-74.867,65.0,7.1,earthquake
+iscgem882896,1959-09-14 14:09:46.960000+00:00,1959-09-14,Kermadec Islands region,Kermadec Islands,Oceania,-28.84,-177.209,35.0,7.31,earthquake
+iscgem882673,1959-08-18 06:37:20.430000+00:00,1959-08-18,"17 km ESE of West Yellowstone, Montana",Montana,North America,44.63,-110.891,10.0,7.2,earthquake
+iscgem882668,1959-08-17 21:04:48.610000+00:00,1959-08-17,"67 km WNW of Gizo, Solomon Islands",Solomon Islands,Oceania,-7.776,156.328,25.0,7.01,earthquake
+iscgem882641,1959-08-15 08:57:06.620000+00:00,1959-08-15,"38 km ENE of Hengchun, Taiwan",Taiwan,Asia,22.078,121.105,25.0,7.22,earthquake
+iscgem882240,1959-06-14 00:12:06.800000+00:00,1959-06-14,"136 km E of Iquique, Chile",Chile,South America,-20.407,-68.862,109.0,7.1,earthquake
+iscgem881925,1959-05-04 07:15:47.930000+00:00,1959-05-04,"76 km ENE of Petropavlovsk-Kamchatsky, Russia",Russia,Asia,53.257,159.732,55.0,7.9,earthquake
+official19581106225809_30,1958-11-06 22:58:09+00:00,1958-11-06,"95 km SSE of Kuril’sk, Russia",Russia,Asia,44.479,148.485,35.0,8.3,earthquake
+iscgem884809,1958-07-26 17:37:14.970000+00:00,1958-07-26,"81 km SSE of Puerto Rosario de Laberinto, Peru",Peru,South America,-13.428,-69.388,612.0,7.5,earthquake
+iscgem884702,1958-07-10 06:15:58.530000+00:00,1958-07-10,"22 km W of Elfin Cove, Alaska",Alaska,North America,58.23,-136.712,10.0,7.8,earthquake
+iscgem883985,1958-03-11 00:26:02.010000+00:00,1958-03-11,"68 km NNE of Ishigaki, Japan",Japan,Asia,24.945,124.327,35.0,7.15,earthquake
+iscgem883713,1958-01-19 14:07:28.470000+00:00,1958-01-19,near the coast of Ecuador,Ecuador,South America,1.011,-79.489,27.0,7.6,earthquake
+iscgem887702,1957-12-17 13:50:22.120000+00:00,1957-12-17,"186 km NNW of Sola, Vanuatu",Vanuatu,Oceania,-12.418,166.684,123.0,7.8,earthquake
+iscgem887636,1957-12-04 03:37:53.790000+00:00,1957-12-04,"153 km SW of Bayanhongor, Mongolia",Mongolia,Asia,45.189,99.368,30.0,8.1,earthquake
+iscgem887612,1957-11-29 22:19:50.600000+00:00,1957-11-29,"51 km W of Atocha, Bolivia",Bolivia,South America,-20.948,-66.713,232.0,7.7,earthquake
+iscgem887437,1957-10-27 22:32:42.990000+00:00,1957-10-27,"66 km SSE of Klyuchi, Russia",Russia,Asia,55.75,161.134,147.0,7.6,earthquake
+iscgem887265,1957-09-28 14:20:03.940000+00:00,1957-09-28,Fiji region,Fiji,Oceania,-20.541,-178.349,586.0,7.4,earthquake
+iscgem887230,1957-09-24 08:21:14.080000+00:00,1957-09-24,"146 km SE of Pondaguitan, Philippines",Philippines,Asia,5.327,127.005,35.0,7.25,earthquake
+iscgem886928,1957-07-28 08:40:12.650000+00:00,1957-07-28,"8 km ENE of Apantla, Mexico",Mexico,North America,17.055,-99.092,37.0,7.6,earthquake
+iscgem886753,1957-06-27 00:09:36.210000+00:00,1957-06-27,"25 km SE of Kuanda, Russia",Russia,Asia,56.177,116.409,25.0,7.4,earthquake
+iscgem886739,1957-06-22 23:50:35.710000+00:00,1957-06-22,"82 km SE of Biak, Indonesia",Indonesia,Asia,-1.723,136.592,59.0,7.1,earthquake
+iscgem886602,1957-05-26 06:33:37.950000+00:00,1957-05-26,"13 km SSW of Düzce, Turkey",Turkey,Europe,40.73,31.09,25.0,7.09,earthquake
+iscgem886448,1957-04-25 02:25:41.160000+00:00,1957-04-25,"34 km S of Sarigerme, Turkey",Turkey,Europe,36.405,28.699,35.0,7.3,earthquake
+iscgem886445,1957-04-24 19:10:13.870000+00:00,1957-04-24,"27 km SSE of Sarigerme, Turkey",Turkey,Europe,36.493,28.829,35.0,7.1,earthquake
+iscgem886391,1957-04-14 19:18:04.350000+00:00,1957-04-14,"112 km NNE of Hihifo, Tonga",Tonga,Oceania,-15.02,-173.381,20.0,7.08,earthquake
+iscgem886230,1957-03-22 14:21:15.060000+00:00,1957-03-22,"39 km S of Akutan, Alaska",Alaska,North America,53.778,-165.771,46.0,7.07,earthquake
+iscgem886172,1957-03-16 02:34:18.940000+00:00,1957-03-16,"162 km WSW of Adak, Alaska",Alaska,North America,51.419,-178.87,25.0,7.18,earthquake
+iscgem886155,1957-03-14 14:47:50.180000+00:00,1957-03-14,"75 km S of Adak, Alaska",Alaska,North America,51.196,-176.733,25.0,7.14,earthquake
+iscgem886120,1957-03-12 11:45:00.720000+00:00,1957-03-12,"60 km SW of Adak, Alaska",Alaska,North America,51.481,-177.243,20.0,7.11,earthquake
+iscgem886098,1957-03-11 09:58:52.110000+00:00,1957-03-11,"35 km SW of Nikolski, Alaska",Alaska,North America,52.691,-169.191,35.0,7.06,earthquake
+official19570309142233_30,1957-03-09 14:22:33+00:00,1957-03-09,"81 km ESE of Adak, Alaska",Alaska,North America,51.499,-175.626,25.0,8.6,earthquake
+iscgem888827,1956-10-24 14:42:18.760000+00:00,1956-10-24,"12 km SSW of Masachapa, Nicaragua",Nicaragua,North America,11.682,-86.556,35.0,7.1,earthquake
+iscgem888445,1956-07-09 03:11:45.150000+00:00,1956-07-09,"19 km SSE of Amorgós, Greece",Greece,Europe,36.664,25.957,20.0,7.7,earthquake
+iscgem888345,1956-06-09 23:13:55.940000+00:00,1956-06-09,"42 km NNW of B?my?n, Afghanistan",Afghanistan,Asia,35.155,67.607,25.0,7.27,earthquake
+iscgem888284,1956-05-23 20:48:32.710000+00:00,1956-05-23,"144 km SSW of Leava, Wallis and Futuna",Wallis and Futuna,Oceania,-15.434,-178.803,419.0,7.6,earthquake
+iscgem887981,1956-02-18 07:34:25.520000+00:00,1956-02-18,"Izu Islands, Japan region",Japan,Asia,30.206,138.102,484.0,7.3,earthquake
+iscgem889990,1955-10-10 08:57:50.760000+00:00,1955-10-10,"102 km SE of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-5.062,152.855,20.0,7.31,earthquake
+iscgem889583,1955-05-30 12:31:44.460000+00:00,1955-05-30,"Volcano Islands, Japan region",Japan,Asia,24.319,142.412,558.0,7.2,earthquake
+iscgem889535,1955-05-17 14:49:55.740000+00:00,1955-05-17,"190 km WNW of Sabang, Indonesia",Indonesia,Asia,6.828,93.869,25.0,7.05,earthquake
+iscgem889422,1955-04-14 01:29:04.330000+00:00,1955-04-14,"19 km WSW of Kangding, China",China,Asia,29.957,101.759,10.0,7.09,earthquake
+iscgem889384,1955-03-31 18:17:13.290000+00:00,1955-03-31,"Mindanao, Philippines",Philippines,Asia,7.658,123.157,35.0,7.37,earthquake
+iscgem889331,1955-03-18 00:06:52.540000+00:00,1955-03-18,"154 km ESE of Mil’kovo, Russia",Russia,Asia,54.252,160.884,59.0,7.16,earthquake
+iscgem889257,1955-02-27 20:43:27.880000+00:00,1955-02-27,Kermadec Islands region,Kermadec Islands,Oceania,-28.336,-175.599,15.0,7.52,earthquake
+iscgem891356,1954-12-16 11:07:17.020000+00:00,1954-12-16,"53 km N of Gabbs, Nevada",United States,North America,39.346,-117.981,10.0,7.1,earthquake
+iscgem891003,1954-08-27 10:54:55.400000+00:00,1954-08-27,"Volcano Islands, Japan region",Japan,Asia,23.988,143.022,25.0,7.2,earthquake
+iscgem890579,1954-04-29 11:34:39.260000+00:00,1954-04-29,"94 km SSW of La Libertad, Mexico",Mexico,North America,29.112,-113.024,10.0,7.21,earthquake
+iscgem890491,1954-03-31 18:25:50.570000+00:00,1954-03-31,Owen Fracture Zone region,Owen Fracture,Indian Ocean,12.185,58.0,15.0,7.1,earthquake
+iscgem890481,1954-03-29 06:17:07.900000+00:00,1954-03-29,Strait of Gibraltar,Gibraltar,Europe,36.988,-3.612,626.0,7.8,earthquake
+iscgem890294,1954-02-01 01:06:56.350000+00:00,1954-02-01,"Volcano Islands, Japan region",Japan,Asia,24.057,143.467,15.0,7.2,earthquake
+iscgem892281,1953-12-12 17:31:29.840000+00:00,1953-12-12,"west coast of Ecuador, in the province of Manabí",Ecuador,South America,-3.552,-80.636,25.0,7.32,earthquake
+iscgem892187,1953-11-25 17:48:55.090000+00:00,1953-11-25,"174 km SE of Katsuura, Japan",Japan,Asia,34.006,141.625,25.0,7.9,earthquake
+iscgem892130,1953-11-04 03:49:13.320000+00:00,1953-11-04,"146 km NW of Sola, Vanuatu",Vanuatu,Oceania,-13.082,166.464,35.0,7.11,earthquake
+iscgem891794,1953-07-02 06:57:00.610000+00:00,1953-07-02,"62 km NE of Isangel, Vanuatu",Vanuatu,Oceania,-19.092,169.635,236.0,7.2,earthquake
+iscgem891664,1953-05-06 17:16:48.910000+00:00,1953-05-06,"23 km SE of Chiguayante, Chile",Chile,South America,-37.093,-72.866,66.0,7.55,earthquake
+iscgem891636,1953-04-23 16:24:33.990000+00:00,1953-04-23,"67 km E of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-4.449,152.868,35.0,7.38,earthquake
+iscgem891566,1953-03-19 08:27:52.920000+00:00,1953-03-19,"18 km WSW of Soufrière, Saint Lucia",Saint Lucia,North America,13.809,-61.216,128.0,7.3,earthquake
+iscgem891561,1953-03-18 19:06:17.740000+00:00,1953-03-18,"7 km N of Gönen, Turkey",Turkey,Europe,40.175,27.648,10.0,7.3,earthquake
+official19521104165830_30,1952-11-04 16:58:30+00:00,1952-11-04,"89 km ESE of Petropavlovsk-Kamchatsky, Russia",Russia,Asia,52.623,159.779,21.0,9.0,earthquake
+iscgem893286,1952-08-17 16:02:14.500000+00:00,1952-08-17,"101 km SSW of Nagqu, China",China,Asia,30.648,91.601,25.0,7.4,earthquake
+ci3319401,1952-07-21 11:52:14.540000+00:00,1952-07-21,"6km WNW of Grapevine, CA",United States,North America,34.9581667,-118.998,6.0,7.5,earthquake
+iscgem892651,1952-03-19 10:57:15.040000+00:00,1952-03-19,"108 km ENE of Cortes, Philippines",Philippines,Asia,9.669,127.099,15.0,7.34,earthquake
+iscgem892540,1952-03-04 01:22:49.230000+00:00,1952-03-04,"106 km SSW of Kushiro, Japan",Japan,Asia,42.084,143.899,45.0,8.1,earthquake
+iscgem892487,1952-02-14 03:38:17.380000+00:00,1952-02-14,"77 km N of Baukau, Timor Leste",Timor Leste,Asia,-7.78,126.493,25.0,7.02,earthquake
+iscgem895020,1951-12-08 04:14:16.310000+00:00,1951-12-08,South Indian Ocean,Indian Ocean,Indian Ocean,-34.229,57.47,15.0,7.53,earthquake
+iscgem894988,1951-11-24 18:50:24.400000+00:00,1951-11-24,Taiwan,Taiwan,Asia,23.092,121.214,30.0,7.81,earthquake
+iscgemsup894987,1951-11-24 18:47:18.300000+00:00,1951-11-24,"81 km E of Yujing, Taiwan",Taiwan,Asia,23.046,121.249,25.0,7.34,earthquake
+iscgem894960,1951-11-18 09:35:54.680000+00:00,1951-11-18,"89 km WSW of Nagqu, China",China,Asia,31.056,91.261,30.0,7.7,earthquake
+iscgem894891,1951-11-06 16:40:14.560000+00:00,1951-11-06,Kuril Islands,Kuril Islands,Asia,47.297,154.05,35.0,7.02,earthquake
+iscgem894824,1951-10-22 03:29:35.570000+00:00,1951-10-22,"27 km WSW of Hualien City, Taiwan",Taiwan,Asia,23.917,121.343,25.0,7.23,earthquake
+iscgem894821,1951-10-21 21:34:21.540000+00:00,1951-10-21,"58 km SSW of Hualien City, Taiwan",Taiwan,Asia,23.487,121.4,25.0,7.48,earthquake
+iscgem894503,1951-07-11 18:21:59.010000+00:00,1951-07-11,"Bonin Islands, Japan region",Japan,Asia,28.359,139.405,496.0,7.1,earthquake
+iscgem896193,1950-12-14 14:15:54.820000+00:00,1950-12-14,"0 km SW of Igualapa, Mexico",Mexico,North America,16.739,-98.482,35.0,7.1,earthquake
+iscgem896185,1950-12-14 01:52:54.230000+00:00,1950-12-14,"159 km W of Pangai, Tonga",Tonga,Oceania,-19.705,-175.874,215.0,7.8,earthquake
+iscgem896170,1950-12-09 21:38:51.980000+00:00,1950-12-09,"121 km SSE of San Pedro de Atacama, Chile",Chile,South America,-23.977,-67.912,113.0,8.2,earthquake
+iscgem896121,1950-12-02 19:51:51.640000+00:00,1950-12-02,"99 km SW of Port-Vila, Vanuatu",Vanuatu,Oceania,-18.373,167.654,30.0,7.9,earthquake
+iscgem896018,1950-11-02 15:28:15.510000+00:00,1950-11-02,Banda Sea,Banda Sea,Asia,-6.823,129.183,199.0,7.7,earthquake
+iscgem895966,1950-10-23 16:13:28.750000+00:00,1950-10-23,"1 km NNW of Champerico, Guatemala",Guatemala,North America,14.31,-91.917,65.0,7.17,earthquake
+iscgem895901,1950-10-08 03:23:13.540000+00:00,1950-10-08,"55 km S of Ambon, Indonesia",Indonesia,Asia,-4.199,128.233,20.0,7.3,earthquake
+iscgem895887,1950-10-05 16:09:42.080000+00:00,1950-10-05,Costa Rica,Costa Rica,North America,10.481,-85.046,97.0,7.5,earthquake
+iscgem895844,1950-09-19 20:29:53.560000+00:00,1950-09-19,"250 km ESE of Biak, Indonesia",Indonesia,Asia,-2.077,138.151,30.0,7.2,earthquake
+official19500815140934_30,1950-08-15 14:09:34+00:00,1950-08-15,1950 Assam-Tibet Earthquake,Italy,Europe,28.363,96.445,15.0,8.6,earthquake
+iscgem895680,1950-08-14 22:51:26.220000+00:00,1950-08-14,"44 km WNW of Quimilí, Argentina",Argentina,South America,-27.507,-62.838,610.0,7.1,earthquake
+iscgem895457,1950-05-26 01:17:14.040000+00:00,1950-05-26,"91 km SSE of Isangel, Vanuatu",Vanuatu,Oceania,-20.253,169.723,50.0,7.07,earthquake
+iscgem895264,1950-02-28 10:21:00.700000+00:00,1950-02-28,"100 km SSE of Korsakov, Russia",Russia,Asia,45.882,143.491,329.0,7.7,earthquake
+iscgem897130,1949-12-29 03:03:56.600000+00:00,1949-12-29,"7 km N of Agbannawag, Philippines",Philippines,Asia,17.439,121.538,15.0,7.21,earthquake
+iscgem897095,1949-12-17 15:07:57.660000+00:00,1949-12-17,"109 km SSE of Punta Arenas, Chile",Chile,South America,-53.996,-70.057,10.0,7.58,earthquake
+iscgem897093,1949-12-17 06:53:32.240000+00:00,1949-12-17,"123 km W of Río Grande, Argentina",Argentina,South America,-53.972,-69.562,10.0,7.69,earthquake
+iscgem896940,1949-10-19 21:00:22.660000+00:00,1949-10-19,"155 km WNW of Panguna, Papua New Guinea",Papua New Guinea,Oceania,-5.773,154.194,60.0,7.21,earthquake
+official19490822040118000_10,1949-08-22 04:01:18+00:00,1949-08-22,"171 km S of Hydaburg, Alaska",Alaska,North America,53.673,-133.015,10.0,8.0,earthquake
+iscgem896705,1949-07-23 15:03:35.480000+00:00,1949-07-23,"9 km NNW of Karaburun, Turkey",Turkey,Europe,38.718,26.48,15.0,7.16,earthquake
+iscgem896645,1949-07-10 03:53:41.220000+00:00,1949-07-10,"43 km ENE of Rasht, Tajikistan",Tajikistan,Asia,39.178,70.835,20.0,7.5,earthquake
+iscgem896626,1949-07-02 19:57:14.300000+00:00,1949-07-02,"233 km NE of Saipan, Northern Mariana Islands",Mariana Islands,Oceania,16.529,147.463,15.0,7.1,earthquake
+iscgem896480,1949-04-20 03:29:09.810000+00:00,1949-04-20,"15 km SSW of Nacimiento, Chile",Chile,South America,-37.634,-72.713,57.0,7.01,earthquake
+iscgem896433,1949-03-27 06:34:09.400000+00:00,1949-03-27,"86 km NNW of Tobelo, Indonesia",Indonesia,Asia,2.428,127.657,60.0,7.05,earthquake
+iscgem896379,1949-03-04 10:19:31.060000+00:00,1949-03-04,"35 km SSW of Jurm, Afghanistan",Afghanistan,Asia,36.563,70.698,228.0,7.5,earthquake
+iscgem896355,1949-02-23 16:08:11.420000+00:00,1949-02-23,"110 km ENE of Kuqa, China",China,Asia,41.926,84.237,10.0,7.36,earthquake
+iscgem897583,1948-10-05 20:12:09.310000+00:00,1948-10-05,"14 km N of Ashgabat, Turkmenistan",Turkmenistan,Asia,38.084,58.364,15.0,7.15,earthquake
+iscgem897539,1948-09-08 15:09:14.220000+00:00,1948-09-08,"110 km E of ‘Ohonua, Tonga",Tonga,Oceania,-21.222,-173.891,15.0,7.5,earthquake
+iscgem897351,1948-05-25 07:11:34+00:00,1948-05-25,"151 km W of Kangding, China",China,Asia,30.124,100.391,55.0,7.3,earthquake
+iscgem897327,1948-05-14 22:31:49.220000+00:00,1948-05-14,"southwest coast of Alaska, in the United States",Alaska,North America,54.593,-161.161,25.0,7.1,earthquake
+iscgem897286,1948-04-21 20:22:07.940000+00:00,1948-04-21,"11 km WNW of Sánchez, Dominican Republic",Dominican Republic,North America,19.26,-69.716,15.0,7.13,earthquake
+iscgem897281,1948-04-17 16:11:32.070000+00:00,1948-04-17,"67 km SSW of Shing?, Japan",Japan,Asia,33.157,135.74,15.0,7.44,earthquake
+iscgem897220,1948-03-03 09:09:56.190000+00:00,1948-03-03,"176 km W of Davila, Philippines",Philippines,Asia,18.757,118.926,15.0,7.14,earthquake
+iscgem897217,1948-03-01 01:12:27.330000+00:00,1948-03-01,"124 km WNW of Ambon, Indonesia",Indonesia,Asia,-3.196,127.181,15.0,7.14,earthquake
+iscgem897184,1948-02-09 12:58:18.430000+00:00,1948-02-09,"15 km NNW of Karpathos, Greece",Greece,Europe,35.64,27.158,15.0,7.3,earthquake
+iscgem897168,1948-01-27 11:58:30.640000+00:00,1948-01-27,Fiji region,Fiji,Oceania,-20.222,-178.557,595.0,7.1,earthquake
+iscgem897163,1948-01-24 17:46:43.710000+00:00,1948-01-24,"3 km W of Buga, Philippines",Philippines,Asia,10.714,122.235,15.0,7.8,earthquake
+iscgem898109,1947-11-04 00:09:14.050000+00:00,1947-11-04,"72 km W of Rumoi, Japan",Japan,Asia,43.986,140.738,15.0,7.1,earthquake
+iscgem898103,1947-11-01 14:58:57.090000+00:00,1947-11-01,"23 km E of Santa Rosa, Peru",Peru,South America,-10.96,-74.676,20.0,7.6,earthquake
+iscgem898078,1947-10-16 02:09:50.780000+00:00,1947-10-16,Central Alaska,Alaska,North America,64.064,-148.569,26.0,7.07,earthquake
+iscgem898058,1947-10-06 19:55:37.490000+00:00,1947-10-06,"4 km WNW of Koróni, Greece",Greece,Europe,36.808,21.916,15.0,7.3,earthquake
+iscgem897970,1947-07-29 13:43:24.160000+00:00,1947-07-29,"73 km W of Shi Yomi, India",India,Asia,28.484,93.628,20.0,7.3,earthquake
+iscgem897910,1947-06-19 07:34:41.090000+00:00,1947-06-19,Mariana Islands region,Mariana Islands,Oceania,21.57,145.469,35.0,7.2,earthquake
+iscgem897890,1947-06-12 09:02:28.010000+00:00,1947-06-12,"128 km ESE of Laikit, Laikit II (Dimembe), Indonesia",Indonesia,Asia,1.153,126.079,15.0,7.08,earthquake
+iscgem897871,1947-05-27 05:58:57.740000+00:00,1947-05-27,"138 km SW of Insrom, Indonesia",Indonesia,Asia,-1.868,135.017,15.0,7.6,earthquake
+iscgem897857,1947-05-17 07:06:41.940000+00:00,1947-05-17,"82 km ENE of Gisborne, New Zealand",New Zealand,Oceania,-38.445,178.909,25.0,7.58,earthquake
+iscgem897844,1947-05-06 20:30:40.320000+00:00,1947-05-06,"92 km WSW of Kandrian, Papua New Guinea",Papua New Guinea,Oceania,-6.487,148.758,35.0,7.43,earthquake
+iscgem897819,1947-04-14 07:15:40.190000+00:00,1947-04-14,"142 km E of Shikotan, Russia",Russia,Asia,43.916,148.482,30.0,7.06,earthquake
+iscgem897799,1947-04-02 05:39:16.110000+00:00,1947-04-02,"195 km E of Biak, Indonesia",Indonesia,Asia,-1.102,137.839,15.0,7.3,earthquake
+iscgem897790,1947-03-25 20:32:20.730000+00:00,1947-03-25,"46 km E of Gisborne, New Zealand",New Zealand,Oceania,-38.676,178.533,15.0,7.67,earthquake
+iscgem897783,1947-03-17 08:19:37.720000+00:00,1947-03-17,"Qinghai-Sichuan border region, China",China,Asia,33.498,99.491,15.0,7.58,earthquake
+iscgem17264437,1946-12-21 10:18:47.760000+00:00,1946-12-21,"134 km E of Shikotan, Russia",Russia,Asia,43.658,148.376,20.0,7.2,earthquake
+iscgem898698,1946-12-20 19:19:10.650000+00:00,1946-12-20,"68 km S of Shing?, Japan",Japan,Asia,33.123,135.905,15.0,8.3,earthquake
+iscgem898652,1946-11-04 21:47:49.710000+00:00,1946-11-04,"40 km NE of Balkanabat, Turkmenistan",Turkmenistan,Asia,39.811,54.638,37.0,7.02,earthquake
+iscgem898647,1946-11-02 18:28:35.510000+00:00,1946-11-02,"34 km N of Kerben, Kyrgyzstan",Kyrgyzstan,Asia,41.799,71.82,25.0,7.54,earthquake
+iscgem898610,1946-09-29 03:02:06.500000+00:00,1946-09-29,"152 km SE of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-5.204,153.34,50.0,7.68,earthquake
+iscgem898580,1946-09-12 15:20:25.730000+00:00,1946-09-12,Myanmar,Myanmar,Asia,23.532,95.705,15.0,7.64,earthquake
+iscgemsup898579,1946-09-12 15:17:24.240000+00:00,1946-09-12,"129 km ENE of Mawlaik, Myanmar",Myanmar,Asia,24.104,95.575,15.0,7.07,earthquake
+iscgem898498,1946-08-04 17:51:10.320000+00:00,1946-08-04,"16 km NNW of Miches, Dominican Republic",Dominican Republic,North America,19.124,-69.103,15.0,7.76,earthquake
+iscgem898434,1946-06-23 17:13:24.430000+00:00,1946-06-23,"8 km NNW of Courtenay, Canada",Canada,North America,49.765,-125.019,15.0,7.5,earthquake
+iscgem898375,1946-05-03 22:23:53.610000+00:00,1946-05-03,"96 km ESE of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-4.623,153.092,35.0,7.06,earthquake
+official19460401122901_30,1946-04-01 12:29:01+00:00,1946-04-01,"1946 Aleutian Islands (Unimak Island) Earthquake, Alaska",Alaska,North America,53.492,-162.832,15.0,8.6,earthquake
+iscgem898209,1946-01-05 19:57:26.200000+00:00,1946-01-05,"38 km ESE of Luganville, Vanuatu",Vanuatu,Oceania,-15.691,167.47,35.0,7.07,earthquake
+iscgem899246,1945-12-28 17:48:57.690000+00:00,1945-12-28,"32 km SSW of Kimbe, Papua New Guinea",Papua New Guinea,Oceania,-5.826,150.043,60.0,7.46,earthquake
+iscgem899231,1945-12-08 01:04:10.880000+00:00,1945-12-08,"New Britain region, Papua New Guinea",Papua New Guinea,Oceania,-6.063,150.18,55.0,7.1,earthquake
+iscgem899220,1945-11-27 21:56:53.730000+00:00,1945-11-27,off the coast of Pakistan,Pakistan,Asia,24.978,63.675,15.0,8.1,earthquake
+iscgem899073,1945-09-01 22:44:11.290000+00:00,1945-09-01,"173 km WSW of Riverton, New Zealand",New Zealand,Oceania,-46.99,165.955,20.0,7.5,earthquake
+iscgem898885,1945-04-15 02:35:29.850000+00:00,1945-04-15,"149 km NNE of Ust’-Kamchatsk Staryy, Russia",Russia,Asia,57.404,163.664,35.0,7.13,earthquake
+iscgem898817,1945-02-26 22:14:29.060000+00:00,1945-02-26,"Volcano Islands, Japan region",Japan,Asia,25.699,143.634,15.0,7.2,earthquake
+iscgem898801,1945-02-10 04:57:59+00:00,1945-02-10,"66 km ENE of Misawa, Japan",Japan,Asia,41.019,142.05,58.0,7.17,earthquake
+iscgem899647,1944-12-07 04:35:45.790000+00:00,1944-12-07,"20 km E of Shing?, Japan",Japan,Asia,33.73,136.2,15.0,8.1,earthquake
+iscgem899627,1944-11-24 04:49:06.710000+00:00,1944-11-24,"47 km NNW of Isangel, Vanuatu",Vanuatu,Oceania,-19.127,169.184,165.0,7.2,earthquake
+iscgem899619,1944-11-16 12:11:02.130000+00:00,1944-11-16,"130 km SSE of Lata, Solomon Islands",Solomon Islands,Oceania,-11.823,166.225,35.0,7.14,earthquake
+iscgem899551,1944-09-23 12:13:24.400000+00:00,1944-09-23,"85 km ENE of Petropavlovsk-Kamchatsky, Russia",Russia,Asia,53.427,159.75,35.0,7.08,earthquake
+iscgem899448,1944-06-28 07:58:55.880000+00:00,1944-06-28,"70 km SW of Puerto Madero, Mexico",Mexico,North America,14.295,-92.911,25.0,7.04,earthquake
+iscgem899390,1944-05-25 12:58:10.900000+00:00,1944-05-25,"195 km E of Kavieng, Papua New Guinea",Papua New Guinea,Oceania,-2.475,152.548,15.0,7.26,earthquake
+iscgem899389,1944-05-25 01:06:39.360000+00:00,1944-05-25,Fiji region,Fiji,Oceania,-21.578,-179.44,632.0,7.3,earthquake
+iscgem899365,1944-04-27 14:38:12.380000+00:00,1944-04-27,"5 km SW of Manokwari, Indonesia",Indonesia,Asia,-0.901,134.028,15.0,7.6,earthquake
+iscgem899329,1944-03-09 22:12:57.760000+00:00,1944-03-09,"52 km ESE of Xinyuan, China",China,Asia,43.293,83.874,10.0,7.28,earthquake
+iscgem899313,1944-02-29 16:28:06.360000+00:00,1944-02-29,"212 km E of Fuvahmulah, Maldives",Maldives,Asia,-0.015,75.313,15.0,7.36,earthquake
+iscgem899277,1944-02-01 03:22:40.830000+00:00,1944-02-01,"10 km WNW of Orta, Turkey",Turkey,Europe,40.66,32.998,30.0,7.6,earthquake
+iscgem900139,1943-12-23 19:00:14.950000+00:00,1943-12-23,"205 km SE of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-5.57,153.666,35.0,7.15,earthquake
+iscgem900102,1943-11-26 22:20:48.560000+00:00,1943-11-26,"6 km SSE of Ilgaz, Turkey",Turkey,Europe,40.867,33.651,20.0,7.5,earthquake
+iscgem900076,1943-11-06 08:31:40.420000+00:00,1943-11-06,"147 km E of Tual, Indonesia",Indonesia,Asia,-5.546,134.085,15.0,7.65,earthquake
+iscgem900054,1943-10-23 17:23:21.220000+00:00,1943-10-23,"13 km W of Dergaon, India",India,Asia,26.705,93.829,15.0,7.18,earthquake
+iscgem900000,1943-09-14 07:18:12.200000+00:00,1943-09-14,"Kermadec Islands, New Zealand",New Zealand,Oceania,-30.139,-177.746,35.0,7.03,earthquake
+iscgem899985,1943-09-06 03:41:30.260000+00:00,1943-09-06,Macquarie Island region,Macquarie Island,Australia,-53.903,158.761,10.0,7.52,earthquake
+iscgem899944,1943-07-29 03:02:17.210000+00:00,1943-07-29,"45 km N of San Antonio, Puerto Rico",Puerto Rico,North America,18.907,-67.118,15.0,7.7,earthquake
+iscgem899940,1943-07-23 14:53:09.890000+00:00,1943-07-23,"87 km SSW of Srandakan, Indonesia",Indonesia,Asia,-8.621,109.842,60.0,7.44,earthquake
+iscgem899875,1943-06-13 05:11:42.710000+00:00,1943-06-13,"169 km ENE of Hachinohe, Japan",Japan,Asia,41.003,143.396,35.0,7.31,earthquake
+iscgem899872,1943-06-09 03:06:18.520000+00:00,1943-06-09,"26 km S of Sijunjung, Indonesia",Indonesia,Asia,-0.938,100.937,10.0,7.73,earthquake
+iscgem899871,1943-06-08 20:42:43.280000+00:00,1943-06-08,"78 km NNW of Curup, Indonesia",Indonesia,Asia,-2.84,102.195,15.0,7.38,earthquake
+iscgem899851,1943-05-25 23:07:39.280000+00:00,1943-05-25,"77 km E of Baculin, Philippines",Philippines,Asia,7.371,127.277,15.0,7.76,earthquake
+iscgem899838,1943-05-03 01:59:13.920000+00:00,1943-05-03,"18 km ENE of Bagacay, Philippines",Philippines,Asia,13.02,124.304,15.0,7.36,earthquake
+iscgem899802,1943-04-11 14:46:00.310000+00:00,1943-04-11,"96 km ESE of Takahagi, Japan",Japan,Asia,36.301,141.662,15.0,7.13,earthquake
+iscgem899789,1943-04-06 16:07:18.060000+00:00,1943-04-06,"45 km NNW of Illapel, Chile",Chile,South America,-31.262,-71.368,35.0,8.1,earthquake
+iscgem899723,1943-02-22 09:20:48.560000+00:00,1943-02-22,"18 km SSW of Palos Blancos, Mexico",Mexico,North America,17.397,-101.37,20.0,7.4,earthquake
+iscgem900570,1942-11-28 10:38:46.800000+00:00,1942-11-28,central Mid-Atlantic Ridge,Mid Atlantic Ridge,Europe,7.322,-35.553,10.0,7.12,earthquake
+iscgem900536,1942-11-10 11:41:28.350000+00:00,1942-11-10,south of Africa,South of Africa,Africa,-49.885,30.465,10.0,8.0,earthquake
+iscgem900504,1942-10-20 23:21:53.660000+00:00,1942-10-20,"12 km SSW of Kipit, Philippines",Philippines,Asia,7.95,122.47,35.0,7.27,earthquake
+iscgem900444,1942-08-24 22:50:31.200000+00:00,1942-08-24,"21 km NNE of Minas de Marcona, Peru",Peru,South America,-15.041,-75.025,30.0,8.1,earthquake
+iscgem900408,1942-08-06 23:37:02.910000+00:00,1942-08-06,"26 km SSW of La Gomera, Guatemala",Guatemala,North America,13.863,-91.162,35.0,7.7,earthquake
+iscgem900380,1942-07-08 06:55:43.800000+00:00,1942-07-08,"87 km SSE of Antofagasta, Chile",Chile,South America,-24.373,-70.04,35.0,7.06,earthquake
+iscgem900274,1942-05-14 02:13:27.010000+00:00,1942-05-14,"12 km SE of Pedernales, Ecuador",Ecuador,South America,-0.014,-79.982,20.0,7.8,earthquake
+iscgem900244,1942-04-08 15:40:27.780000+00:00,1942-04-08,"18 km WSW of Tayaman, Philippines",Philippines,Asia,13.144,120.423,15.0,7.63,earthquake
+iscgem900233,1942-03-21 23:20:46.940000+00:00,1942-03-21,"122 km SSE of Koshima, Japan",Japan,Asia,29.164,130.834,25.0,7.02,earthquake
+iscgem900176,1942-01-27 13:29:11.220000+00:00,1942-01-27,"96 km SSW of Nabire, Indonesia",Indonesia,Asia,-4.138,135.102,17.0,7.06,earthquake
+iscgem901124,1941-12-16 19:19:43.640000+00:00,1941-12-16,"18 km NNW of Yujing, Taiwan",Taiwan,Asia,23.29,120.419,15.0,7.22,earthquake
+iscgem901107,1941-12-05 20:47:03.200000+00:00,1941-12-05,"70 km WSW of Golfito, Costa Rica",Costa Rica,North America,8.329,-83.694,20.0,7.47,earthquake
+iscgem901098,1941-11-25 18:03:57.500000+00:00,1941-11-25,Azores-Cape St. Vincent Ridge,Azores Cape St. Vincent,Europe,37.301,-18.966,10.0,7.84,earthquake
+iscgem901083,1941-11-18 16:46:32.400000+00:00,1941-11-18,"41 km E of Takanabe, Japan",Japan,Asia,32.129,131.944,35.0,8.02,earthquake
+iscgem901068,1941-11-08 23:37:28.840000+00:00,1941-11-08,"33 km NW of Gorontalo, Indonesia",Indonesia,Asia,0.731,122.835,35.0,7.43,earthquake
+iscgem901006,1941-09-16 21:39:15.010000+00:00,1941-09-16,"Kermadec Islands, New Zealand",New Zealand,Oceania,-29.115,-177.851,70.0,7.1,earthquake
+iscgem900934,1941-08-02 11:41:30.200000+00:00,1941-08-02,"Kermadec Islands, New Zealand",New Zealand,Oceania,-29.781,-177.597,35.0,7.19,earthquake
+iscgem900863,1941-06-26 11:52:04.760000+00:00,1941-06-26,"43 km N of Bamboo Flat, India",India,Asia,12.084,92.65,20.0,7.96,earthquake
+iscgem900815,1941-05-17 02:24:58.560000+00:00,1941-05-17,"54 km ESE of Lata, Solomon Islands",Solomon Islands,Oceania,-10.837,166.279,35.0,7.39,earthquake
+iscgem900764,1941-04-15 19:09:56.680000+00:00,1941-04-15,"21 km ESE of Coalcomán de Vázquez Pallares, Mexico",Mexico,North America,18.68,-102.989,30.0,7.6,earthquake
+iscgem900622,1941-01-13 16:27:44.490000+00:00,1941-01-13,"New Britain region, Papua New Guinea",Papua New Guinea,Oceania,-4.251,151.94,15.0,7.19,earthquake
+iscgem901750,1940-12-28 16:37:44.790000+00:00,1940-12-28,Mariana Islands region,Mariana Islands,Oceania,18.204,147.462,15.0,7.7,earthquake
+iscgem901696,1940-11-10 01:39:11.120000+00:00,1940-11-10,"13 km ESE of Comand?u, Romania",Romania,Europe,45.72,26.426,150.0,7.74,earthquake
+iscgem901628,1940-10-04 07:55:00.750000+00:00,1940-10-04,"Near the coast of Tarapaca, Chile",Chile,South America,-19.978,-70.425,35.0,7.21,earthquake
+iscgem901515,1940-08-01 15:08:24.920000+00:00,1940-08-01,"137 km WSW of Rishiri Town, Japan",Japan,Asia,44.561,139.678,15.0,7.5,earthquake
+iscgem901374,1940-05-24 16:33:59.340000+00:00,1940-05-24,"21 km SE of Huacho, Peru",Peru,South America,-11.217,-77.438,45.0,8.2,earthquake
+iscgem901283,1940-04-16 06:43:10.490000+00:00,1940-04-16,"24 km E of Attu Station, Alaska",Alaska,North America,52.849,173.551,30.0,7.05,earthquake
+iscgem901282,1940-04-16 06:07:47.770000+00:00,1940-04-16,"80 km SSE of Attu Station, Alaska",Alaska,North America,52.224,173.778,30.0,7.04,earthquake
+iscgem901160,1940-01-17 01:14:56.420000+00:00,1940-01-17,Mariana Islands region,Mariana Islands,Oceania,17.139,148.059,15.0,7.5,earthquake
+iscgem902291,1939-12-26 23:57:23.820000+00:00,1939-12-26,"20 km NNE of Erzincan, Turkey",Turkey,Europe,39.907,39.586,20.0,7.8,earthquake
+iscgem902275,1939-12-21 21:00:45.010000+00:00,1939-12-21,"68 km SSW of Gorontalo, Indonesia",Indonesia,Asia,-0.018,122.793,150.0,8.1,earthquake
+iscgem902274,1939-12-21 20:54:52.930000+00:00,1939-12-21,"4 km WNW of Atenas, Costa Rica",Costa Rica,North America,9.99,-84.412,25.0,7.59,earthquake
+iscgem902187,1939-10-10 18:31:59.240000+00:00,1939-10-10,"off the east coast of Honshu, Japan",Japan,Asia,38.513,143.07,20.0,7.41,earthquake
+iscgem902140,1939-09-08 12:04:47.580000+00:00,1939-09-08,"238 km SSE of Attu Station, Alaska",Alaska,North America,50.999,174.959,15.0,7.24,earthquake
+iscgem901929,1939-05-02 13:14:54.020000+00:00,1939-05-02,"92 km NNE of San Luis, Mexico",Mexico,North America,29.241,-113.513,10.0,7.19,earthquake
+iscgem901919,1939-05-01 05:58:29.860000+00:00,1939-05-01,"28 km W of Tenn?, Japan",Japan,Asia,39.93,139.637,10.0,7.19,earthquake
+iscgem901916,1939-04-30 02:55:30.650000+00:00,1939-04-30,"23 km SSE of Malango, Solomon Islands",Solomon Islands,Oceania,-9.881,159.829,15.0,7.83,earthquake
+iscgem901902,1939-04-18 06:22:44.120000+00:00,1939-04-18,"Atacama, Chile",Chile,South America,-27.218,-70.875,35.0,7.42,earthquake
+iscgem901890,1939-04-05 16:42:43.990000+00:00,1939-04-05,"48 km SSW of Isangel, Vanuatu",Vanuatu,Oceania,-19.924,169.055,30.0,7.06,earthquake
+iscgem901866,1939-03-21 01:11:14.910000+00:00,1939-03-21,South Indian Ocean,Indian Ocean,Indian Ocean,-1.272,89.324,15.0,7.5,earthquake
+iscgem901797,1939-01-30 02:18:30.410000+00:00,1939-01-30,"85 km S of Panguna, Papua New Guinea",Papua New Guinea,Oceania,-7.086,155.388,35.0,7.82,earthquake
+iscgem901785,1939-01-25 03:32:14.960000+00:00,1939-01-25,"26 km WNW of San Carlos, Chile",Chile,South America,-36.296,-72.213,35.0,7.85,earthquake
+iscgem902854,1938-12-06 23:00:52.970000+00:00,1938-12-06,"113 km ESE of Yujing, Taiwan",Taiwan,Asia,22.841,121.52,15.0,7.02,earthquake
+iscgem902835,1938-11-30 02:29:51.350000+00:00,1938-11-30,"99 km E of Iwaki, Japan",Japan,Asia,37.036,142.002,30.0,7.04,earthquake
+iscgem902790,1938-11-13 22:31:31.120000+00:00,1938-11-13,"200 km ESE of Iwaki, Japan",Japan,Asia,36.482,143.02,35.0,7.11,earthquake
+official19381110201849000_35,1938-11-10 20:18:49+00:00,1938-11-10,Alaska Peninsula,Alaska,North America,55.178,-158.181,35.0,8.23,earthquake
+iscgem902752,1938-11-06 21:38:47.220000+00:00,1938-11-06,"141 km ESE of Namie, Japan",Japan,Asia,37.009,142.485,25.0,7.6,earthquake
+iscgem902745,1938-11-06 08:53:55.300000+00:00,1938-11-06,"116 km E of Namie, Japan",Japan,Asia,37.382,142.305,30.0,7.7,earthquake
+iscgem902741,1938-11-05 10:50:18.100000+00:00,1938-11-05,"116 km ESE of Namie, Japan",Japan,Asia,37.147,142.241,35.0,7.7,earthquake
+iscgem902740,1938-11-05 08:43:24.230000+00:00,1938-11-05,"105 km E of Iwaki, Japan",Japan,Asia,36.971,142.065,35.0,7.8,earthquake
+iscgem902719,1938-10-20 02:19:30.190000+00:00,1938-10-20,"70 km SE of Maumere, Indonesia",Indonesia,Asia,-8.996,122.726,66.0,7.16,earthquake
+iscgem902710,1938-10-10 20:48:07.010000+00:00,1938-10-10,"182 km WNW of Tobelo, Indonesia",Indonesia,Asia,2.4,126.514,15.0,7.22,earthquake
+iscgem902664,1938-09-07 04:03:19.810000+00:00,1938-09-07,"21 km SSW of Hualien City, Taiwan",Taiwan,Asia,23.807,121.506,15.0,7.09,earthquake
+iscgem902629,1938-08-16 04:28:01.470000+00:00,1938-08-16,"31 km SE of Falam, Myanmar",Myanmar,Asia,22.723,93.912,75.0,7.02,earthquake
+iscgem902546,1938-06-20 23:50:36.630000+00:00,1938-06-20,"22 km ESE of Kemin, Kyrgyzstan",Kyrgyzstan,Asia,42.717,75.947,15.0,7.03,earthquake
+iscgem902539,1938-06-16 02:15:18.540000+00:00,1938-06-16,"78 km S of Naze, Japan",Japan,Asia,27.659,129.476,20.0,7.6,earthquake
+iscgem902525,1938-06-10 09:53:43.600000+00:00,1938-06-10,"35 km N of Hirara, Japan",Japan,Asia,25.125,125.308,20.0,7.66,earthquake
+iscgem902524,1938-06-09 19:15:10.320000+00:00,1938-06-09,"170 km WNW of Ambon, Indonesia",Indonesia,Asia,-3.146,126.75,15.0,7.08,earthquake
+iscgem902508,1938-05-30 14:29:52.920000+00:00,1938-05-30,"72 km SW of Isangel, Vanuatu",Vanuatu,Oceania,-19.99,168.78,35.0,7.03,earthquake
+iscgem902499,1938-05-23 08:21:51.080000+00:00,1938-05-23,"41 km W of Pagsanahan Norte, Philippines",Philippines,Asia,17.987,120.058,15.0,7.07,earthquake
+iscgem902498,1938-05-23 07:18:30.500000+00:00,1938-05-23,"69 km ESE of Kitaibaraki, Japan",Japan,Asia,36.534,141.459,15.0,7.7,earthquake
+iscgem902493,1938-05-19 17:08:47.320000+00:00,1938-05-19,"120 km NE of Palu, Indonesia",Indonesia,Asia,-0.045,120.537,35.0,7.7,earthquake
+iscgem902481,1938-05-12 15:39:06.260000+00:00,1938-05-12,"48 km NW of Finschhafen, Papua New Guinea",Papua New Guinea,Oceania,-6.222,147.561,35.0,7.55,earthquake
+official19380201190422_30,1938-02-01 19:04:22+00:00,1938-02-01,"141 km WNW of Tual, Indonesia",Indonesia,Asia,-5.045,131.614,25.0,8.5,earthquake
+iscgem903401,1937-12-23 13:18:03.460000+00:00,1937-12-23,"3 km W of Huixtepec, Mexico",Mexico,North America,16.656,-98.338,25.0,7.4,earthquake
+iscgem903210,1937-08-20 11:59:21.420000+00:00,1937-08-20,"6 km E of Tignoan, Philippines",Philippines,Asia,14.569,121.675,15.0,7.64,earthquake
+iscgem903200,1937-08-11 00:55:56.700000+00:00,1937-08-11,"205 km NNE of Gili Air, Indonesia",Indonesia,Asia,-6.538,116.479,610.0,7.1,earthquake
+iscgem903173,1937-07-22 17:09:32.270000+00:00,1937-07-22,Central Alaska,Alaska,North America,64.626,-146.82,10.0,7.12,earthquake
+iscgem903121,1937-06-21 15:13:05.170000+00:00,1937-06-21,"55 km SW of Santiago de Cao, Peru",Peru,South America,-8.276,-79.628,30.0,7.11,earthquake
+iscgem903042,1937-04-16 03:01:38.090000+00:00,1937-04-16,"227 km WNW of Haveluloto, Tonga",Tonga,Oceania,-20.596,-177.315,330.0,7.3,earthquake
+iscgem902955,1937-02-21 07:02:42.240000+00:00,1937-02-21,"170 km ESE of Kuril’sk, Russia",Russia,Asia,44.447,149.733,30.0,7.44,earthquake
+iscgem902922,1937-01-25 06:34:05.570000+00:00,1937-01-25,"76 km E of Kirakira, Solomon Islands",Solomon Islands,Oceania,-10.371,162.615,15.0,7.21,earthquake
+iscgem902908,1937-01-07 13:20:42.780000+00:00,1937-01-07,"the central region of China, in the province of Gansu",China,Asia,35.331,97.761,15.0,7.81,earthquake
+iscgem903937,1936-11-13 12:31:33.030000+00:00,1936-11-13,"61 km ESE of Ust’-Kamchatsk Staryy, Russia",Russia,Asia,56.017,163.386,20.0,7.32,earthquake
+iscgem903917,1936-11-02 20:45:57.430000+00:00,1936-11-02,"83 km E of Ishinomaki, Japan",Japan,Asia,38.279,142.235,35.0,7.25,earthquake
+iscgem903844,1936-09-19 01:01:47.150000+00:00,1936-09-19,"86 km WSW of Pangkalan Brandan, Indonesia",Indonesia,Asia,3.681,97.578,20.0,7.06,earthquake
+iscgem903796,1936-08-22 06:51:34.870000+00:00,1936-08-22,"51 km E of Hengchun, Taiwan",Taiwan,Asia,21.963,121.24,15.0,7.13,earthquake
+iscgem903742,1936-07-13 11:12:18.530000+00:00,1936-07-13,"83 km NNE of Taltal, Chile",Chile,South America,-24.718,-70.155,35.0,7.52,earthquake
+iscgem903716,1936-06-30 15:06:41.460000+00:00,1936-06-30,"253 km SE of Vilyuchinsk, Russia",Russia,Asia,51.197,160.811,15.0,7.46,earthquake
+iscgem903573,1936-04-19 05:07:17.010000+00:00,1936-04-19,"61 km NW of Gizo, Solomon Islands",Solomon Islands,Oceania,-7.656,156.508,20.0,7.27,earthquake
+iscgem903538,1936-04-01 02:09:27.540000+00:00,1936-04-01,"161 km SE of Sarangani, Philippines",Philippines,Asia,4.264,126.379,35.0,7.75,earthquake
+iscgem903478,1936-02-15 12:46:58.740000+00:00,1936-02-15,"152 km NNE of Tual, Indonesia",Indonesia,Asia,-4.374,133.32,15.0,7.13,earthquake
+iscgem904721,1935-12-28 02:35:31.280000+00:00,1935-12-28,"212 km W of Pariaman, Indonesia",Indonesia,Asia,-0.278,98.242,30.0,7.6,earthquake
+iscgem904697,1935-12-15 07:07:54.140000+00:00,1935-12-15,"56 km W of Kirakira, Solomon Islands",Solomon Islands,Oceania,-10.367,161.411,35.0,7.6,earthquake
+iscgem904696,1935-12-14 22:05:26.220000+00:00,1935-12-14,"4 km SSW of Puerto Madero, Mexico",Mexico,North America,14.688,-92.438,35.0,7.31,earthquake
+iscgem904591,1935-10-18 00:11:59.680000+00:00,1935-10-18,"192 km ENE of Miyako, Japan",Japan,Asia,40.232,144.06,15.0,7.19,earthquake
+iscgem904577,1935-10-12 16:45:23.640000+00:00,1935-10-12,"136 km ENE of Miyako, Japan",Japan,Asia,40.176,143.378,15.0,7.12,earthquake
+iscgem904529,1935-09-20 05:23:10.810000+00:00,1935-09-20,"55 km NNW of Ambunti, Papua New Guinea",Papua New Guinea,Oceania,-3.743,142.642,35.0,7.02,earthquake
+iscgem904528,1935-09-20 01:46:43.460000+00:00,1935-09-20,"New Guinea, Papua New Guinea",Papua New Guinea,Oceania,-3.868,141.379,30.0,7.83,earthquake
+iscgem904513,1935-09-11 14:04:03.360000+00:00,1935-09-11,"42 km SSW of Shikotan, Russia",Russia,Asia,43.424,146.618,35.0,7.46,earthquake
+iscgem904497,1935-09-04 01:37:43.770000+00:00,1935-09-04,"66 km ENE of Hengchun, Taiwan",Taiwan,Asia,22.331,121.284,15.0,7.09,earthquake
+iscgem904464,1935-08-17 01:44:37.420000+00:00,1935-08-17,southeast of the Loyalty Islands,Loyalty Islands,Oceania,-22.308,171.468,20.0,7.14,earthquake
+iscgem904311,1935-05-30 21:32:57.110000+00:00,1935-05-30,"17 km WSW of Kalat, Pakistan",Pakistan,Asia,28.958,66.436,25.0,7.61,earthquake
+iscgem904224,1935-04-20 22:02:00.960000+00:00,1935-04-20,"14 km N of Taichung, Taiwan",Taiwan,Asia,24.277,120.686,15.0,7.05,earthquake
+iscgem905307,1934-12-15 01:57:41.290000+00:00,1934-12-15,"200 km NW of Dêqên, China",China,Asia,31.162,89.157,15.0,7.32,earthquake
+iscgem905294,1934-11-30 02:05:16.820000+00:00,1934-11-30,"102 km SW of Barra de Navidad, Mexico",Mexico,North America,18.494,-105.307,15.0,7.04,earthquake
+iscgem905065,1934-07-21 06:18:21.380000+00:00,1934-07-21,"45 km SSE of Lata, Solomon Islands",Solomon Islands,Oceania,-11.099,165.967,15.0,7.3,earthquake
+iscgem905046,1934-07-18 19:40:20.150000+00:00,1934-07-18,"138 km SSE of Lata, Solomon Islands",Solomon Islands,Oceania,-11.818,166.413,10.0,7.7,earthquake
+iscgem905037,1934-07-18 01:36:31.380000+00:00,1934-07-18,"44 km ESE of Burica, Panama",Panama,North America,7.853,-82.513,30.0,7.5,earthquake
+iscgem904890,1934-04-15 22:15:22.510000+00:00,1934-04-15,"12 km E of Kinablangan, Philippines",Philippines,Asia,7.689,126.662,35.0,7.17,earthquake
+iscgem904858,1934-03-24 12:04:32.460000+00:00,1934-03-24,"119 km SE of Honiara, Solomon Islands",Solomon Islands,Oceania,-10.082,160.819,15.0,7.02,earthquake
+iscgem904826,1934-03-05 11:46:14.570000+00:00,1934-03-05,"39 km SE of Palmerston North, New Zealand",New Zealand,Oceania,-40.6,175.954,15.0,7.2,earthquake
+iscgem904819,1934-02-28 14:21:49.040000+00:00,1934-02-28,"61 km ENE of Kimbe, Papua New Guinea",Papua New Guinea,Oceania,-5.346,150.649,15.0,7.03,earthquake
+iscgem904813,1934-02-24 06:23:48.560000+00:00,1934-02-24,"Volcano Islands, Japan region",Japan,Asia,23.105,144.009,35.0,7.5,earthquake
+iscgem904793,1934-02-14 03:59:39.100000+00:00,1934-02-14,"113 km W of Cabittaogan, Philippines",Philippines,Asia,17.496,119.292,15.0,7.5,earthquake
+iscgem904745,1934-01-15 08:43:25.820000+00:00,1934-01-15,Nepal,Nepal,Asia,27.275,86.941,15.0,8.0,earthquake
+iscgem905919,1933-11-20 23:21:35.480000+00:00,1933-11-20,Baffin Bay,Baffin Bay,North America,73.148,-70.072,15.0,7.44,earthquake
+iscgem905786,1933-08-28 22:19:47.330000+00:00,1933-08-28,South Sandwich Islands region,South Sandwich Islands,Antarctica,-60.251,-27.086,35.0,7.46,earthquake
+iscgem905779,1933-08-25 07:50:32.780000+00:00,1933-08-25,"101 km WNW of Jiangyou, China",China,Asia,31.957,103.669,15.0,7.38,earthquake
+iscgem905657,1933-06-24 21:54:50.070000+00:00,1933-06-24,"48 km SW of Kotabumi, Indonesia",Indonesia,Asia,-5.183,104.63,20.0,7.52,earthquake
+iscgem905646,1933-06-18 21:37:36.740000+00:00,1933-06-18,"110 km ESE of Ishinomaki, Japan",Japan,Asia,38.083,142.484,30.0,7.25,earthquake
+official19330302173100_30,1933-03-02 17:31:00+00:00,1933-03-02,"1933 Sanriku (Sanriku-oki) Earthquake, Japan",Japan,Asia,39.209,144.59,15.0,8.4,earthquake
+iscgem905405,1933-02-23 08:09:19.490000+00:00,1933-02-23,"34 km S of Iquique, Chile",Chile,South America,-20.521,-70.192,35.0,7.28,earthquake
+iscgem905360,1933-01-21 19:21:14.200000+00:00,1933-01-21,"ciudad de Buenos Aires,  Argentina",Argentina,South America,-33.983,57.677,10.0,7.13,earthquake
+iscgem906530,1932-12-25 02:04:30.300000+00:00,1932-12-25,"108 km WSW of Laojunmiao, China",China,Asia,39.462,96.562,15.0,7.84,earthquake
+iscgem906454,1932-11-13 04:46:59.600000+00:00,1932-11-13,"88 km SSE of Kamenka, Russia",Russia,Asia,43.794,136.619,320.0,7.1,earthquake
+iscgem906247,1932-06-22 12:59:30.550000+00:00,1932-06-22,"12 km NNE of La Central, Mexico",Mexico,North America,19.242,-104.383,25.0,7.7,earthquake
+iscgem906234,1932-06-18 10:12:32.930000+00:00,1932-06-18,"7 km E of Los Tepames, Mexico",Mexico,North America,19.087,-103.551,15.0,7.8,earthquake
+iscgem906183,1932-06-03 10:36:58.080000+00:00,1932-06-03,"4 km ENE of Tonaya, Mexico",Mexico,North America,19.795,-103.931,35.0,8.1,earthquake
+iscgem906153,1932-05-21 10:10:03.680000+00:00,1932-05-21,"12 km S of Conchagua, El Salvador",El Salvador,North America,13.198,-87.862,15.0,7.09,earthquake
+iscgem906146,1932-05-14 13:11:03.840000+00:00,1932-05-14,"148 km SE of Tondano, Indonesia",Indonesia,Asia,0.386,125.884,15.0,7.7,earthquake
+iscgem907108,1931-11-02 10:03:04.230000+00:00,1931-11-02,"58 km ESE of Takanabe, Japan",Japan,Asia,31.884,132.043,35.0,7.93,earthquake
+iscgem907065,1931-10-10 00:19:57.860000+00:00,1931-10-10,"116 km NW of Kirakira, Solomon Islands",Solomon Islands,Oceania,-9.734,161.151,15.0,7.84,earthquake
+iscgem907054,1931-10-03 19:13:21.880000+00:00,1931-10-03,"108 km SW of Kirakira, Solomon Islands",Solomon Islands,Oceania,-11.118,161.195,15.0,7.83,earthquake
+iscgem907033,1931-09-25 05:59:53.200000+00:00,1931-09-25,"161 km S of Bengkulu, Indonesia",Indonesia,Asia,-5.263,102.266,35.0,7.34,earthquake
+iscgem906971,1931-08-27 15:27:21.770000+00:00,1931-08-27,"14 km SSE of Mach, Pakistan",Pakistan,Asia,29.745,67.391,10.0,7.2,earthquake
+iscgem906951,1931-08-18 14:21:04.830000+00:00,1931-08-18,"148 km ESE of Altay, China",China,Asia,47.254,89.898,10.0,7.25,earthquake
+iscgem906933,1931-08-10 21:18:45.160000+00:00,1931-08-10,"172 km SE of Altay, China",China,Asia,46.858,89.888,10.0,7.9,earthquake
+iscgem906921,1931-08-07 02:11:43.720000+00:00,1931-08-07,"43 km SW of Aitape, Papua New Guinea",Papua New Guinea,Oceania,-3.366,142.031,35.0,7.08,earthquake
+iscgem906785,1931-05-20 02:22:51.870000+00:00,1931-05-20,Azores-Cape St. Vincent Ridge,Azores Cape St. Vincent,Europe,37.742,-16.165,10.0,7.22,earthquake
+iscgem906680,1931-03-18 08:02:24.590000+00:00,1931-03-18,"37 km S of San Antonio, Chile",Chile,South America,-33.926,-71.556,35.0,7.2,earthquake
+iscgem906664,1931-03-09 03:49:00.210000+00:00,1931-03-09,"78 km E of Hachinohe, Japan",Japan,Asia,40.591,142.422,35.0,7.92,earthquake
+iscgem906628,1931-02-13 01:27:26.740000+00:00,1931-02-13,"40 km E of Waiouru, New Zealand",New Zealand,Oceania,-39.421,176.129,45.0,7.3,earthquake
+iscgem906621,1931-02-10 06:34:34.070000+00:00,1931-02-10,"164 km SSW of Pagar Alam, Indonesia",Indonesia,Asia,-5.356,102.594,35.0,7.02,earthquake
+iscgem906607,1931-02-02 22:46:52.250000+00:00,1931-02-02,"47 km WSW of Hastings, New Zealand",New Zealand,Oceania,-39.741,176.316,35.0,7.4,earthquake
+iscgem906597,1931-01-28 21:24:11.380000+00:00,1931-01-28,"265 km S of Merizo Village, Guam",Guam,Oceania,10.873,144.461,15.0,7.2,earthquake
+iscgem906595,1931-01-27 20:09:20.010000+00:00,1931-01-27,"37 km S of Sarupathar, India",India,Asia,25.872,96.764,15.0,7.58,earthquake
+iscgem906564,1931-01-15 01:50:48.030000+00:00,1931-01-15,"5 km SSW of San Miguel Suchixtepec, Mexico",Mexico,North America,16.049,-96.486,35.0,7.6,earthquake
+iscgem907777,1930-12-03 18:51:47.210000+00:00,1930-12-03,"36 km SSW of Pyu, Myanmar",Myanmar,Asia,18.17,96.336,10.0,7.52,earthquake
+iscgem907664,1930-10-24 20:15:10.690000+00:00,1930-10-24,"Pagan region, Northern Mariana Islands",Mariana Islands,Oceania,18.448,146.688,25.0,7.2,earthquake
+iscgem907354,1930-05-06 22:34:27.350000+00:00,1930-05-06,"10 km SSW of Salm?s, Iran",Iran,Asia,38.108,44.727,15.0,7.1,earthquake
+iscgem907352,1930-05-05 13:46:01.310000+00:00,1930-05-05,"41 km SW of Nyaunglebin, Myanmar",Myanmar,Asia,17.733,96.406,35.0,7.43,earthquake
+iscgem908419,1929-12-17 10:58:41.810000+00:00,1929-12-17,"93 km NW of Attu Station, Alaska",Alaska,North America,53.439,172.202,20.0,7.86,earthquake
+iscgem908394,1929-11-18 20:32:00.230000+00:00,1929-11-18,"256 km S of Saint-Pierre, Saint Pierre and Miquelon",Saint Pierre and Miquelon,North America,44.475,-55.987,10.0,7.2,earthquake
+iscgem908389,1929-11-15 18:50:29.030000+00:00,1929-11-15,"State of Yap, Federated States of Micronesia",Federated States of Micronesia,Oceania,7.568,142.746,10.0,7.05,earthquake
+iscgem908198,1929-07-07 21:23:17.950000+00:00,1929-07-07,"88 km WSW of Adak, Alaska",Alaska,North America,51.479,-177.746,35.0,7.33,earthquake
+iscgem908189,1929-07-05 14:19:09.620000+00:00,1929-07-05,"114 km WSW of Adak, Alaska",Alaska,North America,51.459,-178.153,35.0,7.01,earthquake
+iscgem908171,1929-06-27 12:47:13.930000+00:00,1929-06-27,South Sandwich Islands region,South Sandwich Islands,Antarctica,-55.373,-29.345,15.0,8.1,earthquake
+iscgem908150,1929-06-16 22:47:34.110000+00:00,1929-06-16,"68 km S of Wakefield, New Zealand",New Zealand,Oceania,-42.001,173.208,20.0,7.3,earthquake
+iscgem908140,1929-06-13 09:24:43.560000+00:00,1929-06-13,"5 km ESE of Veruela, Philippines",Philippines,Asia,8.053,126.0,35.0,7.21,earthquake
+iscgem908101,1929-05-26 22:40:08.400000+00:00,1929-05-26,"262 km W of Port McNeill, Canada",Canada,North America,51.103,-130.722,15.0,7.48,earthquake
+iscgem908052,1929-05-01 15:37:36.290000+00:00,1929-05-01,"40 km SSE of Baharly, Turkmenistan",Turkmenistan,Asia,38.107,57.642,10.0,7.2,earthquake
+iscgem907930,1929-03-07 01:34:42.430000+00:00,1929-03-07,"234 km SSW of Nikolski, Alaska",Alaska,North America,50.906,-169.786,15.0,7.8,earthquake
+iscgem907911,1929-02-22 20:41:50.500000+00:00,1929-02-22,"northern region of South America, in the coastal zone of Venezuela",Venezuela,South America,10.657,-42.016,10.0,7.04,earthquake
+iscgem907874,1929-01-24 20:36:44.010000+00:00,1929-01-24,off the coast of Central America,Central America,North America,12.944,-90.697,15.0,7.03,earthquake
+iscgem909023,1928-12-19 11:37:19.400000+00:00,1928-12-19,"10 km ESE of Basak, Philippines",Philippines,Asia,6.707,124.245,25.0,7.42,earthquake
+iscgem908989,1928-12-02 04:20:26.070000+00:00,1928-12-02,"47 km NW of Cauquenes, Chile",Chile,South America,-35.712,-72.74,30.0,7.23,earthquake
+iscgem908986,1928-12-01 04:06:17.600000+00:00,1928-12-01,"30 km NNE of Constitución, Chile",Chile,South America,-35.084,-72.267,35.0,7.7,earthquake
+iscgem908971,1928-11-20 20:35:12.480000+00:00,1928-11-20,"64 km NNE of Antofagasta, Chile",Chile,South America,-23.157,-70.057,45.0,7.03,earthquake
+iscgem908920,1928-10-09 03:01:14.730000+00:00,1928-10-09,"6 km WSW of San Miguel Panixtlahuaca, Mexico",Mexico,North America,16.233,-97.434,25.0,7.51,earthquake
+iscgem908823,1928-08-04 18:26:18.110000+00:00,1928-08-04,"40 km S of Corralero, Mexico",Mexico,North America,15.877,-98.229,20.0,7.36,earthquake
+iscgem908792,1928-07-18 19:05:09.260000+00:00,1928-07-18,"15 km SSW of Huabal, Peru",Peru,South America,-5.732,-78.982,35.0,7.09,earthquake
+iscgem908762,1928-06-29 22:49:42.170000+00:00,1928-06-29,Vanuatu region,Vanuatu,Oceania,-15.833,170.902,15.0,7.07,earthquake
+iscgem908744,1928-06-17 03:19:32.370000+00:00,1928-06-17,"15 km ESE of San Gabriel Mixtepec, Mexico",Mexico,North America,16.065,-96.944,20.0,7.99,earthquake
+iscgem908698,1928-05-27 09:50:28.770000+00:00,1928-05-27,"79 km ENE of Miyako, Japan",Japan,Asia,39.875,142.822,35.0,7.34,earthquake
+iscgem908668,1928-05-14 22:14:48.040000+00:00,1928-05-14,"23 km N of Bellavista, Peru",Peru,South America,-5.449,-78.658,10.0,7.28,earthquake
+iscgem908608,1928-04-18 19:22:56.900000+00:00,1928-04-18,"3 km W of Brezovo, Bulgaria",Bulgaria,Europe,42.351,25.044,10.0,7.1,earthquake
+iscgem908596,1928-04-14 09:00:00.020000+00:00,1928-04-14,"9 km S of Stara Zagora, Bulgaria",Bulgaria,Europe,42.351,25.641,10.0,7.1,earthquake
+iscgem908552,1928-03-22 04:17:04.590000+00:00,1928-03-22,"8 km ENE of Santiago Xanica, Mexico",Mexico,North America,16.037,-96.155,15.0,7.44,earthquake
+iscgem908538,1928-03-16 05:01:05.850000+00:00,1928-03-16,"274 km ESE of Tadine, New Caledonia",New Caledonia,Oceania,-22.36,170.395,10.0,7.56,earthquake
+iscgem908528,1928-03-09 18:05:30.760000+00:00,1928-03-09,South Indian Ocean,Indian Ocean,Indian Ocean,-2.347,88.463,15.0,7.7,earthquake
+iscgem16960058,1927-12-28 18:20:32.020000+00:00,1927-12-28,"83 km SSE of Atlasovo, Russia",Russia,Asia,54.969,160.343,15.0,7.19,earthquake
+iscgem909648,1927-11-21 23:12:33.660000+00:00,1927-11-21,"12 km S of Puerto Cisnes, Chile",Chile,South America,-44.861,-72.686,15.0,7.04,earthquake
+iscgem909582,1927-10-24 15:59:56.250000+00:00,1927-10-24,"31 km SSW of Pelican, Alaska",Alaska,North America,57.711,-136.485,10.0,7.24,earthquake
+iscgem909456,1927-08-18 19:27:55.750000+00:00,1927-08-18,"125 km ESE of Katsuura, Japan",Japan,Asia,34.552,141.489,20.0,7.01,earthquake
+iscgem909442,1927-08-10 11:36:12.300000+00:00,1927-08-10,"61 km ENE of Sorong, Indonesia",Indonesia,Asia,-0.599,131.737,15.0,7.05,earthquake
+iscgem909316,1927-06-03 07:12:07.640000+00:00,1927-06-03,"273 km WSW of Tual, Indonesia",Indonesia,Asia,-6.763,130.561,35.0,7.49,earthquake
+iscgem909273,1927-05-22 22:32:50.180000+00:00,1927-05-22,"31 km SSW of Wuwei, China",China,Asia,37.666,102.493,15.0,7.7,earthquake
+iscgem909124,1927-03-03 01:05:10.340000+00:00,1927-03-03,"199 km SSW of Katabu, Indonesia",Indonesia,Asia,-6.668,122.012,15.0,7.02,earthquake
+iscgem909092,1927-02-16 01:35:26.130000+00:00,1927-02-16,Kuril Islands,Kuril Islands,Asia,46.551,153.581,15.0,7.03,earthquake
+iscgem909067,1927-01-24 01:05:47.020000+00:00,1927-01-24,"84 km SW of Port-Vila, Vanuatu",Vanuatu,Oceania,-18.284,167.756,30.0,7.09,earthquake
+iscgem910191,1926-10-26 03:44:45.620000+00:00,1926-10-26,"158 km WSW of Abepura, Indonesia",Indonesia,Asia,-2.885,139.239,35.0,7.56,earthquake
+iscgem910139,1926-10-03 19:38:03.600000+00:00,1926-10-03,north of Macquarie Island,Macquarie Island,Australia,-50.291,159.493,10.0,7.47,earthquake
+iscgem910107,1926-09-16 17:59:12.120000+00:00,1926-09-16,"33 km WNW of Malango, Solomon Islands",Solomon Islands,Oceania,-9.531,159.465,15.0,7.09,earthquake
+iscgem910100,1926-09-10 10:34:28.090000+00:00,1926-09-10,"138 km SSE of Pundong, Indonesia",Indonesia,Asia,-9.169,110.63,35.0,7.1,earthquake
+iscgem910072,1926-08-25 05:44:45.870000+00:00,1926-08-25,southeast of the Loyalty Islands,Loyalty Islands,Oceania,-23.098,172.219,20.0,7.04,earthquake
+iscgem909810,1926-04-12 08:32:31.700000+00:00,1926-04-12,"34 km WNW of Kirakira, Solomon Islands",Solomon Islands,Oceania,-10.358,161.623,15.0,7.32,earthquake
+iscgem909794,1926-03-27 10:48:38.630000+00:00,1926-03-27,"110 km SE of Gizo, Solomon Islands",Solomon Islands,Oceania,-8.894,157.462,15.0,7.1,earthquake
+iscgem909737,1926-02-08 15:18:01.820000+00:00,1926-02-08,"113 km SSW of Puerto El Triunfo, El Salvador",El Salvador,North America,12.292,-88.801,20.0,7.13,earthquake
+iscgem909720,1926-01-25 00:36:25.420000+00:00,1926-01-25,"62 km SW of Malango, Solomon Islands",Solomon Islands,Oceania,-10.059,159.281,15.0,7.48,earthquake
+iscgem910734,1925-11-13 12:14:50.930000+00:00,1925-11-13,"23 km NNW of Bugko, Philippines",Philippines,Asia,12.734,124.719,20.0,7.24,earthquake
+iscgem910733,1925-11-10 13:50:35.690000+00:00,1925-11-10,"60 km WNW of Sorong, Indonesia",Indonesia,Asia,-0.585,130.803,15.0,7.27,earthquake
+iscgem910710,1925-10-13 17:40:38.120000+00:00,1925-10-13,northern Mid-Atlantic Ridge,Mid Atlantic Ridge,Europe,10.702,-42.279,10.0,7.11,earthquake
+iscgem910653,1925-08-19 12:07:31.780000+00:00,1925-08-19,"Komandorskiye Ostrova, Russia region",Russia,Asia,55.291,167.198,15.0,7.02,earthquake
+iscgem910532,1925-06-09 13:40:22.270000+00:00,1925-06-09,"61 km W of Angoram, Papua New Guinea",Papua New Guinea,Oceania,-4.121,143.515,25.0,7.04,earthquake
+iscgem910473,1925-05-03 17:21:46.470000+00:00,1925-05-03,"129 km WNW of Ternate, Indonesia",Indonesia,Asia,1.223,126.303,15.0,7.13,earthquake
+iscgem910450,1925-04-16 19:52:40.380000+00:00,1925-04-16,"43 km ESE of Hengchun, Taiwan",Taiwan,Asia,21.786,121.096,15.0,7.13,earthquake
+iscgem910440,1925-04-11 10:42:07.580000+00:00,1925-04-11,South Indian Ocean,Indian Ocean,Indian Ocean,-34.565,58.728,10.0,7.04,earthquake
+iscgem910423,1925-03-22 08:41:58.940000+00:00,1925-03-22,"113 km SSE of Port-Vila, Vanuatu",Vanuatu,Oceania,-18.735,168.57,35.0,7.18,earthquake
+iscgem910330,1925-01-18 12:05:56.780000+00:00,1925-01-18,Kuril Islands,Kuril Islands,Asia,47.918,153.743,35.0,7.24,earthquake
+iscgem911077,1924-08-30 03:04:59.860000+00:00,1924-08-30,"70 km E of Aras-asan, Philippines",Philippines,Asia,8.982,126.942,15.0,7.19,earthquake
+iscgem911061,1924-08-14 18:02:40.250000+00:00,1924-08-14,"67 km ENE of Kashima-shi, Japan",Japan,Asia,36.199,141.34,15.0,7.13,earthquake
+iscgem911040,1924-07-24 04:55:19.910000+00:00,1924-07-24,north of Macquarie Island,Macquarie Island,Australia,-49.382,159.224,15.0,7.14,earthquake
+iscgemsup911023,1924-07-11 19:44:46.170000+00:00,1924-07-11,"southern Xinjiang, China",China,Asia,37.141,83.486,10.0,7.26,earthquake
+iscgem911007,1924-07-03 04:40:12.660000+00:00,1924-07-03,"southern Xinjiang, China",China,Asia,36.981,84.186,10.0,7.32,earthquake
+iscgem910998,1924-06-26 01:37:33.350000+00:00,1924-06-26,Macquarie Island region,Macquarie Island,Australia,-56.191,158.481,10.0,7.65,earthquake
+iscgem910936,1924-05-04 16:51:50.180000+00:00,1924-05-04,Fiji region,Fiji,Oceania,-21.236,-178.738,535.0,7.1,earthquake
+iscgem910911,1924-04-14 16:20:37.490000+00:00,1924-04-14,"6 km E of Tibanbang, Philippines",Philippines,Asia,6.625,126.167,15.0,8.12,earthquake
+iscgem911721,1923-11-05 21:28:03.400000+00:00,1923-11-05,"101 km NE of Naze, Japan",Japan,Asia,28.926,130.311,35.0,7.18,earthquake
+iscgem911676,1923-10-07 03:29:38.210000+00:00,1923-10-07,"193 km W of Sorong, Indonesia",Indonesia,Asia,-1.211,129.554,15.0,7.41,earthquake
+iscgem911591,1923-09-02 02:46:41.720000+00:00,1923-09-02,"5 km E of Tateyama, Japan",Japan,Asia,34.985,139.928,15.0,7.85,earthquake
+iscgem911526,1923-09-01 02:58:35.270000+00:00,1923-09-01,"5 km SSE of ?iso, Japan",Japan,Asia,35.274,139.344,15.0,7.96,earthquake
+iscgem911446,1923-07-13 11:13:41.590000+00:00,1923-07-13,"22 km N of Nishinoomote, Japan",Japan,Asia,30.93,131.032,35.0,7.37,earthquake
+iscgem911420,1923-06-22 06:44:39.800000+00:00,1923-06-22,"99 km E of Lashio, Myanmar",Myanmar,Asia,22.817,98.711,25.0,7.26,earthquake
+iscgem911391,1923-06-01 17:24:46.570000+00:00,1923-06-01,"64 km ENE of Hasaki, Japan",Japan,Asia,35.936,141.501,15.0,7.22,earthquake
+iscgem911301,1923-03-02 16:48:34.060000+00:00,1923-03-02,"5 km NW of Kadingilan, Philippines",Philippines,Asia,7.641,124.873,15.0,7.18,earthquake
+iscgem911296,1923-02-24 07:34:44.620000+00:00,1923-02-24,"97 km SSE of Ust’-Kamchatsk Staryy, Russia",Russia,Asia,55.461,163.241,15.0,7.38,earthquake
+iscgem911273,1923-02-03 18:42:58.520000+00:00,1923-02-03,"77 km ESE of Mil’kovo, Russia",Russia,Asia,54.354,159.656,15.0,7.3,earthquake
+official19230203160150_30,1923-02-03 16:01:50+00:00,1923-02-03,"121 km ESE of Mil’kovo, Russia",Russia,Asia,54.486,160.472,15.0,8.4,earthquake
+iscgem911270,1923-02-02 05:07:48.280000+00:00,1923-02-02,"163 km ENE of Petropavlovsk-Kamchatsky, Russia",Russia,Asia,53.739,160.813,35.0,7.27,earthquake
+iscgem911261,1923-01-22 09:04:21.300000+00:00,1923-01-22,"66 km W of Ferndale, California",United States,North America,40.482,-125.034,15.0,7.12,earthquake
+official19221111043251_30,1922-11-11 04:32:51+00:00,1922-11-11,"94 km ENE of Vallenar, Chile",Chile,South America,-28.293,-69.852,70.0,8.5,earthquake
+iscgem912037,1922-10-11 14:49:57.440000+00:00,1922-10-11,"35 km N of El Cardo, Peru",Peru,South America,-16.287,-72.705,75.0,7.21,earthquake
+iscgem911999,1922-09-01 19:16:07.420000+00:00,1922-09-01,"50 km SSE of Yilan, Taiwan",Taiwan,Asia,24.364,122.0,20.0,7.69,earthquake
+iscgem911811,1922-01-31 13:17:31.440000+00:00,1922-01-31,"123 km W of Big Lagoon, California",United States,North America,41.189,-125.608,15.0,7.41,earthquake
+iscgem911801,1922-01-17 03:50:28.100000+00:00,1922-01-17,"143 km ESE of San Antonio del Estrecho, Peru",Peru,South America,-2.853,-71.438,475.0,7.9,earthquake
+iscgem912389,1921-12-18 15:29:27.130000+00:00,1921-12-18,"130 km W of Puerto Nariño, Colombia",Colombia,South America,-3.918,-71.52,540.0,7.3,earthquake
+iscgem912367,1921-11-15 20:36:43.370000+00:00,1921-11-15,"71 km SSW of Jurm, Afghanistan",Afghanistan,Asia,36.236,70.674,240.0,7.8,earthquake
+iscgem912362,1921-11-11 18:36:18.340000+00:00,1921-11-11,"62 km E of Baculin, Philippines",Philippines,Asia,7.452,127.151,15.0,7.44,earthquake
+iscgem912341,1921-10-15 04:58:18.150000+00:00,1921-10-15,"143 km NNW of Sola, Vanuatu",Vanuatu,Oceania,-12.724,166.945,35.0,7.02,earthquake
+iscgem912309,1921-09-11 04:01:45.060000+00:00,1921-09-11,"233 km S of Pundong, Indonesia",Indonesia,Asia,-10.046,110.653,15.0,7.58,earthquake
+iscgem912192,1921-03-28 07:49:28.780000+00:00,1921-03-28,"7 km SW of El Viejo, Nicaragua",Nicaragua,North America,12.61,-87.216,65.0,7.2,earthquake
+iscgem912172,1921-02-27 18:23:37.070000+00:00,1921-02-27,"103 km ESE of Neiafu, Tonga",Tonga,Oceania,-18.904,-173.037,15.0,7.39,earthquake
+iscgem912158,1921-02-04 08:22:40.620000+00:00,1921-02-04,"32 km NE of Chajul, Guatemala",Guatemala,North America,15.662,-90.791,15.0,7.11,earthquake
+iscgem912687,1920-12-16 12:05:52.400000+00:00,1920-12-16,"125 km E of Baiyin, China",China,Asia,36.358,105.554,15.0,7.94,earthquake
+iscgem912683,1920-12-10 04:25:49.770000+00:00,1920-12-10,"50 km SSW of Carahue, Chile",Chile,South America,-39.102,-73.462,25.0,7.29,earthquake
+iscgem912640,1920-10-18 08:11:40.660000+00:00,1920-10-18,"147 km E of Kuril’sk, Russia",Russia,Asia,45.39,149.741,60.0,7.08,earthquake
+iscgem912618,1920-09-20 14:39:03.400000+00:00,1920-09-20,"97 km WSW of Isangel, Vanuatu",Vanuatu,Oceania,-19.982,168.478,25.0,8.09,earthquake
+iscgem912573,1920-08-03 19:57:22.090000+00:00,1920-08-03,"32 km NW of Fiambalá, Argentina",Argentina,South America,-27.475,-67.867,15.0,7.03,earthquake
+iscgem912519,1920-06-05 04:21:35.170000+00:00,1920-06-05,"47 km SE of Hualien City, Taiwan",Taiwan,Asia,23.688,121.954,20.0,8.23,earthquake
+iscgem912419,1920-02-02 11:22:24.360000+00:00,1920-02-02,"74 km SSW of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-4.967,152.017,35.0,7.81,earthquake
+iscgem913021,1919-12-20 20:37:34.180000+00:00,1919-12-20,"122 km ENE of Hengchun, Taiwan",Taiwan,Asia,22.529,121.787,20.0,7.4,earthquake
+iscgem912783,1919-05-06 19:41:13.010000+00:00,1919-05-06,"183 km ESE of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-4.806,153.859,35.0,8.15,earthquake
+iscgem912777,1919-05-03 00:52:03.320000+00:00,1919-05-03,"277 km SSE of Kushiro, Japan",Japan,Asia,40.655,145.626,15.0,7.71,earthquake
+iscgem912773,1919-04-30 07:17:16.970000+00:00,1919-04-30,"166 km ENE of Neiafu, Tonga",Tonga,Oceania,-18.322,-172.442,25.0,8.1,earthquake
+iscgem912761,1919-04-17 11:22:09.710000+00:00,1919-04-17,"Kermadec Islands, New Zealand",New Zealand,Oceania,-30.58,-177.991,35.0,7.18,earthquake
+iscgem912735,1919-03-02 11:45:15.190000+00:00,1919-03-02,"13 km ENE of Trevelin, Argentina",Argentina,South America,-43.038,-71.306,15.0,7.18,earthquake
+iscgem912734,1919-03-02 03:26:35.610000+00:00,1919-03-02,"Off the coast of Los Lagos, Chile",Chile,South America,-43.814,-78.294,15.0,7.28,earthquake
+iscgem912700,1919-01-01 03:00:34.460000+00:00,1919-01-01,Fiji region,Fiji,Oceania,-19.318,-178.08,485.0,7.8,earthquake
+iscgem912699,1919-01-01 01:33:50.260000+00:00,1919-01-01,"22 km ESE of Bobon, Philippines",Philippines,Asia,6.808,126.526,35.0,7.21,earthquake
+iscgem913362,1918-12-04 11:47:51.310000+00:00,1918-12-04,"60 km W of Diego de Almagro, Chile",Chile,South America,-26.462,-70.65,40.0,8.01,earthquake
+iscgem913359,1918-12-02 09:47:34.160000+00:00,1918-12-02,northern Mid-Atlantic Ridge,Mid Atlantic Ridge,Europe,11.466,-43.625,10.0,7.06,earthquake
+iscgem913336,1918-11-08 04:38:09.680000+00:00,1918-11-08,east of the Kuril Islands,Kuril Islands,Asia,44.83,151.993,15.0,7.83,earthquake
+iscgem913330,1918-10-27 17:06:40.110000+00:00,1918-10-27,"185 km NW of Kavieng, Papua New Guinea",Papua New Guinea,Oceania,-1.505,149.511,15.0,7.24,earthquake
+iscgem913306,1918-10-11 14:14:41.660000+00:00,1918-10-11,"24 km NNW of San Antonio, Puerto Rico",Puerto Rico,North America,18.7,-67.189,15.0,7.1,earthquake
+iscgem913260,1918-09-07 17:16:27.110000+00:00,1918-09-07,east of the Kuril Islands,Kuril Islands,Asia,44.998,152.32,15.0,8.1,earthquake
+iscgem913230,1918-08-15 12:18:24.830000+00:00,1918-08-15,"75 km SSW of Malisbeng, Philippines",Philippines,Asia,5.538,123.994,20.0,8.3,earthquake
+iscgem913196,1918-07-08 10:22:08.490000+00:00,1918-07-08,"24 km N of Kishorganj, Bangladesh",Bangladesh,Asia,24.656,90.801,15.0,7.14,earthquake
+iscgem913192,1918-07-03 06:52:08.120000+00:00,1918-07-03,"50 km N of Wewak, Papua New Guinea",Papua New Guinea,Oceania,-3.094,143.573,15.0,7.58,earthquake
+iscgem913151,1918-05-23 11:57:40.020000+00:00,1918-05-23,"41 km SSW of Heroica Guaymas, Mexico",Mexico,North America,27.58,-111.087,10.0,7.01,earthquake
+iscgem913146,1918-05-20 14:36:06.500000+00:00,1918-05-20,central Mid-Atlantic Ridge,Mid Atlantic Ridge,Europe,7.409,-34.906,15.0,7.26,earthquake
+iscgem913072,1918-02-13 06:07:16.520000+00:00,1918-02-13,"7 km S of Huanggang, China",China,Asia,23.609,117.004,15.0,7.37,earthquake
+iscgem913745,1917-12-29 22:50:39.880000+00:00,1917-12-29,"31 km S of San Francisco Cozoaltepec, Mexico",Mexico,North America,15.533,-96.755,20.0,7.18,earthquake
+iscgem913701,1917-11-16 03:19:35.760000+00:00,1917-11-16,"Kermadec Islands, New Zealand",New Zealand,Oceania,-29.849,-177.839,35.0,7.5,earthquake
+iscgem913647,1917-08-31 11:36:24.560000+00:00,1917-08-31,"5 km SE of Castilla La Nueva, Colombia",Colombia,South America,3.792,-73.649,15.0,7.05,earthquake
+iscgem913586,1917-07-29 21:52:31.640000+00:00,1917-07-29,"93 km SW of Aitape, Papua New Guinea",Papua New Guinea,Oceania,-3.705,141.729,35.0,7.45,earthquake
+iscgem913585,1917-07-29 14:32:23.400000+00:00,1917-07-29,"169 km SE of Shizunai-furukawach?, Japan",Japan,Asia,41.208,143.747,15.0,7.11,earthquake
+iscgem913557,1917-07-04 00:38:27.730000+00:00,1917-07-04,"120 km ENE of Hirara, Japan",Japan,Asia,25.157,126.432,35.0,7.32,earthquake
+iscgem913548,1917-06-26 05:49:44.390000+00:00,1917-06-26,"120 km NNE of Hihifo, Tonga",Tonga,Oceania,-14.996,-173.27,15.0,8.0,earthquake
+iscgem913517,1917-05-31 08:47:32.040000+00:00,1917-05-31,"54 km SE of Sand Point, Alaska",Alaska,North America,54.995,-159.883,35.0,7.4,earthquake
+iscgem913497,1917-05-09 15:54:52.130000+00:00,1917-05-09,"261 km S of Merizo Village, Guam",Guam,Oceania,10.913,144.408,15.0,7.13,earthquake
+iscgem913483,1917-05-01 18:26:20.360000+00:00,1917-05-01,Kermadec Islands region,Kermadec Islands,Oceania,-31.195,-176.653,15.0,8.2,earthquake
+iscgem913414,1917-02-20 19:29:49.950000+00:00,1917-02-20,"84 km SW of Niquero, Cuba",Cuba,North America,19.496,-78.144,15.0,7.05,earthquake
+iscgem913404,1917-01-30 02:45:40.780000+00:00,1917-01-30,"43 km E of Ust’-Kamchatsk Staryy, Russia",Russia,Asia,56.154,163.174,20.0,7.98,earthquake
+iscgem913864,1916-10-31 15:31:01.100000+00:00,1916-10-31,"156 km SE of Severo-Kuril’sk, Russia",Russia,Asia,49.831,157.886,15.0,7.36,earthquake
+iscgem913818,1916-06-21 21:32:42.110000+00:00,1916-06-21,"48 km NNW of Suncho Corral, Argentina",Argentina,South America,-27.509,-63.541,600.0,7.08,earthquake
+iscgem913794,1916-04-24 08:02:10.940000+00:00,1916-04-24,"6 km WNW of Siquirres, Costa Rica",Costa Rica,North America,10.11,-83.564,15.0,7.14,earthquake
+iscgem913790,1916-04-21 11:31:20.170000+00:00,1916-04-21,"208 km SE of Katsuura, Japan",Japan,Asia,33.7,141.759,15.0,7.01,earthquake
+iscgem913783,1916-04-07 09:26:07.800000+00:00,1916-04-07,South Indian Ocean,Indian Ocean,Indian Ocean,-31.851,54.766,10.0,7.15,earthquake
+iscgem913768,1916-02-27 20:21:02.640000+00:00,1916-02-27,"204 km WSW of Sámara, Costa Rica",Costa Rica,North America,9.451,-87.336,15.0,7.26,earthquake
+iscgem913761,1916-02-06 21:51:35.740000+00:00,1916-02-06,"Rat Islands, Aleutian Islands, Alaska",Alaska,North America,50.785,179.032,15.0,7.05,earthquake
+iscgem913758,1916-02-01 07:36:31.910000+00:00,1916-02-01,"152 km ESE of Koshima, Japan",Japan,Asia,29.51,131.875,15.0,7.41,earthquake
+iscgem913750,1916-01-13 08:20:47.050000+00:00,1916-01-13,"36 km NNE of Nabire, Indonesia",Indonesia,Asia,-3.076,135.676,25.0,7.66,earthquake
+iscgem913746,1916-01-01 13:20:48.920000+00:00,1916-01-01,"60 km SE of Kokopo, Papua New Guinea",Papua New Guinea,Oceania,-4.756,152.626,35.0,7.96,earthquake
+iscgem913949,1915-11-01 07:23:53.600000+00:00,1915-11-01,"119 km SE of Kamaishi, Japan",Japan,Asia,38.66,143.004,30.0,7.6,earthquake
+iscgem913939,1915-09-07 01:20:49.100000+00:00,1915-09-07,"12 km NW of Chalatenango, El Salvador",El Salvador,North America,14.126,-89.007,15.0,7.7,earthquake
+iscgem913925,1915-07-31 01:31:31.990000+00:00,1915-07-31,"233 km SE of Atlasovo, Russia",Russia,Asia,54.05,162.089,20.0,7.34,earthquake
+iscgem913898,1915-05-01 05:00:10.260000+00:00,1915-05-01,"266 km SSW of Severo-Kuril’sk, Russia",Russia,Asia,48.392,155.0,30.0,7.83,earthquake
+iscgem913884,1915-02-28 18:59:11.100000+00:00,1915-02-28,"98 km SSW of Ishigaki, Japan",Japan,Asia,23.582,123.668,20.0,7.21,earthquake
+iscgem914014,1914-10-23 06:18:45.560000+00:00,1914-10-23,"273 km N of Tobelo, Indonesia",Indonesia,Asia,4.206,128.022,35.0,7.48,earthquake
+iscgem914008,1914-10-03 22:07:06.510000+00:00,1914-10-03,"15 km WSW of Burdur, Turkey",Turkey,Europe,37.666,30.125,15.0,7.06,earthquake
+iscgem914007,1914-10-03 17:22:09.940000+00:00,1914-10-03,"92 km E of Beauséjour, Guadeloupe",Guadeloupe,North America,16.275,-60.212,15.0,7.04,earthquake
+iscgem914001,1914-08-04 22:41:43.520000+00:00,1914-08-04,"160 km WNW of Hami, China",China,Asia,43.227,91.616,15.0,7.42,earthquake
+iscgem913990,1914-06-25 19:07:25.040000+00:00,1914-06-25,"73 km WSW of Bengkulu, Indonesia",Indonesia,Asia,-4.012,101.638,35.0,7.55,earthquake
+iscgem913984,1914-05-26 14:22:46.630000+00:00,1914-05-26,"130 km SE of Biak, Indonesia",Indonesia,Asia,-1.98,136.944,15.0,8.15,earthquake
+iscgem913978,1914-04-11 16:30:18.700000+00:00,1914-04-11,"128 km SE of Kirakira, Solomon Islands",Solomon Islands,Oceania,-11.3,162.725,15.0,7.29,earthquake
+iscgem913977,1914-03-30 00:41:04.400000+00:00,1914-03-30,"127 km SW of La Esperanza (El Zapotal), Mexico",Mexico,North America,14.608,-93.976,15.0,7.2,earthquake
+iscgem913972,1914-03-14 20:00:06.550000+00:00,1914-03-14,"13 km ESE of Yokote, Japan",Japan,Asia,39.284,140.698,15.0,7.04,earthquake
+iscgem913964,1914-01-30 03:36:06.550000+00:00,1914-01-30,"103 km NW of Constitución, Chile",Chile,South America,-34.763,-73.309,15.0,7.69,earthquake
+iscgem914088,1913-08-06 22:14:36.950000+00:00,1913-08-06,"37 km SSW of Atico, Peru",Peru,South America,-16.534,-73.738,25.0,7.73,earthquake
+iscgem914087,1913-08-01 17:11:03.940000+00:00,1913-08-01,"285 km S of Severo-Kuril’sk, Russia",Russia,Asia,48.108,156.059,15.0,7.03,earthquake
+iscgem914078,1913-06-26 04:57:18.290000+00:00,1913-06-26,"111 km SSE of Pangai, Tonga",Tonga,Oceania,-20.68,-173.808,25.0,7.79,earthquake
+ushis549,1913-06-22 13:49:52+00:00,1913-06-22,south of the Aleutian Islands,Aleutian Islands,North America,48.0,-178.0,20.0,7.2,earthquake
+iscgem914073,1913-05-30 11:47:12.250000+00:00,1913-05-30,"97 km SW of Rabaul, Papua New Guinea",Papua New Guinea,Oceania,-4.789,151.512,15.0,7.36,earthquake
+iscgem914068,1913-05-18 02:08:55.310000+00:00,1913-05-18,"176 km ESE of San Jose Village, Northern Mariana Islands",Mariana Islands,Oceania,14.257,147.09,15.0,7.04,earthquake
+iscgem914060,1913-04-25 17:56:33.930000+00:00,1913-04-25,"70 km ENE of La Paz, Philippines",Philippines,Asia,9.265,126.843,15.0,7.19,earthquake
+iscgem914053,1913-04-13 06:40:28.640000+00:00,1913-04-13,"29 km ESE of Takanabe, Japan",Japan,Asia,32.033,131.795,35.0,7.21,earthquake
+iscgem914043,1913-03-14 08:45:05.370000+00:00,1913-03-14,"47 km ESE of Kalbay, Philippines",Philippines,Asia,5.544,125.891,15.0,7.88,earthquake
+iscgem914029,1913-01-11 13:16:58.990000+00:00,1913-01-11,"156 km NW of Gorontalo, Indonesia",Indonesia,Asia,1.373,121.928,35.0,7.11,earthquake
+iscgem16958217,1912-11-07 07:40:21.500000+00:00,1912-11-07,"4 km ENE of Karluk, Alaska",Alaska,North America,57.592,-154.389,35.0,7.08,earthquake
+iscgem16958211,1912-09-29 20:51:23.750000+00:00,1912-09-29,"245 km E of Melekeok Village, Palau",Palau,Oceania,7.301,136.855,15.0,7.64,earthquake
+iscgem16958206,1912-08-17 19:11:56.320000+00:00,1912-08-17,"210 km SSE of Sarangani, Philippines",Philippines,Asia,3.568,125.973,35.0,7.49,earthquake
+iscgem16958205,1912-08-09 01:29:02.060000+00:00,1912-08-09,"25 km SE of Malkara, Turkey",Turkey,Europe,40.73,27.121,15.0,7.23,earthquake
+iscgem16958199,1912-07-07 07:57:39.750000+00:00,1912-07-07,"46 km ESE of Denali Park, Alaska",Alaska,North America,63.604,-148.03,10.0,7.27,earthquake
+ushis535,1912-07-07 07:57:00+00:00,1912-07-07,"26 km W of Paxson, Alaska",Alaska,North America,63.07,-146.14,20.0,7.2,earthquake
+iscgem16958191,1912-05-23 02:24:03.980000+00:00,1912-05-23,"32 km NW of Taunggyi, Myanmar",Myanmar,Asia,21.031,96.859,15.0,7.88,earthquake
+iscgem16958175,1911-12-16 19:14:27.110000+00:00,1911-12-16,"25 km S of Tetitlán, Mexico",Mexico,North America,16.932,-100.665,30.0,7.51,earthquake
+ushis523,1911-09-17 03:26:00+00:00,1911-09-17,"253 km WSW of Adak, Alaska",Alaska,North America,51.0,180.0,20.0,7.1,earthquake
+iscgem16958156,1911-08-16 22:41:17.170000+00:00,1911-08-16,"State of Yap, Federated States of Micronesia",Federated States of Micronesia,Oceania,7.273,137.021,15.0,7.83,earthquake
+iscgem16958154,1911-07-12 04:07:38.110000+00:00,1911-07-12,"74 km ENE of Barcelona, Philippines",Philippines,Asia,8.488,127.029,15.0,7.7,earthquake
+iscgem16958149,1911-06-15 14:25:58.280000+00:00,1911-06-15,"108 km NW of Naze, Japan",Japan,Asia,29.141,128.803,150.0,7.9,earthquake
+iscgem16958148,1911-06-07 11:02:49.320000+00:00,1911-06-07,"19 km W of Arteaga, Mexico",Mexico,North America,18.362,-102.471,30.0,7.6,earthquake
+iscgem16958143,1911-04-28 09:52:14.960000+00:00,1911-04-28,"128 km SSW of Tarauacá, Brazil",Brazil,South America,-9.207,-71.267,560.0,7.38,earthquake
+iscgem16958134,1911-02-18 18:41:09.430000+00:00,1911-02-18,"120 km W of Murghob, Tajikistan",Tajikistan,Asia,38.289,72.596,15.0,7.23,earthquake
+iscgem16958130,1911-01-03 23:25:49.300000+00:00,1911-01-03,"The 1911 Kemin Earthquake, Kyrgyzstan",Kyrgyzstan,Asia,42.919,76.808,20.0,8.02,earthquake
+iscgem16958127,1910-12-16 14:44:55.850000+00:00,1910-12-16,"101 km SE of Sarangani, Philippines",Philippines,Asia,4.668,126.017,15.0,7.61,earthquake
+iscgem16958123,1910-12-10 09:26:46.780000+00:00,1910-12-10,"47 km ESE of Kirakira, Solomon Islands",Solomon Islands,Oceania,-10.68,162.292,35.0,7.46,earthquake
+iscgem914215,1910-11-26 04:41:19.090000+00:00,1910-11-26,"56 km N of Port-Olry, Vanuatu",Vanuatu,Oceania,-14.532,167.057,35.0,7.18,earthquake
+iscgem914214,1910-11-15 14:21:32.450000+00:00,1910-11-15,South Sandwich Islands region,South Sandwich Islands,Antarctica,-59.11,-23.942,15.0,7.22,earthquake
+iscgem16958113,1910-11-09 06:01:59.950000+00:00,1910-11-09,"47 km WSW of Norsup, Vanuatu",Vanuatu,Oceania,-16.273,167.013,20.0,7.41,earthquake
+iscgem16958107,1910-09-09 01:13:16.980000+00:00,1910-09-09,"101 km S of Adak, Alaska",Alaska,North America,50.978,-176.351,35.0,7.02,earthquake
+iscgem16958094,1910-06-29 10:45:14.860000+00:00,1910-06-29,"the Pacific Ocean, southeast of New Zealand and east of Easter Island",Pacific Ocean,Pacific Ocean,-30.907,-177.099,35.0,7.1,earthquake
+iscgem16958089,1910-06-16 06:30:42.940000+00:00,1910-06-16,"28 km ESE of Isangel, Vanuatu",Vanuatu,Oceania,-19.601,169.547,100.0,7.84,earthquake
+iscgem16958084,1910-05-22 06:24:02.100000+00:00,1910-05-22,"268 km SE of Kuril’sk, Russia",Russia,Asia,43.418,150.109,15.0,7.15,earthquake
+iscgem16958079,1910-04-12 00:22:24.800000+00:00,1910-04-12,"163 km NW of Hirara, Japan",Japan,Asia,25.967,124.304,235.0,8.1,earthquake
+iscgemsup16958078,1910-03-31 18:23:02.010000+00:00,1910-03-31,Drake Passage,Drake Passage,Antarctica,-58.317,-65.477,10.0,7.11,earthquake
+iscgem16958060,1909-12-09 23:28:45.020000+00:00,1909-12-09,"98 km SSE of Inarajan Village, Guam",Guam,Oceania,12.408,144.951,15.0,7.01,earthquake
+iscgemsup16958062,1909-12-09 15:34:08.240000+00:00,1909-12-09,"84 km SE of Honiara, Solomon Islands",Solomon Islands,Oceania,-9.986,160.485,35.0,7.04,earthquake
+iscgem16958056,1909-10-31 10:23:21.770000+00:00,1909-10-31,"66 km SSW of Nuxco, Mexico",Mexico,North America,16.643,-100.966,10.0,7.07,earthquake
+iscgem16958054,1909-10-20 23:41:39.660000+00:00,1909-10-20,"58 km SW of Bhag, Pakistan",Pakistan,Asia,28.668,67.404,15.0,7.16,earthquake
+iscgem16958045,1909-07-30 10:51:51.970000+00:00,1909-07-30,"27 km SSE of San Andrés Playa Encantada (El Podrido), Mexico",Mexico,North America,16.463,-99.529,20.0,7.5,earthquake
+iscgem16958043,1909-07-07 21:37:51.420000+00:00,1909-07-07,"52 km ESE of Farkh?r, Afghanistan",Afghanistan,Asia,36.324,70.357,200.0,7.7,earthquake
+iscgem16958039,1909-06-08 05:46:37.330000+00:00,1909-06-08,"50 km WNW of Diego de Almagro, Chile",Chile,South America,-26.154,-70.502,35.0,7.48,earthquake
+iscgem16958038,1909-06-03 18:40:43.650000+00:00,1909-06-03,"76 km SSW of Sungai Penuh, Indonesia",Indonesia,Asia,-2.713,101.188,35.0,7.58,earthquake
+iscgem16958028,1909-04-27 12:42:53.920000+00:00,1909-04-27,"65 km ENE of Wewak, Papua New Guinea",Papua New Guinea,Oceania,-3.315,144.171,15.0,7.06,earthquake
+iscgemsup16958020,1909-04-10 19:34:51.730000+00:00,1909-04-10,"167 km WSW of Attu Station, Alaska",Alaska,North America,52.244,170.919,35.0,7.01,earthquake
+iscgem16958018,1909-03-13 14:28:59.850000+00:00,1909-03-13,"150 km ESE of Hasaki, Japan",Japan,Asia,35.267,142.387,15.0,7.11,earthquake
+iscgem609601749,1909-03-12 23:18:38.820000+00:00,1909-03-12,"82 km ENE of Hasaki, Japan",Japan,Asia,35.897,141.719,15.0,7.03,earthquake
+iscgem16958011,1909-01-23 02:48:29.100000+00:00,1909-01-23,"43 km NW of Del?j?n, Iran",Iran,Asia,34.306,50.396,15.0,7.3,earthquake
+iscgem16958009,1908-12-28 04:20:27.550000+00:00,1908-12-28,"7 km SE of Alì Terme, Italy",Italy,Europe,37.965,15.487,15.0,7.09,earthquake
+iscgem16958007,1908-12-12 12:54:55.960000+00:00,1908-12-12,"64 km NNE of Sarupathar, India",India,Asia,26.72,97.117,15.0,7.18,earthquake
+iscgem16958006,1908-11-06 07:09:30.430000+00:00,1908-11-06,"159 km ENE of Kuril’sk, Russia",Russia,Asia,45.599,149.844,15.0,7.23,earthquake
+iscgem16957997,1908-08-20 09:53:25.320000+00:00,1908-08-20,"246 km NNW of Rikaze, China",China,Asia,31.209,87.679,15.0,7.04,earthquake
+iscgemsup16957996,1908-08-17 10:38:54.490000+00:00,1908-08-17,Falkland Islands region,Falkland Islands,South America,-53.96,-56.837,10.0,7.42,earthquake
+iscgem16957992,1908-05-05 06:17:47.170000+00:00,1908-05-05,"108 km SE of Tondano, Indonesia",Indonesia,Asia,0.513,125.487,35.0,7.26,earthquake
+iscgem16957988,1908-03-27 03:47:23.710000+00:00,1908-03-27,"15 km SSW of Colonia Luces en el Mar, Mexico",Mexico,North America,16.79,-100.054,25.0,7.18,earthquake
+iscgem16957987,1908-03-26 23:03:30.300000+00:00,1908-03-26,"6 km S of Copala, Mexico",Mexico,North America,16.546,-98.986,25.0,7.46,earthquake
+iscgemsup16957985,1908-03-05 02:17:38.990000+00:00,1908-03-05,"5 km N of Capoocan, Philippines",Philippines,Asia,11.343,124.647,15.0,7.11,earthquake
+iscgem16957982,1908-01-11 03:34:36.180000+00:00,1908-01-11,"108 km E of Hengchun, Taiwan",Taiwan,Asia,22.074,121.788,15.0,7.22,earthquake
+iscgem16957981,1907-12-30 05:26:55.740000+00:00,1907-12-30,"92 km SW of San Juan del Sur, Nicaragua",Nicaragua,North America,10.679,-86.49,35.0,7.29,earthquake
+iscgem16957975,1907-10-21 04:23:54.270000+00:00,1907-10-21,"45 km SE of Panjakent, Tajikistan",Tajikistan,Asia,39.216,67.999,20.0,7.44,earthquake
+iscgem914271,1907-10-16 13:57:22.760000+00:00,1907-10-16,"69 km SSW of La Libertad, Mexico",Mexico,North America,29.379,-113.059,15.0,7.44,earthquake
+iscgem16957972,1907-10-11 14:27:45.660000+00:00,1907-10-11,"157 km E of Lakatoro, Vanuatu",Vanuatu,Oceania,-16.149,168.892,15.0,7.1,earthquake
+iscgem16957971,1907-09-02 16:01:30.840000+00:00,1907-09-02,"151 km S of Attu Station, Alaska",Alaska,North America,51.505,172.814,15.0,7.37,earthquake
+ushis467,1907-09-02 16:01:00+00:00,1907-09-02,"235 km W of Attu Station, Alaska",Alaska,North America,52.59,169.73,20.0,7.4,earthquake
+iscgem16957968,1907-07-20 13:38:22.960000+00:00,1907-07-20,"10 km W of Bigaan, Philippines",Philippines,Asia,8.316,126.188,35.0,7.06,earthquake
+iscgem610548690,1907-07-01 13:08:48.750000+00:00,1907-07-01,"116 km SW of Corinto, Nicaragua",Nicaragua,North America,11.663,-87.847,15.0,7.17,earthquake
+iscgem914265,1907-05-25 14:02:06.980000+00:00,1907-05-25,Sea of Okhotsk,Sea of Okhotsk,Asia,51.086,150.453,550.0,7.65,earthquake
+iscgemsup16957957,1907-05-07 10:16:49.020000+00:00,1907-05-07,"49 km NNE of Angoram, Papua New Guinea",Papua New Guinea,Oceania,-3.648,144.242,30.0,7.26,earthquake
+iscgemsup16957952,1907-04-18 23:52:34.580000+00:00,1907-04-18,"70 km NE of Sabang Indan, Philippines",Philippines,Asia,14.67,123.382,15.0,7.44,earthquake
+iscgem16957953,1907-04-18 20:59:53.520000+00:00,1907-04-18,"7 km N of Luklukan, Philippines",Philippines,Asia,14.39,122.72,15.0,7.52,earthquake
+iscgem16957951,1907-04-15 06:08:25.350000+00:00,1907-04-15,"2 km NW of Teojomulco, Mexico",Mexico,North America,16.606,-97.246,30.0,7.8,earthquake
+iscgem16957943,1907-01-04 05:19:13.180000+00:00,1907-01-04,"97 km WNW of Sinabang, Indonesia",Indonesia,Asia,2.681,95.53,25.0,8.2,earthquake
+iscgem16957942,1907-01-02 11:56:08.850000+00:00,1907-01-02,"85 km ESE of Neiafu, Tonga",Tonga,Oceania,-19.071,-173.306,30.0,7.3,earthquake
+ushis464,1906-12-23 17:22:00+00:00,1906-12-23,"19 km ESE of Akhiok, Alaska",Alaska,North America,56.85,-153.9,20.0,7.3,earthquake
+iscgem16957938,1906-12-23 17:21:32.530000+00:00,1906-12-23,"153 km SE of Halibut Cove, Alaska",Alaska,North America,58.556,-149.472,15.0,7.03,earthquake
+iscgem16957935,1906-12-22 18:21:12.800000+00:00,1906-12-22,"95 km WSW of Shihezi, China",China,Asia,43.988,84.93,15.0,7.95,earthquake
+iscgem16957934,1906-12-19 01:14:38.660000+00:00,1906-12-19,"108 km SE of Neiafu, Tonga",Tonga,Oceania,-19.229,-173.156,35.0,7.23,earthquake
+iscgem16957931,1906-11-19 07:18:24.330000+00:00,1906-11-19,northwest of Australia,Australia,Oceania,-21.244,108.498,10.0,7.37,earthquake
+iscgem16957930,1906-11-14 17:37:28.860000+00:00,1906-11-14,southeast of the Loyalty Islands,Loyalty Islands,Oceania,-22.539,171.614,35.0,7.21,earthquake
+iscgem16957929,1906-10-24 14:43:18.520000+00:00,1906-10-24,"24 km SSW of Tirmiz, Uzbekistan",Uzbekistan,Asia,37.032,67.132,35.0,7.1,earthquake
+iscgem16957924,1906-10-02 01:51:51.820000+00:00,1906-10-02,"38 km NW of Finschhafen, Papua New Guinea",Papua New Guinea,Oceania,-6.321,147.589,35.0,7.63,earthquake
+iscgem16957920,1906-09-14 16:04:43.670000+00:00,1906-09-14,"57 km NNE of Lae, Papua New Guinea",Papua New Guinea,Oceania,-6.252,147.216,35.0,8.0,earthquake
+iscgem16957919,1906-09-07 18:52:28.120000+00:00,1906-09-07,"190 km SE of Hasaki, Japan",Japan,Asia,34.745,142.542,15.0,7.29,earthquake
+iscgem16957916,1906-08-26 06:01:09.800000+00:00,1906-08-26,"132 km NNE of Wewak, Papua New Guinea",Papua New Guinea,Oceania,-2.489,144.187,15.0,7.13,earthquake
+iscgemsup16957911,1906-08-17 00:40:04.250000+00:00,1906-08-17,"16 km WNW of La Ligua, Chile",Chile,South America,-32.4,-71.4,35.0,8.2,earthquake
+iscgem16957912,1906-08-17 00:11:10.500000+00:00,1906-08-17,"Rat Islands, Aleutian Islands, Alaska",Alaska,North America,51.853,178.18,110.0,8.3,earthquake
+iscgem16957908,1906-06-19 11:22:36.500000+00:00,1906-06-19,"71 km NE of San Vicente, Philippines",Philippines,Asia,19.008,122.582,15.0,7.09,earthquake
+iscgem16957907,1906-06-01 04:30:50.580000+00:00,1906-06-01,"230 km W of Abepura, Indonesia",Indonesia,Asia,-2.495,138.56,35.0,7.84,earthquake
+official19060418131226300_12,1906-04-18 13:12:26.300000+00:00,1906-04-18,The 1906 San Francisco Earthquake,United States,North America,37.75,-122.55,11.0,7.9,earthquake
+iscgemsup610548636,1906-04-14 03:57:36.430000+00:00,1906-04-14,southeast of the Loyalty Islands,Loyalty Islands,Oceania,-22.291,171.324,35.0,7.12,earthquake
+iscgem16957902,1906-04-10 21:22:53.950000+00:00,1906-04-10,"61 km NNW of La Paz, Mexico",Mexico,North America,24.684,-110.436,15.0,7.29,earthquake
+iscgem16957885,1906-02-19 01:59:55.630000+00:00,1906-02-19,"41 km ESE of Malango, Solomon Islands",Solomon Islands,Oceania,-9.899,160.04,15.0,7.3,earthquake
+official19060131153610_30,1906-01-31 15:36:10+00:00,1906-01-31,1906 Ecuador-Colombia Earthquake,Ecuador,South America,0.955,-79.369,20.0,8.8,earthquake
+iscgem16957883,1906-01-21 13:49:33.570000+00:00,1906-01-21,"50 km SSW of ?yama, Japan",Japan,Asia,34.175,138.025,300.0,7.4,earthquake
+iscgem16957878,1905-11-08 22:06:11.840000+00:00,1905-11-08,Aegean Sea,Aegean Sea,Europe,40.092,24.627,15.0,7.24,earthquake
+iscgem16957874,1905-09-29 11:52:08.890000+00:00,1905-09-29,"58 km ENE of Lospalos, Timor Leste",Timor Leste,Asia,-8.277,127.465,35.0,7.16,earthquake
+iscgem16957872,1905-09-15 06:02:20.960000+00:00,1905-09-15,"off the east coast of the Kamchatka Peninsula, Russia",Russia,Asia,55.751,163.952,15.0,7.84,earthquake
+ushis441,1905-09-15 06:02:00+00:00,1905-09-15,"188 km E of Atka, Alaska",Alaska,North America,52.06,-171.45,20.0,7.4,earthquake
+iscgem16957871,1905-09-08 01:43:02.410000+00:00,1905-09-08,"5 km W of San Nicolò, Italy",Italy,Europe,38.636,15.784,15.0,7.19,earthquake
+iscgem16957865,1905-07-23 02:46:24.010000+00:00,1905-07-23,"121 km WNW of Tosontsengel, Mongolia",Mongolia,Asia,49.292,96.843,15.0,8.33,earthquake
+iscgem16957859,1905-07-09 09:40:39.790000+00:00,1905-07-09,"106 km N of Tosontsengel, Mongolia",Mongolia,Asia,49.709,98.483,15.0,7.95,earthquake
+iscgem914292,1905-07-06 16:20:46.930000+00:00,1905-07-06,"217 km ESE of Kamaishi, Japan",Japan,Asia,38.417,144.119,15.0,7.67,earthquake
+iscgem16957851,1905-05-18 13:45:27.220000+00:00,1905-05-18,"99 km WNW of Kavieng, Papua New Guinea",Papua New Guinea,Oceania,-2.282,149.949,15.0,7.15,earthquake
+iscgem16957848,1905-04-04 00:49:59.230000+00:00,1905-04-04,"10 km WNW of Kyelang, India",India,Asia,32.597,76.916,20.0,7.9,earthquake
+iscgem16957847,1905-03-22 03:38:44.300000+00:00,1905-03-22,"238 km WSW of Adak, Alaska",Alaska,North America,51.145,-179.859,35.0,7.18,earthquake
+iscgemsup16957844,1905-03-18 23:57:40.240000+00:00,1905-03-18,south of Tonga,Tonga,Oceania,-24.363,-173.399,15.0,7.36,earthquake
+iscgem16957840,1905-03-04 23:17:22.030000+00:00,1905-03-04,"152 km NW of Kimbe, Papua New Guinea",Papua New Guinea,Oceania,-4.635,149.105,15.0,7.01,earthquake
+iscgem16957838,1905-02-19 04:34:55.800000+00:00,1905-02-19,"207 km E of Sola, Vanuatu",Vanuatu,Oceania,-14.123,169.457,15.0,7.33,earthquake
+iscgem16957836,1905-02-17 11:41:07.820000+00:00,1905-02-17,"62 km S of Bhamo, Myanmar",Myanmar,Asia,23.689,97.17,15.0,7.26,earthquake
+iscgem16957835,1905-02-14 08:46:34.490000+00:00,1905-02-14,"5 km WNW of Adak, Alaska",Alaska,North America,51.89,-176.702,35.0,7.59,earthquake
+ushis433,1905-02-14 08:46:00+00:00,1905-02-14,"184 km SW of Adak, Alaska",Alaska,North America,50.73,-178.55,20.0,7.3,earthquake
+iscgemsup16957833,1905-01-13 13:20:39.320000+00:00,1905-01-13,"177 km SW of Kavieng, Papua New Guinea",Papua New Guinea,Oceania,-3.586,149.551,15.0,7.42,earthquake
+iscgem16957832,1904-12-20 05:44:20.440000+00:00,1904-12-20,"53 km SSE of Quepos, Costa Rica",Costa Rica,North America,8.962,-84.042,10.0,7.29,earthquake
+iscgem16957826,1904-08-30 11:43:20.850000+00:00,1904-08-30,"150 km WNW of Kangding, China",China,Asia,30.684,100.608,15.0,7.09,earthquake
+ushis431,1904-08-27 21:56:00+00:00,1904-08-27,"21 km S of Ester, Alaska",Alaska,North America,64.66,-148.08,20.0,7.3,earthquake
+iscgem16957819,1904-06-25 21:00:38.720000+00:00,1904-06-25,"115 km ESE of Petropavlovsk-Kamchatsky, Russia",Russia,Asia,52.763,160.277,30.0,7.7,earthquake
+iscgem16957820,1904-06-25 14:45:39.140000+00:00,1904-06-25,"274 km SE of Petropavlovsk-Kamchatsky, Russia",Russia,Asia,51.424,161.638,15.0,7.5,earthquake
+iscgem16957813,1904-04-04 10:26:00.880000+00:00,1904-04-04,"7 km SE of Stara Kresna, Bulgaria",Bulgaria,Europe,41.758,23.249,15.0,7.02,earthquake
+ushis399,1901-12-31 09:02:30+00:00,1901-12-31,"221 km SW of Nikolski, Alaska",Alaska,North America,51.45,-171.02,20.0,7.1,earthquake
+ushis391,1900-10-09 12:25:00+00:00,1900-10-09,"16 km SW of Old Harbor, Alaska",Alaska,North America,57.09,-153.48,20.0,7.86,earthquake
